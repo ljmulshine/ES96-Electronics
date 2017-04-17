@@ -1,0 +1,204 @@
+[2017.04.17 10:52:12] [0000m.00s.026ms] [0] WELCOME
+[2017.04.17 10:52:12] [0000m.00s.027ms] [1] iCDB Server ver.2.201, lYZcYElozbUGw/8yVGHxgA, build:5682207 created 2016-11-13 13:59:10, sources stamp:lYZcYElozbUGw/8yVGHxgA
+[2017.04.17 10:52:12] [0000m.00s.027ms] [1] Copyright 2016 Mentor Graphics Corporation.  All Rights Reserved.
+[2017.04.17 10:52:12] [0000m.00s.027ms] [1] Base flow version [VX.2.1]
+[2017.04.17 10:52:12] [0000m.00s.027ms] [1] Install Id [1468892], Flow Id [PADS VX.2.1], Full Flow Name [PADS VX.2.1], Exact Access Date [2016/11/01]
+[2017.04.17 10:52:12] [0000m.00s.034ms] [1] Machine [DESKTOP-44HKI68]  IP [127.0.0.1,192.168.22.132]  User [Liam James Mulshine]  PID [1064]
+[2017.04.17 10:52:12] [0000m.00s.034ms] [1] Operating system [Microsoft , 64-bit (build 9200)]
+[2017.04.17 10:52:12] [0000m.00s.034ms] [1] Current working dir [C:\PADSViewer Projects\DxProjects\Thermistor_Board]
+[2017.04.17 10:52:12] [0000m.00s.034ms] [1] PATH [C:\MentorGraphics\PADSVX.2.1\SDD_HOME\common\win32\bin;C:\MentorGraphics\PADSVX.2.1\SDD_HOME\common\win32\lib;C:\MentorGraphics\PADSVX.2.1\MGC_HOME.ixn\bin;C:\MentorGraphics\PADSVX.2.1\MGC_HOME.ixn\lib;C:\MentorGraphics\PADSVX.2.1\SDD_HOME\wv\win32\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Users\Liam James Mulshine\AppData\Local\Microsoft\WindowsApps;;C:\MentorGraphics\PADSVX.2.1\SDD_HOME\CAMCAD]
+[2017.04.17 10:52:12] [0000m.00s.034ms] [1] SDD_HOME [C:\MentorGraphics\PADSVX.2.1\SDD_HOME] on file system [NTFS]
+[2017.04.17 10:52:12] [0000m.00s.034ms] [1] SDD_PLATFORM [win32]
+[2017.04.17 10:52:12] [0000m.00s.034ms] [1] WDIR [C:\PADSViewer Projects;C:\MentorGraphics\PADSVX.2.1\SDD_HOME\standard;]
+[2017.04.17 10:52:12] [0000m.00s.034ms] [1] Local iCDB working dir [C:\PADSViewer Projects\iCDB] on file system [NTFS]
+[2017.04.17 10:52:12] [0000m.00s.034ms] [2] S: Loading config files
+[2017.04.17 10:52:12] [0000m.00s.037ms] [1] Config file [C:\PADSViewer Projects\DxProjects\Thermistor_Board\database\cdbsvr\Server.cfg] not found
+[2017.04.17 10:52:12] [0000m.00s.039ms] [3] S: Config loaded
+[2017.04.17 10:52:12] [0000m.00s.040ms] [0] S: Project path [C:\PADSViewer Projects\DxProjects\Thermistor_Board\database] on file system [NTFS]
+[2017.04.17 10:52:12] [0000m.00s.040ms] [0] S: Project file (.prj) path [C:\PADSViewer Projects\DxProjects\Thermistor_Board\Thermistor_Board.prj] on file system [NTFS]
+[2017.04.17 10:52:12] [0000m.00s.040ms] [1] S: WARNING: Database auto-repair support DISABLED
+[2017.04.17 10:52:12] [0000m.00s.040ms] [0] S: Single-user mode (auto)
+[2017.04.17 10:52:12] [0000m.00s.040ms] [0] S: Event polling mode autodetection
+[2017.04.17 10:52:12] [0000m.00s.041ms] [0] S: Started up automatically by iCDB Client: DESKTOP-44HKI68:Liam James Mulshine:6352
+[2017.04.17 10:52:12] [0000m.00s.041ms] [0] S: Auto close mode
+[2017.04.17 10:52:12] [0000m.00s.041ms] [0] S: Database ID [e684-b698-bb6f-0d65-a7fc-2f8f-7fc2-f850-13e2-3342-23c1-1f98]
+[2017.04.17 10:52:12] [0000m.00s.041ms] [0] PathTranslator: BEGIN dumping
+[2017.04.17 10:52:12] [0000m.00s.041ms] [0] PathTranslator: Local -> global path prefix list
+[2017.04.17 10:52:12] [0000m.00s.041ms] [0] PathTranslator: Global -> local path prefix list
+[2017.04.17 10:52:12] [0000m.00s.041ms] [0] PathTranslator: END dumping
+[2017.04.17 10:52:12] [0000m.00s.041ms] [0] S: START
+[2017.04.17 10:52:12] [0000m.00s.042ms] [0] S: Server startup lock file created
+[2017.04.17 10:52:12] [0000m.00s.042ms] [0] S: Listening for client connections on port [10001]
+[2017.04.17 10:52:12] [0000m.00s.043ms] [0] S: Server network ID [DESKTOP-44HKI68:192.168.22.132,DESKTOP-44HKI68:10001]
+[2017.04.17 10:52:12] [0000m.00s.043ms] [0] S: Server GUID [d3ba-522e-d809-4fd0-c96d-4f81-a6d4-f850-55f2-3342-23c1-1f98]
+[2017.04.17 10:52:12] [0000m.00s.043ms] [0] S: Project GUID [e684-b698-bb6f-0d65-a7fc-2f8f-7fc2-f850-13e2-3342-23c1-1f98]
+[2017.04.17 10:52:12] [0000m.00s.050ms] [0] S: Wrote data to server address file
+[2017.04.17 10:52:12] [0000m.00s.050ms] [0] S: Server startup lock file removed
+[2017.04.17 10:52:12] [0000m.00s.051ms] [1] ProjectBackupManager: Setting project file (.prj) path: [C:\PADSViewer Projects\DxProjects\Thermistor_Board\Thermistor_Board.prj]
+[2017.04.17 10:52:12] [0000m.00s.140ms] [0] S: Plugins loaded: [PIM] [ENetGen70] 
+[2017.04.17 10:52:12] [0000m.00s.141ms] [0] S: Local disc access time: 42 us
+[2017.04.17 10:52:12] [0000m.00s.141ms] [0] S: File server access time: 41 us
+[2017.04.17 10:52:12] [0000m.00s.142ms] [0] Single file [C:\PADSViewer Projects\DxProjects\Thermistor_Board\database\icdb.dat] size [55088 (53.8 kB)]
+[2017.04.17 10:52:12] [0000m.00s.142ms] [1] Single file [C:\PADSViewer Projects\DxProjects\Thermistor_Board\database\icdb.dat] opened in read-write mode
+[2017.04.17 10:52:12] [0000m.00s.142ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2017.04.17 10:52:12] [0000m.00s.142ms] [0] Database GUARD OK: [55088]
+[2017.04.17 10:52:12] [0000m.00s.143ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2017.04.17 10:52:12] [0000m.00s.144ms] [0] Database GUARD OK: [55088]
+[2017.04.17 10:52:12] [0000m.00s.144ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2017.04.17 10:52:12] [0000m.00s.144ms] [0] Database GUARD OK: [55088]
+[2017.04.17 10:52:12] [0000m.00s.144ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2017.04.17 10:52:12] [0000m.00s.144ms] [0] Database GUARD OK: [55088]
+[2017.04.17 10:52:12] [0000m.00s.144ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2017.04.17 10:52:12] [0000m.00s.144ms] [0] Database GUARD OK: [55088]
+[2017.04.17 10:52:12] [0000m.00s.144ms] [0] SingleFile: [9164-196a-5ef3-156e] SFI version check [1009] [1009]
+[2017.04.17 10:52:12] [0000m.00s.146ms] [0] SingleFile: [9164-196a-5ef3-156e] Database SFI header has been read in [1ms 693us]
+[2017.04.17 10:52:12] [0000m.00s.151ms] [0] iCDB Server PI: Server & plugin session [14]
+[2017.04.17 10:52:12] [0000m.00s.151ms] [0] iCDB Server PI: Opening database [C:\PADSViewer Projects\DxProjects\Thermistor_Board\database]
+[2017.04.17 10:52:12] [0000m.00s.151ms] [0] iCDB Server PI: Database [C:\PADSViewer Projects\DxProjects\Thermistor_Board\database] opened
+[2017.04.17 10:52:12] [0000m.00s.168ms] [0] iCDB Database: Checking existence of constraint definitions
+[2017.04.17 10:52:12] [0000m.00s.168ms] [0] iCDB Database: Checking constraint definitions version
+[2017.04.17 10:52:12] [0000m.00s.215ms] [1] iCDB Database: Constraint definitions version [ce_ee.cns=7.10.56] up to date
+[2017.04.17 10:52:12] [0000m.00s.223ms] [0] iCDB Server PI: Initializing plugins
+[2017.04.17 10:52:12] [0000m.00s.224ms] [0] iCDB Server PI: Plugins initialized
+[2017.04.17 10:52:12] [0000m.00s.224ms] [0] S: iCDB database loaded
+[2017.04.17 10:52:12] [0000m.00s.225ms] [0] S: Starting threads
+[2017.04.17 10:52:12] [0000m.00s.226ms] [0] BT: Listening for broadcast messages on port [10000]
+[2017.04.17 10:52:12] [0000m.00s.229ms] [0] IT: Session [15] for host [DESKTOP-44HKI68] user [Liam James Mulshine] with process ID [6352] created
+[2017.04.17 10:52:12] [0000m.00s.229ms] [1] CMT: There are [1] clients now: 15
+[2017.04.17 10:52:12] [0000m.00s.236ms] [1] SC[15]: Registered sub-client [DxD] with ID [1] for session ID [15] host [DESKTOP-44HKI68] user [Liam James Mulshine] process ID [6352]
+[2017.04.17 10:52:12] [0000m.00s.241ms] [0] MWT: WindowProc: WM_NCCREATE
+[2017.04.17 10:52:12] [0000m.00s.254ms] [1] SC[15]: Registered sub-client [TransactionRollbackSubClient] with ID [2] for session ID [15] host [DESKTOP-44HKI68] user [Liam James Mulshine] process ID [6352]
+[2017.04.17 10:52:12] [0000m.00s.257ms] [1] SC[15]: Registered sub-client [xprob] with ID [3] for session ID [15] host [DESKTOP-44HKI68] user [Liam James Mulshine] process ID [6352]
+[2017.04.17 10:52:13] [0000m.00s.462ms] [1] SC[15]: Registered sub-client [SymbolEditor] with ID [4] for session ID [15] host [DESKTOP-44HKI68] user [Liam James Mulshine] process ID [6352]
+[2017.04.17 10:52:13] [0000m.00s.468ms] [1] SC[15]: Registered sub-client [SelectionHolder] with ID [5] for session ID [15] host [DESKTOP-44HKI68] user [Liam James Mulshine] process ID [6352]
+[2017.04.17 10:52:13] [0000m.00s.508ms] [1] SC[15]: Registered sub-client [SystemDesignDll] with ID [6] for session ID [15] host [DESKTOP-44HKI68] user [Liam James Mulshine] process ID [6352]
+[2017.04.17 10:52:13] [0000m.00s.509ms] [1] SC[15]: UnRegistered sub-client [SystemDesignDll] with ID [6] for session ID [15] host [DESKTOP-44HKI68] user [Liam James Mulshine] process ID [6352]
+[2017.04.17 10:52:13] [0000m.00s.512ms] [1] SC[15]: Registered sub-client [SystemDesignDll] with ID [7] for session ID [15] host [DESKTOP-44HKI68] user [Liam James Mulshine] process ID [6352]
+[2017.04.17 10:52:13] [0000m.01s.048ms] [1] SC[15]: Registered sub-client [DesignSearcher2] with ID [8] for session ID [15] host [DESKTOP-44HKI68] user [Liam James Mulshine] process ID [6352]
+[2017.04.17 10:52:13] [0000m.01s.057ms] [1] SC[15]: Registered sub-client [HdlProject] with ID [9] for session ID [15] host [DESKTOP-44HKI68] user [Liam James Mulshine] process ID [6352]
+[2017.04.17 10:52:13] [0000m.01s.065ms] [1] SC[15]: Registered sub-client [Navigator] with ID [10] for session ID [15] host [DESKTOP-44HKI68] user [Liam James Mulshine] process ID [6352]
+[2017.04.17 10:52:13] [0000m.01s.073ms] [1] SC[15]: Registered sub-client [OutputWindow] with ID [11] for session ID [15] host [DESKTOP-44HKI68] user [Liam James Mulshine] process ID [6352]
+[2017.04.17 10:52:13] [0000m.01s.076ms] [1] SC[15]: Registered sub-client [PlaceDevice] with ID [12] for session ID [15] host [DESKTOP-44HKI68] user [Liam James Mulshine] process ID [6352]
+[2017.04.17 10:52:13] [0000m.01s.202ms] [1] SC[15]: Registered sub-client [LocalSymbolsDataProvider] with ID [13] for session ID [15] host [DESKTOP-44HKI68] user [Liam James Mulshine] process ID [6352]
+[2017.04.17 10:52:13] [0000m.01s.207ms] [1] SC[15]: Registered sub-client [FFSearch_Controller_10] with ID [14] for session ID [15] host [DESKTOP-44HKI68] user [Liam James Mulshine] process ID [6352]
+[2017.04.17 10:52:13] [0000m.01s.211ms] [1] SC[15]: Registered sub-client [FFSearch_Controller_11] with ID [15] for session ID [15] host [DESKTOP-44HKI68] user [Liam James Mulshine] process ID [6352]
+[2017.04.17 10:52:13] [0000m.01s.215ms] [1] SC[15]: Registered sub-client [FFSearch_Controller_12] with ID [16] for session ID [15] host [DESKTOP-44HKI68] user [Liam James Mulshine] process ID [6352]
+[2017.04.17 10:52:13] [0000m.01s.219ms] [1] SC[15]: Registered sub-client [FFSearch_Controller_13] with ID [17] for session ID [15] host [DESKTOP-44HKI68] user [Liam James Mulshine] process ID [6352]
+[2017.04.17 10:52:13] [0000m.01s.226ms] [1] SC[15]: Registered sub-client [FFSearch_Controller_14] with ID [18] for session ID [15] host [DESKTOP-44HKI68] user [Liam James Mulshine] process ID [6352]
+[2017.04.17 10:52:13] [0000m.01s.231ms] [1] SC[15]: Registered sub-client [FFSearch_Controller_15] with ID [19] for session ID [15] host [DESKTOP-44HKI68] user [Liam James Mulshine] process ID [6352]
+[2017.04.17 10:52:13] [0000m.01s.236ms] [1] SC[15]: Registered sub-client [FFSearch_Controller_16] with ID [20] for session ID [15] host [DESKTOP-44HKI68] user [Liam James Mulshine] process ID [6352]
+[2017.04.17 10:52:13] [0000m.01s.240ms] [1] SC[15]: Registered sub-client [FFSearch_Controller_17] with ID [21] for session ID [15] host [DESKTOP-44HKI68] user [Liam James Mulshine] process ID [6352]
+[2017.04.17 10:52:13] [0000m.01s.245ms] [1] SC[15]: Registered sub-client [FFSearch_Controller_18] with ID [22] for session ID [15] host [DESKTOP-44HKI68] user [Liam James Mulshine] process ID [6352]
+[2017.04.17 10:52:13] [0000m.01s.250ms] [1] SC[15]: Registered sub-client [FFSearch_Controller_19] with ID [23] for session ID [15] host [DESKTOP-44HKI68] user [Liam James Mulshine] process ID [6352]
+[2017.04.17 10:52:13] [0000m.01s.254ms] [1] SC[15]: Registered sub-client [SAE] with ID [24] for session ID [15] host [DESKTOP-44HKI68] user [Liam James Mulshine] process ID [6352]
+[2017.04.17 10:52:13] [0000m.01s.274ms] [1] SC[15]: Registered sub-client [DxConstraints] with ID [25] for session ID [15] host [DESKTOP-44HKI68] user [Liam James Mulshine] process ID [6352]
+[2017.04.17 10:52:13] [0000m.01s.278ms] [1] SC[15]: Registered sub-client [CCZAddin] with ID [26] for session ID [15] host [DESKTOP-44HKI68] user [Liam James Mulshine] process ID [6352]
+[2017.04.17 10:52:13] [0000m.01s.283ms] [1] SC[15]: Registered sub-client [DxThumbnails] with ID [27] for session ID [15] host [DESKTOP-44HKI68] user [Liam James Mulshine] process ID [6352]
+[2017.04.17 10:52:13] [0000m.01s.287ms] [1] SC[15]: Registered sub-client [MyParts] with ID [28] for session ID [15] host [DESKTOP-44HKI68] user [Liam James Mulshine] process ID [6352]
+[2017.04.17 10:52:13] [0000m.01s.311ms] [1] SC[15]: Registered sub-client [PinsList] with ID [29] for session ID [15] host [DESKTOP-44HKI68] user [Liam James Mulshine] process ID [6352]
+[2017.04.17 10:52:13] [0000m.01s.372ms] [1] SC[15]: Registered sub-client [toolboxes] with ID [30] for session ID [15] host [DESKTOP-44HKI68] user [Liam James Mulshine] process ID [6352]
+[2017.04.17 10:52:14] [0000m.01s.395ms] [1] SC[15]: Registered sub-client [ProjectIntegrationIcdbCacheDxD:351509568] with ID [31] for session ID [15] host [DESKTOP-44HKI68] user [Liam James Mulshine] process ID [6352]
+[2017.04.17 10:52:14] [0000m.01s.450ms] [1] SC[15]: Registered sub-client [SheetConnectorsCacheDxD:1492440734] with ID [32] for session ID [15] host [DESKTOP-44HKI68] user [Liam James Mulshine] process ID [6352]
+[2017.04.17 10:52:14] [0000m.01s.457ms] [1] SC[15]: Registered sub-client [NetsNamesCollectorDxD:1492440734] with ID [33] for session ID [15] host [DESKTOP-44HKI68] user [Liam James Mulshine] process ID [6352]
+[2017.04.17 10:52:14] [0000m.01s.491ms] [1] SC[15]: Registered sub-client [PartReplaceUtils] with ID [34] for session ID [15] host [DESKTOP-44HKI68] user [Liam James Mulshine] process ID [6352]
+[2017.04.17 10:52:20] [0000m.08s.346ms] [1] SC[15]: Registered sub-client [ObjectHolder_356391600] with ID [35] for session ID [15] host [DESKTOP-44HKI68] user [Liam James Mulshine] process ID [6352]
+[2017.04.17 10:52:20] [0000m.08s.349ms] [1] SC[15]: Registered sub-client [BlockCacheDxD:463981168] with ID [36] for session ID [15] host [DESKTOP-44HKI68] user [Liam James Mulshine] process ID [6352]
+[2017.04.17 10:52:20] [0000m.08s.352ms] [1] SC[15]: Registered sub-client [GlobalNetAliasUpdater_356392640] with ID [37] for session ID [15] host [DESKTOP-44HKI68] user [Liam James Mulshine] process ID [6352]
+[2017.04.17 10:52:20] [0000m.08s.354ms] [1] SC[15]: Registered sub-client [IcdbNetProcessorSubClientDxD:463209832] with ID [38] for session ID [15] host [DESKTOP-44HKI68] user [Liam James Mulshine] process ID [6352]
+[2017.04.17 10:52:21] [0000m.08s.634ms] [1] SC[15]: Registered sub-client [DxDbSearch] with ID [39] for session ID [15] host [DESKTOP-44HKI68] user [Liam James Mulshine] process ID [6352]
+[2017.04.17 10:52:35] [0000m.22s.759ms] [0] DFAMT: File server access time: 77 us
+[2017.04.17 10:59:23] [0007m.10s.918ms] [1] SC[15]: UnRegistered sub-client [LocalSymbolsDataProvider] with ID [13] for session ID [15] host [DESKTOP-44HKI68] user [Liam James Mulshine] process ID [6352]
+[2017.04.17 10:59:23] [0007m.10s.921ms] [1] SC[15]: Registered sub-client [LocalSymbolsDataProvider] with ID [40] for session ID [15] host [DESKTOP-44HKI68] user [Liam James Mulshine] process ID [6352]
+[2017.04.17 11:16:32] [0024m.19s.581ms] [1] SC[15]: UnRegistered sub-client [DesignSearcher2] with ID [8] for session ID [15] host [DESKTOP-44HKI68] user [Liam James Mulshine] process ID [6352]
+[2017.04.17 11:16:32] [0024m.19s.605ms] [1] SC[15]: Registered sub-client [DesignSearcher2] with ID [41] for session ID [15] host [DESKTOP-44HKI68] user [Liam James Mulshine] process ID [6352]
+[2017.04.17 11:16:32] [0024m.19s.941ms] [1] SC[15]: UnRegistered sub-client [DesignSearcher2] with ID [41] for session ID [15] host [DESKTOP-44HKI68] user [Liam James Mulshine] process ID [6352]
+[2017.04.17 11:16:32] [0024m.19s.966ms] [1] SC[15]: Registered sub-client [DesignSearcher2] with ID [42] for session ID [15] host [DESKTOP-44HKI68] user [Liam James Mulshine] process ID [6352]
+[2017.04.17 11:25:00] [0032m.47s.479ms] [1] SC[15]: UnRegistered sub-client [DesignSearcher2] with ID [42] for session ID [15] host [DESKTOP-44HKI68] user [Liam James Mulshine] process ID [6352]
+[2017.04.17 11:25:00] [0032m.47s.516ms] [1] SC[15]: Registered sub-client [DesignSearcher2] with ID [43] for session ID [15] host [DESKTOP-44HKI68] user [Liam James Mulshine] process ID [6352]
+[2017.04.17 11:25:10] [0032m.57s.711ms] [1] SC[15]: UnRegistered sub-client [DesignSearcher2] with ID [43] for session ID [15] host [DESKTOP-44HKI68] user [Liam James Mulshine] process ID [6352]
+[2017.04.17 11:25:10] [0032m.57s.736ms] [1] SC[15]: Registered sub-client [DesignSearcher2] with ID [44] for session ID [15] host [DESKTOP-44HKI68] user [Liam James Mulshine] process ID [6352]
+[2017.04.17 11:25:12] [0033m.00s.090ms] [1] SC[15]: UnRegistered sub-client [DesignSearcher2] with ID [44] for session ID [15] host [DESKTOP-44HKI68] user [Liam James Mulshine] process ID [6352]
+[2017.04.17 11:25:12] [0033m.00s.113ms] [1] SC[15]: Registered sub-client [DesignSearcher2] with ID [45] for session ID [15] host [DESKTOP-44HKI68] user [Liam James Mulshine] process ID [6352]
+[2017.04.17 11:25:14] [0033m.01s.666ms] [1] SC[15]: UnRegistered sub-client [DesignSearcher2] with ID [45] for session ID [15] host [DESKTOP-44HKI68] user [Liam James Mulshine] process ID [6352]
+[2017.04.17 11:25:14] [0033m.01s.692ms] [1] SC[15]: Registered sub-client [DesignSearcher2] with ID [46] for session ID [15] host [DESKTOP-44HKI68] user [Liam James Mulshine] process ID [6352]
+[2017.04.17 12:02:35] [0070m.22s.391ms] [1] SC[15]: UnRegistered sub-client [LocalSymbolsDataProvider] with ID [40] for session ID [15] host [DESKTOP-44HKI68] user [Liam James Mulshine] process ID [6352]
+[2017.04.17 12:02:35] [0070m.22s.396ms] [1] SC[15]: Registered sub-client [LocalSymbolsDataProvider] with ID [47] for session ID [15] host [DESKTOP-44HKI68] user [Liam James Mulshine] process ID [6352]
+[2017.04.17 18:44:52] [0472m.39s.465ms] [1] PrjBackupMgr: Successfully created Project Backup [C:\PADSViewer Projects\DxProjects\Thermistor_Board\ProjectBackup\backups\2017-04-17 18.44.51 - auto.zip] with GUID [f838-1959-512b-feb2-3654-5f88-6545-f850-5b33-3342-23c1-1f98]
+[2017.04.17 18:44:52] [0472m.39s.479ms] [0] PrjBackupMgr: Removing excessive backup:  BackupGUID[62e9-652c-8f8c-e401-d7fc-2f82-8fc2-f850-1fa2-3342-23c1-1f98] CreationTime[Sunday, April 16, 2017 01:57:17] Type[Autosave] Creator[iCDB Server (2017-04-15 21.57.15-6440)] ApplicationName[iCDB Server (2017-04-15 21.57.15-6440)] UserName[Liam James Mulshine] MachineName[DESKTOP-44HKI68] Description[Autosave] FullFlowName[PADS VX.2.1] FlowId[PADSVX.2.1] GBSInstallId[1468892] GBSBuildId[5682207] IcdbVersion[3200] ReferenceLogFilePath[] BackupFilePath[C:\PADSViewer Projects\DxProjects\Thermistor_Board\ProjectBackup\backups\2017-04-15 21.57.17 - auto.zip] BackupFileSize[12101] Persistent[FALSE]
+[2017.04.17 18:44:52] [0472m.39s.487ms] [0] PrjBackupMgr: Project Backup file [C:\PADSViewer Projects\DxProjects\Thermistor_Board\ProjectBackup\backups\2017-04-15 21.57.17 - auto.zip] with GUID [62e9-652c-8f8c-e401-d7fc-2f82-8fc2-f850-1fa2-3342-23c1-1f98] removed
+[2017.04.17 18:44:52] [0472m.39s.598ms] [0] PrjBackupEngine: Successfully created backup:  BackupGUID[f838-1959-512b-feb2-3654-5f88-6545-f850-5b33-3342-23c1-1f98] CreationTime[Monday, April 17, 2017 22:44:51] Type[Autosave] Creator[iCDB Server (2017-04-17 10.52.12-1064)] ApplicationName[iCDB Server (2017-04-17 10.52.12-1064)] UserName[Liam James Mulshine] MachineName[DESKTOP-44HKI68] Description[Autosave] FullFlowName[PADS VX.2.1] FlowId[PADSVX.2.1] GBSInstallId[1468892] GBSBuildId[5682207] IcdbVersion[3200] ReferenceLogFilePath[] BackupFilePath[C:\PADSViewer Projects\DxProjects\Thermistor_Board\ProjectBackup\backups\2017-04-17 18.44.51 - auto.zip] BackupFileSize[53792] Persistent[FALSE]
+[2017.04.17 18:50:56] [0478m.44s.309ms] [1] SC[15]: UnRegistered sub-client [DesignSearcher2] with ID [46] for session ID [15] host [DESKTOP-44HKI68] user [Liam James Mulshine] process ID [6352]
+[2017.04.17 18:50:56] [0478m.44s.373ms] [1] SC[15]: Registered sub-client [DesignSearcher2] with ID [48] for session ID [15] host [DESKTOP-44HKI68] user [Liam James Mulshine] process ID [6352]
+[2017.04.17 18:51:01] [0478m.49s.197ms] [1] SC[15]: UnRegistered sub-client [DesignSearcher2] with ID [48] for session ID [15] host [DESKTOP-44HKI68] user [Liam James Mulshine] process ID [6352]
+[2017.04.17 18:51:01] [0478m.49s.226ms] [1] SC[15]: Registered sub-client [DesignSearcher2] with ID [49] for session ID [15] host [DESKTOP-44HKI68] user [Liam James Mulshine] process ID [6352]
+[2017.04.17 18:51:03] [0478m.50s.769ms] [1] SC[15]: UnRegistered sub-client [DesignSearcher2] with ID [49] for session ID [15] host [DESKTOP-44HKI68] user [Liam James Mulshine] process ID [6352]
+[2017.04.17 18:51:03] [0478m.50s.791ms] [1] SC[15]: Registered sub-client [DesignSearcher2] with ID [50] for session ID [15] host [DESKTOP-44HKI68] user [Liam James Mulshine] process ID [6352]
+[2017.04.17 18:55:59] [0483m.47s.345ms] [1] SC[15]: UnRegistered sub-client [SystemDesignDll] with ID [7] for session ID [15] host [DESKTOP-44HKI68] user [Liam James Mulshine] process ID [6352]
+[2017.04.17 18:56:00] [0483m.47s.485ms] [1] SC[15]: UnRegistered sub-client [DesignSearcher2] with ID [50] for session ID [15] host [DESKTOP-44HKI68] user [Liam James Mulshine] process ID [6352]
+[2017.04.17 18:56:00] [0483m.47s.602ms] [1] SC[15]: UnRegistered sub-client [GlobalNetAliasUpdater_356392640] with ID [37] for session ID [15] host [DESKTOP-44HKI68] user [Liam James Mulshine] process ID [6352]
+[2017.04.17 18:56:00] [0483m.47s.603ms] [1] SC[15]: UnRegistered sub-client [BlockCacheDxD:463981168] with ID [36] for session ID [15] host [DESKTOP-44HKI68] user [Liam James Mulshine] process ID [6352]
+[2017.04.17 18:56:00] [0483m.47s.607ms] [1] SC[15]: UnRegistered sub-client [ObjectHolder_356391600] with ID [35] for session ID [15] host [DESKTOP-44HKI68] user [Liam James Mulshine] process ID [6352]
+[2017.04.17 18:56:00] [0483m.47s.608ms] [1] SC[15]: UnRegistered sub-client [IcdbNetProcessorSubClientDxD:463209832] with ID [38] for session ID [15] host [DESKTOP-44HKI68] user [Liam James Mulshine] process ID [6352]
+[2017.04.17 18:56:00] [0483m.47s.640ms] [1] SC[15]: UnRegistered sub-client [Navigator] with ID [10] for session ID [15] host [DESKTOP-44HKI68] user [Liam James Mulshine] process ID [6352]
+[2017.04.17 18:56:00] [0483m.47s.702ms] [1] SC[15]: UnRegistered sub-client [LocalSymbolsDataProvider] with ID [47] for session ID [15] host [DESKTOP-44HKI68] user [Liam James Mulshine] process ID [6352]
+[2017.04.17 18:56:00] [0483m.47s.706ms] [1] SC[15]: UnRegistered sub-client [FFSearch_Controller_10] with ID [14] for session ID [15] host [DESKTOP-44HKI68] user [Liam James Mulshine] process ID [6352]
+[2017.04.17 18:56:00] [0483m.47s.706ms] [1] SC[15]: UnRegistered sub-client [FFSearch_Controller_11] with ID [15] for session ID [15] host [DESKTOP-44HKI68] user [Liam James Mulshine] process ID [6352]
+[2017.04.17 18:56:00] [0483m.47s.707ms] [1] SC[15]: UnRegistered sub-client [FFSearch_Controller_12] with ID [16] for session ID [15] host [DESKTOP-44HKI68] user [Liam James Mulshine] process ID [6352]
+[2017.04.17 18:56:00] [0483m.47s.708ms] [1] SC[15]: UnRegistered sub-client [FFSearch_Controller_13] with ID [17] for session ID [15] host [DESKTOP-44HKI68] user [Liam James Mulshine] process ID [6352]
+[2017.04.17 18:56:00] [0483m.47s.709ms] [1] SC[15]: UnRegistered sub-client [FFSearch_Controller_14] with ID [18] for session ID [15] host [DESKTOP-44HKI68] user [Liam James Mulshine] process ID [6352]
+[2017.04.17 18:56:00] [0483m.47s.709ms] [1] SC[15]: UnRegistered sub-client [FFSearch_Controller_15] with ID [19] for session ID [15] host [DESKTOP-44HKI68] user [Liam James Mulshine] process ID [6352]
+[2017.04.17 18:56:00] [0483m.47s.710ms] [1] SC[15]: UnRegistered sub-client [FFSearch_Controller_16] with ID [20] for session ID [15] host [DESKTOP-44HKI68] user [Liam James Mulshine] process ID [6352]
+[2017.04.17 18:56:00] [0483m.47s.711ms] [1] SC[15]: UnRegistered sub-client [FFSearch_Controller_17] with ID [21] for session ID [15] host [DESKTOP-44HKI68] user [Liam James Mulshine] process ID [6352]
+[2017.04.17 18:56:00] [0483m.47s.712ms] [1] SC[15]: UnRegistered sub-client [FFSearch_Controller_18] with ID [22] for session ID [15] host [DESKTOP-44HKI68] user [Liam James Mulshine] process ID [6352]
+[2017.04.17 18:56:00] [0483m.47s.712ms] [1] SC[15]: UnRegistered sub-client [FFSearch_Controller_19] with ID [23] for session ID [15] host [DESKTOP-44HKI68] user [Liam James Mulshine] process ID [6352]
+[2017.04.17 18:56:00] [0483m.47s.967ms] [1] SC[15]: UnRegistered sub-client [MyParts] with ID [28] for session ID [15] host [DESKTOP-44HKI68] user [Liam James Mulshine] process ID [6352]
+[2017.04.17 18:56:00] [0483m.47s.984ms] [1] SC[15]: UnRegistered sub-client [toolboxes] with ID [30] for session ID [15] host [DESKTOP-44HKI68] user [Liam James Mulshine] process ID [6352]
+[2017.04.17 18:56:01] [0483m.48s.899ms] [1] SC[15]: UnRegistered sub-client [SelectionHolder] with ID [5] for session ID [15] host [DESKTOP-44HKI68] user [Liam James Mulshine] process ID [6352]
+[2017.04.17 18:56:01] [0483m.48s.900ms] [1] SC[15]: UnRegistered sub-client [PartReplaceUtils] with ID [34] for session ID [15] host [DESKTOP-44HKI68] user [Liam James Mulshine] process ID [6352]
+[2017.04.17 18:56:02] [0483m.50s.005ms] [1] SC[15]: UnRegistered sub-client [ProjectIntegrationIcdbCacheDxD:351509568] with ID [31] for session ID [15] host [DESKTOP-44HKI68] user [Liam James Mulshine] process ID [6352]
+[2017.04.17 18:56:02] [0483m.50s.005ms] [1] SC[15]: UnRegistered sub-client [SheetConnectorsCacheDxD:1492440734] with ID [32] for session ID [15] host [DESKTOP-44HKI68] user [Liam James Mulshine] process ID [6352]
+[2017.04.17 18:56:02] [0483m.50s.006ms] [1] SC[15]: UnRegistered sub-client [NetsNamesCollectorDxD:1492440734] with ID [33] for session ID [15] host [DESKTOP-44HKI68] user [Liam James Mulshine] process ID [6352]
+[2017.04.17 18:56:02] [0483m.50s.010ms] [1] SC[15]: UnRegistered sub-client [TransactionRollbackSubClient] with ID [2] for session ID [15] host [DESKTOP-44HKI68] user [Liam James Mulshine] process ID [6352]
+[2017.04.17 18:56:02] [0483m.50s.011ms] [1] SC[15]: UnRegistered sub-client [DxD] with ID [1] for session ID [15] host [DESKTOP-44HKI68] user [Liam James Mulshine] process ID [6352]
+[2017.04.17 18:56:02] [0483m.50s.061ms] [1] SC[15]: UnRegistered sub-client [xprob] with ID [3] for session ID [15] host [DESKTOP-44HKI68] user [Liam James Mulshine] process ID [6352]
+[2017.04.17 18:56:02] [0483m.50s.062ms] [1] SC[15]: UnRegistered sub-client [SymbolEditor] with ID [4] for session ID [15] host [DESKTOP-44HKI68] user [Liam James Mulshine] process ID [6352]
+[2017.04.17 18:56:02] [0483m.50s.083ms] [1] SC[15]: UnRegistered sub-client [OutputWindow] with ID [11] for session ID [15] host [DESKTOP-44HKI68] user [Liam James Mulshine] process ID [6352]
+[2017.04.17 18:56:02] [0483m.50s.194ms] [1] SC[15]: UnRegistered sub-client [DxDbSearch] with ID [39] for session ID [15] host [DESKTOP-44HKI68] user [Liam James Mulshine] process ID [6352]
+[2017.04.17 18:56:02] [0483m.50s.290ms] [1] SC[15]: UnRegistered sub-client [SAE] with ID [24] for session ID [15] host [DESKTOP-44HKI68] user [Liam James Mulshine] process ID [6352]
+[2017.04.17 18:56:02] [0483m.50s.330ms] [1] SC[15]: UnRegistered sub-client [CCZAddin] with ID [26] for session ID [15] host [DESKTOP-44HKI68] user [Liam James Mulshine] process ID [6352]
+[2017.04.17 18:56:02] [0483m.50s.335ms] [1] SC[15]: UnRegistered sub-client [DxThumbnails] with ID [27] for session ID [15] host [DESKTOP-44HKI68] user [Liam James Mulshine] process ID [6352]
+[2017.04.17 18:56:05] [0483m.53s.362ms] [1] SC[15]: UnRegistered sub-client [DxConstraints] with ID [25] for session ID [15] host [DESKTOP-44HKI68] user [Liam James Mulshine] process ID [6352]
+[2017.04.17 18:56:06] [0483m.53s.393ms] [1] SC[15]: UnRegistered sub-client [PinsList] with ID [29] for session ID [15] host [DESKTOP-44HKI68] user [Liam James Mulshine] process ID [6352]
+[2017.04.17 18:56:06] [0483m.53s.479ms] [1] SC[15]: UnRegistered sub-client [PlaceDevice] with ID [12] for session ID [15] host [DESKTOP-44HKI68] user [Liam James Mulshine] process ID [6352]
+[2017.04.17 18:56:06] [0483m.53s.528ms] [1] SC[15]: UnRegistered sub-client [HdlProject] with ID [9] for session ID [15] host [DESKTOP-44HKI68] user [Liam James Mulshine] process ID [6352]
+[2017.04.17 18:56:06] [0483m.53s.610ms] [1] CMT: Removed client [15]
+[2017.04.17 18:56:06] [0483m.53s.610ms] [1] CMT: There are no clients left - waiting [1 seconds]
+[2017.04.17 18:56:08] [0483m.55s.528ms] [0] CMT: Starting server auto-close
+[2017.04.17 18:56:08] [0483m.55s.532ms] [0] S: Closing server
+[2017.04.17 18:56:08] [0483m.55s.673ms] [0] iCDB Server PI: Closing plugins
+[2017.04.17 18:56:08] [0483m.55s.674ms] [0] iCDB Server PI: Plugins closed
+[2017.04.17 18:56:08] [0483m.55s.674ms] [0] iCDB Server PI: Unloading database
+[2017.04.17 18:56:08] [0483m.55s.674ms] [0] iCDB Server PI: Saving storage
+[2017.04.17 18:56:08] [0483m.55s.674ms] [0] iCDB Server PI: Closing database
+[2017.04.17 18:56:08] [0483m.55s.676ms] [1] iCDB Server PI: Stats: Database defragmentation: max[1] avg[1] holes[145%] data[59%]
+[2017.04.17 18:56:08] [0483m.55s.676ms] [1] iCDB Server PI: Stats: Database file size [118680 (115.9 kB)]
+[2017.04.17 18:56:08] [0483m.55s.677ms] [1] iCDB Server PI: WARNING: Database needs defragmentation!
+[2017.04.17 18:56:08] [0483m.55s.684ms] [0] iCDB Server PI: Database closed
+[2017.04.17 18:56:08] [0483m.55s.684ms] [0] iCDB Server PI: Defragmenting database
+[2017.04.17 18:56:08] [0483m.55s.687ms] [0] iCDB Server PI: Creating database [C:\PADSViewer Projects\DxProjects\Thermistor_Board\database] backup to file [C:\PADSViewer Projects\DxProjects\Thermistor_Board\database\cdbback\2017-04-17 18.56.08-1064-d.zip]
+[2017.04.17 18:56:08] [0483m.55s.705ms] [0] iCDB Server PI: Database backup: DONE
+[2017.04.17 18:56:08] [0483m.55s.713ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2017.04.17 18:56:08] [0483m.55s.713ms] [0] Database GUARD OK: [118680]
+[2017.04.17 18:56:08] [0483m.55s.713ms] [0] SingleFile: [9164-196a-5ef3-156e] SFI version check [1009] [1009]
+[2017.04.17 18:56:08] [0483m.55s.714ms] [0] SingleFile: [9164-196a-5ef3-156e] Database SFI header has been read in [1ms 292us]
+[2017.04.17 18:56:08] [0483m.55s.719ms] [1] iCDB Server PI: Stats: Database file sizes: before[118680 (115.9 kB)], after[63280 (61.8 kB)], gain[55400 (54.1 kB)]
+[2017.04.17 18:56:08] [0483m.55s.725ms] [0] Single file [C:\PADSViewer Projects\DxProjects\Thermistor_Board\database\icdb.dat] closed with size [63280 (61.8 kB)]
+[2017.04.17 18:56:08] [0483m.55s.725ms] [0] iCDB Server PI: Database defragmentation completed successfully
+[2017.04.17 18:56:08] [0483m.55s.725ms] [1] BackupTransaction: Removing database backup [C:\PADSViewer Projects\DxProjects\Thermistor_Board\database\cdbback\2017-04-17 18.56.08-1064-d.zip]
+[2017.04.17 18:56:08] [0483m.55s.729ms] [1] iCDB Server PI: Stats: Total iCDB execution time: [444550] ticks
+[2017.04.17 18:56:08] [0483m.55s.729ms] [1] iCDB Server PI: Stats: Total iCDB execution time: [228174] microseconds
+[2017.04.17 18:56:08] [0483m.55s.729ms] [1] iCDB Server PI: Stats: Total iCDB commands count: [690]
+[2017.04.17 18:56:08] [0483m.55s.729ms] [1] iCDB Server PI: Stats: Average iCDB speed:        [3024] commands per second
+[2017.04.17 18:56:08] [0483m.55s.936ms] [0] MWT: Destroy the shutdown block reason.
+[2017.04.17 18:56:08] [0483m.55s.937ms] [0] MWT: STOP
+[2017.04.17 18:56:08] [0483m.55s.937ms] [0] S: STOP

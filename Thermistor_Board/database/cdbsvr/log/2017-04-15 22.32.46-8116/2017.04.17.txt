@@ -1,0 +1,75 @@
+[2017.04.17 08:45:38] [2052m.51s.774ms] [1] SC[4]: UnRegistered sub-client [DesignSearcher2] with ID [8] for session ID [4] host [DESKTOP-44HKI68] user [Liam James Mulshine] process ID [3416]
+[2017.04.17 08:45:39] [2052m.52s.360ms] [1] SC[4]: Registered sub-client [DesignSearcher2] with ID [48] for session ID [4] host [DESKTOP-44HKI68] user [Liam James Mulshine] process ID [3416]
+[2017.04.17 10:37:38] [2164m.51s.557ms] [1] SC[4]: UnRegistered sub-client [LocalSymbolsDataProvider] with ID [13] for session ID [4] host [DESKTOP-44HKI68] user [Liam James Mulshine] process ID [3416]
+[2017.04.17 10:37:38] [2164m.51s.562ms] [1] SC[4]: Registered sub-client [LocalSymbolsDataProvider] with ID [49] for session ID [4] host [DESKTOP-44HKI68] user [Liam James Mulshine] process ID [3416]
+[2017.04.17 10:38:08] [2165m.21s.856ms] [1] SC[4]: UnRegistered sub-client [LocalSymbolsDataProvider] with ID [49] for session ID [4] host [DESKTOP-44HKI68] user [Liam James Mulshine] process ID [3416]
+[2017.04.17 10:38:08] [2165m.21s.861ms] [1] SC[4]: Registered sub-client [LocalSymbolsDataProvider] with ID [50] for session ID [4] host [DESKTOP-44HKI68] user [Liam James Mulshine] process ID [3416]
+[2017.04.17 10:46:02] [2173m.15s.930ms] [1] SC[4]: UnRegistered sub-client [SystemDesignDll] with ID [7] for session ID [4] host [DESKTOP-44HKI68] user [Liam James Mulshine] process ID [3416]
+[2017.04.17 10:46:02] [2173m.16s.010ms] [1] SC[4]: UnRegistered sub-client [DesignSearcher2] with ID [48] for session ID [4] host [DESKTOP-44HKI68] user [Liam James Mulshine] process ID [3416]
+[2017.04.17 10:46:03] [2173m.16s.122ms] [1] SC[4]: UnRegistered sub-client [GlobalNetAliasUpdater_356360768] with ID [46] for session ID [4] host [DESKTOP-44HKI68] user [Liam James Mulshine] process ID [3416]
+[2017.04.17 10:46:03] [2173m.16s.123ms] [1] SC[4]: UnRegistered sub-client [BlockCacheDxD:244167152] with ID [45] for session ID [4] host [DESKTOP-44HKI68] user [Liam James Mulshine] process ID [3416]
+[2017.04.17 10:46:03] [2173m.16s.124ms] [1] SC[4]: UnRegistered sub-client [ObjectHolder_355791000] with ID [44] for session ID [4] host [DESKTOP-44HKI68] user [Liam James Mulshine] process ID [3416]
+[2017.04.17 10:46:03] [2173m.16s.124ms] [1] SC[4]: UnRegistered sub-client [IcdbNetProcessorSubClientDxD:461336880] with ID [47] for session ID [4] host [DESKTOP-44HKI68] user [Liam James Mulshine] process ID [3416]
+[2017.04.17 10:46:03] [2173m.16s.153ms] [1] SC[4]: UnRegistered sub-client [Navigator] with ID [10] for session ID [4] host [DESKTOP-44HKI68] user [Liam James Mulshine] process ID [3416]
+[2017.04.17 10:46:03] [2173m.16s.192ms] [1] SC[4]: UnRegistered sub-client [LocalSymbolsDataProvider] with ID [50] for session ID [4] host [DESKTOP-44HKI68] user [Liam James Mulshine] process ID [3416]
+[2017.04.17 10:46:03] [2173m.16s.195ms] [1] SC[4]: UnRegistered sub-client [FFSearch_Controller_10] with ID [14] for session ID [4] host [DESKTOP-44HKI68] user [Liam James Mulshine] process ID [3416]
+[2017.04.17 10:46:03] [2173m.16s.196ms] [1] SC[4]: UnRegistered sub-client [FFSearch_Controller_11] with ID [15] for session ID [4] host [DESKTOP-44HKI68] user [Liam James Mulshine] process ID [3416]
+[2017.04.17 10:46:03] [2173m.16s.196ms] [1] SC[4]: UnRegistered sub-client [FFSearch_Controller_12] with ID [16] for session ID [4] host [DESKTOP-44HKI68] user [Liam James Mulshine] process ID [3416]
+[2017.04.17 10:46:03] [2173m.16s.197ms] [1] SC[4]: UnRegistered sub-client [FFSearch_Controller_13] with ID [17] for session ID [4] host [DESKTOP-44HKI68] user [Liam James Mulshine] process ID [3416]
+[2017.04.17 10:46:03] [2173m.16s.198ms] [1] SC[4]: UnRegistered sub-client [FFSearch_Controller_14] with ID [18] for session ID [4] host [DESKTOP-44HKI68] user [Liam James Mulshine] process ID [3416]
+[2017.04.17 10:46:03] [2173m.16s.199ms] [1] SC[4]: UnRegistered sub-client [FFSearch_Controller_15] with ID [19] for session ID [4] host [DESKTOP-44HKI68] user [Liam James Mulshine] process ID [3416]
+[2017.04.17 10:46:03] [2173m.16s.199ms] [1] SC[4]: UnRegistered sub-client [FFSearch_Controller_16] with ID [20] for session ID [4] host [DESKTOP-44HKI68] user [Liam James Mulshine] process ID [3416]
+[2017.04.17 10:46:03] [2173m.16s.200ms] [1] SC[4]: UnRegistered sub-client [FFSearch_Controller_17] with ID [21] for session ID [4] host [DESKTOP-44HKI68] user [Liam James Mulshine] process ID [3416]
+[2017.04.17 10:46:03] [2173m.16s.201ms] [1] SC[4]: UnRegistered sub-client [FFSearch_Controller_18] with ID [22] for session ID [4] host [DESKTOP-44HKI68] user [Liam James Mulshine] process ID [3416]
+[2017.04.17 10:46:03] [2173m.16s.201ms] [1] SC[4]: UnRegistered sub-client [FFSearch_Controller_19] with ID [23] for session ID [4] host [DESKTOP-44HKI68] user [Liam James Mulshine] process ID [3416]
+[2017.04.17 10:46:03] [2173m.16s.465ms] [1] SC[4]: UnRegistered sub-client [MyParts] with ID [28] for session ID [4] host [DESKTOP-44HKI68] user [Liam James Mulshine] process ID [3416]
+[2017.04.17 10:46:03] [2173m.16s.483ms] [1] SC[4]: UnRegistered sub-client [toolboxes] with ID [30] for session ID [4] host [DESKTOP-44HKI68] user [Liam James Mulshine] process ID [3416]
+[2017.04.17 10:46:04] [2173m.17s.280ms] [1] SC[4]: UnRegistered sub-client [SelectionHolder] with ID [5] for session ID [4] host [DESKTOP-44HKI68] user [Liam James Mulshine] process ID [3416]
+[2017.04.17 10:46:04] [2173m.17s.281ms] [1] SC[4]: UnRegistered sub-client [PartReplaceUtils] with ID [34] for session ID [4] host [DESKTOP-44HKI68] user [Liam James Mulshine] process ID [3416]
+[2017.04.17 10:46:05] [2173m.18s.904ms] [1] SC[4]: UnRegistered sub-client [ProjectIntegrationIcdbCacheDxD:460142472] with ID [31] for session ID [4] host [DESKTOP-44HKI68] user [Liam James Mulshine] process ID [3416]
+[2017.04.17 10:46:05] [2173m.18s.907ms] [1] SC[4]: UnRegistered sub-client [SheetConnectorsCacheDxD:1492309968] with ID [32] for session ID [4] host [DESKTOP-44HKI68] user [Liam James Mulshine] process ID [3416]
+[2017.04.17 10:46:05] [2173m.18s.908ms] [1] SC[4]: UnRegistered sub-client [NetsNamesCollectorDxD:1492309968] with ID [33] for session ID [4] host [DESKTOP-44HKI68] user [Liam James Mulshine] process ID [3416]
+[2017.04.17 10:46:05] [2173m.18s.924ms] [1] SC[4]: UnRegistered sub-client [TransactionRollbackSubClient] with ID [2] for session ID [4] host [DESKTOP-44HKI68] user [Liam James Mulshine] process ID [3416]
+[2017.04.17 10:46:05] [2173m.18s.926ms] [1] SC[4]: UnRegistered sub-client [DxD] with ID [1] for session ID [4] host [DESKTOP-44HKI68] user [Liam James Mulshine] process ID [3416]
+[2017.04.17 10:46:06] [2173m.19s.117ms] [1] SC[4]: UnRegistered sub-client [xprob] with ID [3] for session ID [4] host [DESKTOP-44HKI68] user [Liam James Mulshine] process ID [3416]
+[2017.04.17 10:46:06] [2173m.19s.118ms] [1] SC[4]: UnRegistered sub-client [SymbolEditor] with ID [4] for session ID [4] host [DESKTOP-44HKI68] user [Liam James Mulshine] process ID [3416]
+[2017.04.17 10:46:06] [2173m.19s.178ms] [1] SC[4]: UnRegistered sub-client [OutputWindow] with ID [11] for session ID [4] host [DESKTOP-44HKI68] user [Liam James Mulshine] process ID [3416]
+[2017.04.17 10:46:06] [2173m.19s.464ms] [1] SC[4]: UnRegistered sub-client [DxDbSearch] with ID [39] for session ID [4] host [DESKTOP-44HKI68] user [Liam James Mulshine] process ID [3416]
+[2017.04.17 10:46:06] [2173m.19s.629ms] [1] SC[4]: UnRegistered sub-client [SAE] with ID [24] for session ID [4] host [DESKTOP-44HKI68] user [Liam James Mulshine] process ID [3416]
+[2017.04.17 10:46:06] [2173m.19s.667ms] [1] SC[4]: UnRegistered sub-client [CCZAddin] with ID [26] for session ID [4] host [DESKTOP-44HKI68] user [Liam James Mulshine] process ID [3416]
+[2017.04.17 10:46:06] [2173m.19s.675ms] [1] SC[4]: UnRegistered sub-client [DxThumbnails] with ID [27] for session ID [4] host [DESKTOP-44HKI68] user [Liam James Mulshine] process ID [3416]
+[2017.04.17 10:46:10] [2173m.23s.914ms] [1] SC[4]: UnRegistered sub-client [DxConstraints] with ID [25] for session ID [4] host [DESKTOP-44HKI68] user [Liam James Mulshine] process ID [3416]
+[2017.04.17 10:46:11] [2173m.24s.083ms] [1] SC[4]: UnRegistered sub-client [PinsList] with ID [29] for session ID [4] host [DESKTOP-44HKI68] user [Liam James Mulshine] process ID [3416]
+[2017.04.17 10:46:11] [2173m.24s.482ms] [1] SC[4]: UnRegistered sub-client [PlaceDevice] with ID [12] for session ID [4] host [DESKTOP-44HKI68] user [Liam James Mulshine] process ID [3416]
+[2017.04.17 10:46:11] [2173m.24s.629ms] [1] SC[4]: UnRegistered sub-client [HdlProject] with ID [9] for session ID [4] host [DESKTOP-44HKI68] user [Liam James Mulshine] process ID [3416]
+[2017.04.17 10:46:11] [2173m.24s.735ms] [1] CMT: Removed client [4]
+[2017.04.17 10:46:11] [2173m.24s.735ms] [1] CMT: There are no clients left - waiting [1 seconds]
+[2017.04.17 10:46:13] [2173m.26s.104ms] [0] CMT: Starting server auto-close
+[2017.04.17 10:46:13] [2173m.26s.114ms] [0] S: Closing server
+[2017.04.17 10:46:13] [2173m.26s.612ms] [0] iCDB Server PI: Closing plugins
+[2017.04.17 10:46:13] [2173m.26s.621ms] [0] iCDB Server PI: Plugins closed
+[2017.04.17 10:46:13] [2173m.26s.621ms] [0] iCDB Server PI: Unloading database
+[2017.04.17 10:46:13] [2173m.26s.621ms] [0] iCDB Server PI: Saving storage
+[2017.04.17 10:46:13] [2173m.26s.621ms] [0] iCDB Server PI: Closing database
+[2017.04.17 10:46:13] [2173m.26s.626ms] [1] iCDB Server PI: Stats: Database defragmentation: max[2] avg[1] holes[38%] data[93%]
+[2017.04.17 10:46:13] [2173m.26s.626ms] [1] iCDB Server PI: Stats: Database file size [63376 (61.9 kB)]
+[2017.04.17 10:46:13] [2173m.26s.627ms] [1] iCDB Server PI: WARNING: Database needs defragmentation!
+[2017.04.17 10:46:13] [2173m.26s.674ms] [0] iCDB Server PI: Database closed
+[2017.04.17 10:46:13] [2173m.26s.674ms] [0] iCDB Server PI: Defragmenting database
+[2017.04.17 10:46:13] [2173m.26s.675ms] [0] iCDB Server PI: Creating database [C:\PADSViewer Projects\DxProjects\Thermistor_Board\database] backup to file [C:\PADSViewer Projects\DxProjects\Thermistor_Board\database\cdbback\2017-04-17 10.46.13-8116-d.zip]
+[2017.04.17 10:46:13] [2173m.26s.953ms] [0] iCDB Server PI: Database backup: DONE
+[2017.04.17 10:46:13] [2173m.27s.022ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2017.04.17 10:46:13] [2173m.27s.022ms] [0] Database GUARD OK: [63376]
+[2017.04.17 10:46:13] [2173m.27s.022ms] [0] SingleFile: [9164-196a-5ef3-156e] SFI version check [1009] [1009]
+[2017.04.17 10:46:13] [2173m.27s.030ms] [0] SingleFile: [9164-196a-5ef3-156e] Database SFI header has been read in [8ms 846us]
+[2017.04.17 10:46:14] [2173m.27s.043ms] [1] iCDB Server PI: Stats: Database file sizes: before[63376 (61.9 kB)], after[55984 (54.7 kB)], gain[7392 (7.2 kB)]
+[2017.04.17 10:46:14] [2173m.27s.066ms] [0] Single file [C:\PADSViewer Projects\DxProjects\Thermistor_Board\database\icdb.dat] closed with size [55984 (54.7 kB)]
+[2017.04.17 10:46:14] [2173m.27s.066ms] [0] iCDB Server PI: Database defragmentation completed successfully
+[2017.04.17 10:46:14] [2173m.27s.066ms] [1] BackupTransaction: Removing database backup [C:\PADSViewer Projects\DxProjects\Thermistor_Board\database\cdbback\2017-04-17 10.46.13-8116-d.zip]
+[2017.04.17 10:46:14] [2173m.27s.099ms] [1] iCDB Server PI: Stats: Total iCDB execution time: [664152] ticks
+[2017.04.17 10:46:14] [2173m.27s.099ms] [1] iCDB Server PI: Stats: Total iCDB execution time: [340889] microseconds
+[2017.04.17 10:46:14] [2173m.27s.099ms] [1] iCDB Server PI: Stats: Total iCDB commands count: [40]
+[2017.04.17 10:46:14] [2173m.27s.099ms] [1] iCDB Server PI: Stats: Average iCDB speed:        [117] commands per second
+[2017.04.17 10:46:14] [2173m.27s.521ms] [0] MWT: Destroy the shutdown block reason.
+[2017.04.17 10:46:14] [2173m.27s.528ms] [0] MWT: STOP
+[2017.04.17 10:46:14] [2173m.27s.545ms] [0] S: STOP

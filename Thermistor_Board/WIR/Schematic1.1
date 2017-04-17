@@ -1,0 +1,54 @@
+| Wirelist created using version 6.1 
+V 6.1
+DW Schematic1
+|Q Capacitor:Capacitor 1
+AS Capacitor:Capacitor REFDES=C?
+AS Capacitor:Capacitor DEVICE=NS
+AS Capacitor:Capacitor PKG_TYPE=NS
+AS Capacitor:Capacitor VALUE
+AS Capacitor:Capacitor Datasheet
+AS Capacitor:Capacitor Manufacturer
+AS Capacitor:Capacitor ManufacturerPN
+AS Capacitor:Capacitor Supplier
+AS Capacitor:Capacitor SupplierPN
+AS Capacitor:Capacitor PARTS=1
+AS Capacitor:Capacitor DESCRIPTION
+AS Capacitor:Capacitor PINSWAP=B1,B2
+AS Capacitor:Capacitor INOV_VER_REC=16:44:26_1-7-16
+AS Capacitor:Capacitor PINORDER=B1 B2
+AP Capacitor:Capacitor 1 #=1
+AP Capacitor:Capacitor 1 PINTYPE=ANALOG
+AP Capacitor:Capacitor 2 #=2
+AP Capacitor:Capacitor 2 PINTYPE=ANALOG
+|Q Resistor:Resistor 1
+AS Resistor:Resistor DEVICE
+AS Resistor:Resistor PKG_TYPE
+AS Resistor:Resistor SupplierPN
+AS Resistor:Resistor Value
+AS Resistor:Resistor Datasheet
+AS Resistor:Resistor ManufacturerPN
+AS Resistor:Resistor PARTS=1
+AS Resistor:Resistor Manufacturer
+AS Resistor:Resistor PINSWAP=B1,B2
+AS Resistor:Resistor Supplier
+AS Resistor:Resistor Description
+AS Resistor:Resistor REFDES=R?
+AS Resistor:Resistor CLASS=RES
+AS Resistor:Resistor INOV_VER_REC=14:10:08_9-8-15
+AS Resistor:Resistor PINORDER=B1 B2
+AP Resistor:Resistor 1 #=1
+AP Resistor:Resistor 1 PINTYPE=ANALOG
+AP Resistor:Resistor 2 #=2
+AP Resistor:Resistor 2 PINTYPE=ANALOG
+G GND
+M Capacitor:Capacitor $1I12
+I $1I12 Capacitor:Capacitor $1N20 GND REFDES=C?`
+|R 16:44:26_1-7-16
+API $1I12 Capacitor:Capacitor 1 #=1
+API $1I12 Capacitor:Capacitor 2 #=2
+M Resistor:Resistor $1I16
+I $1I16 Resistor:Resistor $1N20 ? REFDES=R?`
+|R 14:10:08_9-8-15
+API $1I16 Resistor:Resistor 1 #=1
+API $1I16 Resistor:Resistor 2 #=2
+EW

@@ -1,0 +1,9 @@
+pcb: Note 6057: Schematic1 com $1I16: DEVICE=: Bad property value
+pcb: Error 6035: Illegal length 0
+pcb: Note 6057: Schematic1 com $1I16: PKG_TYPE=: Bad property value
+pcb: Error 6035: Illegal length 0
+pcb: Warning 6083: Schematic1 pin $1I12.B2: Single pin net: GND
+pcb: Warning 6094: Schematic1 pin $1I16.B2: Pin not connected
+pcb: Note 5626: Summary of LogFiles/pcberr.log
+Status 1, Notes 3, Warnings 2
+Errors 2, Failures 0, Fatals 0, Internals 0

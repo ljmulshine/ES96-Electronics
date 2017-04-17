@@ -1,0 +1,529 @@
+[2017.04.15 21:57:15] [0000m.00s.269ms] [0] WELCOME
+[2017.04.15 21:57:15] [0000m.00s.269ms] [1] iCDB Server ver.2.201, lYZcYElozbUGw/8yVGHxgA, build:5682207 created 2016-11-13 13:59:10, sources stamp:lYZcYElozbUGw/8yVGHxgA
+[2017.04.15 21:57:15] [0000m.00s.269ms] [1] Copyright 2016 Mentor Graphics Corporation.  All Rights Reserved.
+[2017.04.15 21:57:15] [0000m.00s.269ms] [1] Base flow version [VX.2.1]
+[2017.04.15 21:57:15] [0000m.00s.269ms] [1] Install Id [1468892], Flow Id [PADS VX.2.1], Full Flow Name [PADS VX.2.1], Exact Access Date [2016/11/01]
+[2017.04.15 21:57:15] [0000m.00s.323ms] [1] Machine [DESKTOP-44HKI68]  IP [127.0.0.1,192.168.22.132]  User [Liam James Mulshine]  PID [6440]
+[2017.04.15 21:57:15] [0000m.00s.324ms] [1] Operating system [Microsoft , 64-bit (build 9200)]
+[2017.04.15 21:57:15] [0000m.00s.324ms] [1] Current working dir [C:\PADSViewer Projects\DxProjects\Thermistor_Board]
+[2017.04.15 21:57:15] [0000m.00s.324ms] [1] PATH [C:\MentorGraphics\PADSVX.2.1\SDD_HOME\common\win32\bin;C:\MentorGraphics\PADSVX.2.1\SDD_HOME\common\win32\lib;C:\MentorGraphics\PADSVX.2.1\MGC_HOME.ixn\bin;C:\MentorGraphics\PADSVX.2.1\MGC_HOME.ixn\lib;C:\MentorGraphics\PADSVX.2.1\SDD_HOME\wv\win32\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Users\Liam James Mulshine\AppData\Local\Microsoft\WindowsApps;]
+[2017.04.15 21:57:15] [0000m.00s.324ms] [1] SDD_HOME [C:\MentorGraphics\PADSVX.2.1\SDD_HOME] on file system [NTFS]
+[2017.04.15 21:57:15] [0000m.00s.324ms] [1] SDD_PLATFORM [win32]
+[2017.04.15 21:57:15] [0000m.00s.324ms] [1] WDIR [C:\PADSViewer Projects;C:\MentorGraphics\PADSVX.2.1\SDD_HOME\standard;]
+[2017.04.15 21:57:15] [0000m.00s.324ms] [1] Local iCDB working dir [C:\PADSViewer Projects\iCDB] on file system [NTFS]
+[2017.04.15 21:57:15] [0000m.00s.324ms] [2] S: Loading config files
+[2017.04.15 21:57:15] [0000m.00s.368ms] [1] Config file [C:\PADSViewer Projects\DxProjects\Thermistor_Board\database\cdbsvr\Server.cfg] not found
+[2017.04.15 21:57:15] [0000m.00s.370ms] [3] S: Config loaded
+[2017.04.15 21:57:15] [0000m.00s.371ms] [0] S: Project path [C:\PADSViewer Projects\DxProjects\Thermistor_Board\database] on file system [NTFS]
+[2017.04.15 21:57:15] [0000m.00s.371ms] [0] S: Project file (.prj) path [C:\PADSViewer Projects\DxProjects\Thermistor_Board\Thermistor_Board.prj] on file system [NTFS]
+[2017.04.15 21:57:15] [0000m.00s.371ms] [1] S: WARNING: Database auto-repair support DISABLED
+[2017.04.15 21:57:15] [0000m.00s.371ms] [0] S: Single-user mode (auto)
+[2017.04.15 21:57:15] [0000m.00s.371ms] [0] S: Event polling mode autodetection
+[2017.04.15 21:57:15] [0000m.00s.372ms] [0] S: Started up automatically by iCDB Client: DESKTOP-44HKI68:Liam James Mulshine:3584
+[2017.04.15 21:57:15] [0000m.00s.372ms] [0] S: Auto close mode
+[2017.04.15 21:57:15] [0000m.00s.372ms] [0] S: Database ID [e684-b698-bb6f-0d65-a7fc-2f8f-7fc2-f850-13e2-3342-23c1-1f98]
+[2017.04.15 21:57:15] [0000m.00s.372ms] [0] PathTranslator: BEGIN dumping
+[2017.04.15 21:57:15] [0000m.00s.372ms] [0] PathTranslator: Local -> global path prefix list
+[2017.04.15 21:57:15] [0000m.00s.372ms] [0] PathTranslator: Global -> local path prefix list
+[2017.04.15 21:57:15] [0000m.00s.372ms] [0] PathTranslator: END dumping
+[2017.04.15 21:57:15] [0000m.00s.372ms] [0] S: START
+[2017.04.15 21:57:15] [0000m.00s.372ms] [0] S: Server startup lock file created
+[2017.04.15 21:57:15] [0000m.00s.373ms] [0] S: Listening for client connections on port [10000]
+[2017.04.15 21:57:15] [0000m.00s.374ms] [0] S: Server network ID [DESKTOP-44HKI68:192.168.22.132,DESKTOP-44HKI68:10000]
+[2017.04.15 21:57:15] [0000m.00s.374ms] [0] S: Server GUID [7146-6ce6-709d-c808-b7fc-2f80-8fc2-f850-1103-3342-23c1-1f98]
+[2017.04.15 21:57:15] [0000m.00s.374ms] [0] S: Project GUID [e684-b698-bb6f-0d65-a7fc-2f8f-7fc2-f850-13e2-3342-23c1-1f98]
+[2017.04.15 21:57:15] [0000m.00s.426ms] [0] S: Wrote data to server address file
+[2017.04.15 21:57:15] [0000m.00s.426ms] [0] S: Server startup lock file removed
+[2017.04.15 21:57:15] [0000m.00s.426ms] [1] ProjectBackupManager: Setting project file (.prj) path: [C:\PADSViewer Projects\DxProjects\Thermistor_Board\Thermistor_Board.prj]
+[2017.04.15 21:57:16] [0000m.01s.017ms] [0] S: Plugins loaded: [PIM] [ENetGen70] 
+[2017.04.15 21:57:16] [0000m.01s.017ms] [0] S: Local disc access time: 43 us
+[2017.04.15 21:57:16] [0000m.01s.017ms] [0] S: File server access time: 49 us
+[2017.04.15 21:57:16] [0000m.01s.019ms] [0] Single file [C:\PADSViewer Projects\DxProjects\Thermistor_Board\database\icdb.dat] not exists
+[2017.04.15 21:57:16] [0000m.01s.019ms] [1] Single file [C:\PADSViewer Projects\DxProjects\Thermistor_Board\database\icdb.dat] created
+[2017.04.15 21:57:16] [0000m.01s.041ms] [0] iCDB Server PI: Server & plugin session [1]
+[2017.04.15 21:57:16] [0000m.01s.041ms] [0] iCDB Server PI: Opening database [C:\PADSViewer Projects\DxProjects\Thermistor_Board\database]
+[2017.04.15 21:57:16] [0000m.01s.041ms] [0] iCDB Server PI: Database [C:\PADSViewer Projects\DxProjects\Thermistor_Board\database] opened
+[2017.04.15 21:57:16] [0000m.01s.477ms] [0] iCDB Database: Checking existence of constraint definitions
+[2017.04.15 21:57:16] [0000m.01s.477ms] [0] iCDB Database: Loading constraint definitions into database
+[2017.04.15 21:57:17] [0000m.01s.742ms] [0] iCDB Database: Constraint definitions version [ce_ee.cns=7.10.56] loaded
+[2017.04.15 21:57:17] [0000m.01s.788ms] [0] iCDB Server PI: Initializing plugins
+[2017.04.15 21:57:17] [0000m.01s.788ms] [0] iCDB Server PI: Plugins initialized
+[2017.04.15 21:57:17] [0000m.01s.788ms] [0] S: iCDB database loaded
+[2017.04.15 21:57:17] [0000m.01s.790ms] [0] S: Starting threads
+[2017.04.15 21:57:17] [0000m.01s.819ms] [0] BT: Listening for broadcast messages on port [10000]
+[2017.04.15 21:57:17] [0000m.01s.820ms] [0] IT: Session [2] for host [DESKTOP-44HKI68] user [Liam James Mulshine] with process ID [3584] created
+[2017.04.15 21:57:17] [0000m.01s.821ms] [1] CMT: There are [1] clients now: 2
+[2017.04.15 21:57:17] [0000m.01s.910ms] [1] PrjBackupMgr: Successfully created Project Backup [C:\PADSViewer Projects\DxProjects\Thermistor_Board\ProjectBackup\backups\2017-04-15 21.57.17 - auto.zip] with GUID [62e9-652c-8f8c-e401-d7fc-2f82-8fc2-f850-1fa2-3342-23c1-1f98]
+[2017.04.15 21:57:17] [0000m.01s.910ms] [0] PrjBackupEngine: Successfully created backup:  BackupGUID[62e9-652c-8f8c-e401-d7fc-2f82-8fc2-f850-1fa2-3342-23c1-1f98] CreationTime[Sunday, April 16, 2017 01:57:17] Type[Autosave] Creator[iCDB Server (2017-04-15 21.57.15-6440)] ApplicationName[iCDB Server (2017-04-15 21.57.15-6440)] UserName[Liam James Mulshine] MachineName[DESKTOP-44HKI68] Description[Autosave] FullFlowName[PADS VX.2.1] FlowId[PADSVX.2.1] GBSInstallId[1468892] GBSBuildId[5682207] IcdbVersion[3200] ReferenceLogFilePath[] BackupFilePath[C:\PADSViewer Projects\DxProjects\Thermistor_Board\ProjectBackup\backups\2017-04-15 21.57.17 - auto.zip] BackupFileSize[12101] Persistent[FALSE]
+[2017.04.15 21:57:17] [0000m.01s.911ms] [1] SC[2]: Registered sub-client [DxD] with ID [1] for session ID [2] host [DESKTOP-44HKI68] user [Liam James Mulshine] process ID [3584]
+[2017.04.15 21:57:17] [0000m.01s.949ms] [0] MWT: WindowProc: WM_NCCREATE
+[2017.04.15 21:57:17] [0000m.01s.957ms] [1] SC[2]: Registered sub-client [TransactionRollbackSubClient] with ID [2] for session ID [2] host [DESKTOP-44HKI68] user [Liam James Mulshine] process ID [3584]
+[2017.04.15 21:57:17] [0000m.01s.960ms] [1] SC[2]: Registered sub-client [xprob] with ID [3] for session ID [2] host [DESKTOP-44HKI68] user [Liam James Mulshine] process ID [3584]
+[2017.04.15 21:57:19] [0000m.04s.090ms] [1] SC[2]: Registered sub-client [SymbolEditor] with ID [4] for session ID [2] host [DESKTOP-44HKI68] user [Liam James Mulshine] process ID [3584]
+[2017.04.15 21:57:19] [0000m.04s.099ms] [1] SC[2]: Registered sub-client [SelectionHolder] with ID [5] for session ID [2] host [DESKTOP-44HKI68] user [Liam James Mulshine] process ID [3584]
+[2017.04.15 21:57:19] [0000m.04s.202ms] [1] SC[2]: Registered sub-client [SystemDesignDll] with ID [6] for session ID [2] host [DESKTOP-44HKI68] user [Liam James Mulshine] process ID [3584]
+[2017.04.15 21:57:19] [0000m.04s.207ms] [1] SC[2]: UnRegistered sub-client [SystemDesignDll] with ID [6] for session ID [2] host [DESKTOP-44HKI68] user [Liam James Mulshine] process ID [3584]
+[2017.04.15 21:57:19] [0000m.04s.211ms] [1] SC[2]: Registered sub-client [SystemDesignDll] with ID [7] for session ID [2] host [DESKTOP-44HKI68] user [Liam James Mulshine] process ID [3584]
+[2017.04.15 21:57:20] [0000m.04s.863ms] [1] SC[2]: Registered sub-client [DesignSearcher2] with ID [8] for session ID [2] host [DESKTOP-44HKI68] user [Liam James Mulshine] process ID [3584]
+[2017.04.15 21:57:20] [0000m.04s.868ms] [1] SC[2]: Registered sub-client [HdlProject] with ID [9] for session ID [2] host [DESKTOP-44HKI68] user [Liam James Mulshine] process ID [3584]
+[2017.04.15 21:57:20] [0000m.04s.872ms] [1] SC[2]: Registered sub-client [Navigator] with ID [10] for session ID [2] host [DESKTOP-44HKI68] user [Liam James Mulshine] process ID [3584]
+[2017.04.15 21:57:20] [0000m.04s.881ms] [1] SC[2]: Registered sub-client [OutputWindow] with ID [11] for session ID [2] host [DESKTOP-44HKI68] user [Liam James Mulshine] process ID [3584]
+[2017.04.15 21:57:20] [0000m.04s.883ms] [1] SC[2]: Registered sub-client [PlaceDevice] with ID [12] for session ID [2] host [DESKTOP-44HKI68] user [Liam James Mulshine] process ID [3584]
+[2017.04.15 21:57:20] [0000m.05s.075ms] [1] SC[2]: Registered sub-client [LocalSymbolsDataProvider] with ID [13] for session ID [2] host [DESKTOP-44HKI68] user [Liam James Mulshine] process ID [3584]
+[2017.04.15 21:57:20] [0000m.05s.079ms] [1] SC[2]: Registered sub-client [FFSearch_Controller_10] with ID [14] for session ID [2] host [DESKTOP-44HKI68] user [Liam James Mulshine] process ID [3584]
+[2017.04.15 21:57:20] [0000m.05s.082ms] [1] SC[2]: Registered sub-client [FFSearch_Controller_11] with ID [15] for session ID [2] host [DESKTOP-44HKI68] user [Liam James Mulshine] process ID [3584]
+[2017.04.15 21:57:20] [0000m.05s.085ms] [1] SC[2]: Registered sub-client [FFSearch_Controller_12] with ID [16] for session ID [2] host [DESKTOP-44HKI68] user [Liam James Mulshine] process ID [3584]
+[2017.04.15 21:57:20] [0000m.05s.088ms] [1] SC[2]: Registered sub-client [FFSearch_Controller_13] with ID [17] for session ID [2] host [DESKTOP-44HKI68] user [Liam James Mulshine] process ID [3584]
+[2017.04.15 21:57:20] [0000m.05s.092ms] [1] SC[2]: Registered sub-client [FFSearch_Controller_14] with ID [18] for session ID [2] host [DESKTOP-44HKI68] user [Liam James Mulshine] process ID [3584]
+[2017.04.15 21:57:20] [0000m.05s.096ms] [1] SC[2]: Registered sub-client [FFSearch_Controller_15] with ID [19] for session ID [2] host [DESKTOP-44HKI68] user [Liam James Mulshine] process ID [3584]
+[2017.04.15 21:57:20] [0000m.05s.099ms] [1] SC[2]: Registered sub-client [FFSearch_Controller_16] with ID [20] for session ID [2] host [DESKTOP-44HKI68] user [Liam James Mulshine] process ID [3584]
+[2017.04.15 21:57:20] [0000m.05s.102ms] [1] SC[2]: Registered sub-client [FFSearch_Controller_17] with ID [21] for session ID [2] host [DESKTOP-44HKI68] user [Liam James Mulshine] process ID [3584]
+[2017.04.15 21:57:20] [0000m.05s.105ms] [1] SC[2]: Registered sub-client [FFSearch_Controller_18] with ID [22] for session ID [2] host [DESKTOP-44HKI68] user [Liam James Mulshine] process ID [3584]
+[2017.04.15 21:57:20] [0000m.05s.108ms] [1] SC[2]: Registered sub-client [FFSearch_Controller_19] with ID [23] for session ID [2] host [DESKTOP-44HKI68] user [Liam James Mulshine] process ID [3584]
+[2017.04.15 21:57:20] [0000m.05s.111ms] [1] SC[2]: Registered sub-client [SAE] with ID [24] for session ID [2] host [DESKTOP-44HKI68] user [Liam James Mulshine] process ID [3584]
+[2017.04.15 21:57:20] [0000m.05s.129ms] [1] SC[2]: Registered sub-client [DxConstraints] with ID [25] for session ID [2] host [DESKTOP-44HKI68] user [Liam James Mulshine] process ID [3584]
+[2017.04.15 21:57:20] [0000m.05s.131ms] [1] SC[2]: Registered sub-client [CCZAddin] with ID [26] for session ID [2] host [DESKTOP-44HKI68] user [Liam James Mulshine] process ID [3584]
+[2017.04.15 21:57:20] [0000m.05s.134ms] [1] SC[2]: Registered sub-client [DxThumbnails] with ID [27] for session ID [2] host [DESKTOP-44HKI68] user [Liam James Mulshine] process ID [3584]
+[2017.04.15 21:57:20] [0000m.05s.137ms] [1] SC[2]: Registered sub-client [MyParts] with ID [28] for session ID [2] host [DESKTOP-44HKI68] user [Liam James Mulshine] process ID [3584]
+[2017.04.15 21:57:20] [0000m.05s.236ms] [1] SC[2]: Registered sub-client [PinsList] with ID [29] for session ID [2] host [DESKTOP-44HKI68] user [Liam James Mulshine] process ID [3584]
+[2017.04.15 21:57:20] [0000m.05s.373ms] [1] SC[2]: Registered sub-client [toolboxes] with ID [30] for session ID [2] host [DESKTOP-44HKI68] user [Liam James Mulshine] process ID [3584]
+[2017.04.15 21:57:20] [0000m.05s.389ms] [1] SC[2]: Registered sub-client [ProjectIntegrationIcdbCacheDxD:359460744] with ID [31] for session ID [2] host [DESKTOP-44HKI68] user [Liam James Mulshine] process ID [3584]
+[2017.04.15 21:57:20] [0000m.05s.418ms] [1] SC[2]: Registered sub-client [SheetConnectorsCacheDxD:1492307840] with ID [32] for session ID [2] host [DESKTOP-44HKI68] user [Liam James Mulshine] process ID [3584]
+[2017.04.15 21:57:20] [0000m.05s.423ms] [1] SC[2]: Registered sub-client [NetsNamesCollectorDxD:1492307840] with ID [33] for session ID [2] host [DESKTOP-44HKI68] user [Liam James Mulshine] process ID [3584]
+[2017.04.15 21:57:20] [0000m.05s.539ms] [1] SC[2]: Registered sub-client [PartReplaceUtils] with ID [34] for session ID [2] host [DESKTOP-44HKI68] user [Liam James Mulshine] process ID [3584]
+[2017.04.15 21:57:21] [0000m.05s.782ms] [1] SC[2]: Registered sub-client [ObjectHolder_359106544] with ID [35] for session ID [2] host [DESKTOP-44HKI68] user [Liam James Mulshine] process ID [3584]
+[2017.04.15 21:57:21] [0000m.05s.815ms] [1] SC[2]: Registered sub-client [BlockCacheDxD:472147520] with ID [36] for session ID [2] host [DESKTOP-44HKI68] user [Liam James Mulshine] process ID [3584]
+[2017.04.15 21:57:21] [0000m.05s.820ms] [1] SC[2]: Registered sub-client [GlobalNetAliasUpdater_359106752] with ID [37] for session ID [2] host [DESKTOP-44HKI68] user [Liam James Mulshine] process ID [3584]
+[2017.04.15 21:57:21] [0000m.05s.825ms] [1] SC[2]: Registered sub-client [IcdbNetProcessorSubClientDxD:475636080] with ID [38] for session ID [2] host [DESKTOP-44HKI68] user [Liam James Mulshine] process ID [3584]
+[2017.04.15 21:57:26] [0000m.11s.329ms] [1] SC[2]: Registered sub-client [DxDbSearch] with ID [39] for session ID [2] host [DESKTOP-44HKI68] user [Liam James Mulshine] process ID [3584]
+[2017.04.15 21:57:43] [0000m.27s.735ms] [0] DFAMT: File server access time: 50 us
+[2017.04.15 22:00:56] [0003m.40s.724ms] [1] SC[2]: Registered sub-client [hdlUtilsDialog] with ID [40] for session ID [2] host [DESKTOP-44HKI68] user [Liam James Mulshine] process ID [3584]
+[2017.04.15 22:00:56] [0003m.40s.724ms] [1] SC[2]: UnRegistered sub-client [hdlUtilsDialog] with ID [40] for session ID [2] host [DESKTOP-44HKI68] user [Liam James Mulshine] process ID [3584]
+[2017.04.15 22:31:34] [0034m.18s.808ms] [0] MWT: WM_QUERYENDSESSION
+[2017.04.15 22:31:34] [0034m.18s.809ms] [0] MWT: Requesting emergency server stop: Got a message: WM_QUERYENDSESSION
+[2017.04.15 22:31:34] [0034m.18s.818ms] [0] Removing server address file.
+[2017.04.15 22:31:34] [0034m.18s.901ms] [0] S: Closing server
+[2017.04.15 22:31:34] [0034m.18s.902ms] [4] SMCL: Distributing notify to registered [General] iCDB Server Manager clients [NotifyServerStatus @ Version[1] # Id[Sender GUID[7146-6ce6-709d-c808-b7fc-2f80-8fc2-f850-1103-3342-23c1-1f98] Command number[162956]] # Proxy[EMPTY] # RequestId[Sender GUID[0000-0000-0000-0000-0000-0000-0000-0000-0000-0000-0000-0000] Command number[0]] # ReplyPort[10000] # Status [Closing]]
+[2017.04.15 22:31:34] [0034m.18s.903ms] [3] IT: FREE
+[2017.04.15 22:31:34] [0034m.18s.903ms] [4] IT: Waiting for finish
+[2017.04.15 22:31:34] [0034m.18s.904ms] [5] ET: Executing client [2] command: Server # ClientCommandID[162881] # SubClientID[1] @ PIMCommand # CDBCommand.Size[30]
+[2017.04.15 22:31:34] [0034m.18s.905ms] [7] CST[2]: Trying to send command [044470B8] of size [178]
+[2017.04.15 22:31:34] [0034m.18s.905ms] [7] CST[2]: Sent command [044470B8]
+[2017.04.15 22:31:34] [0034m.18s.905ms] [7] CST[2]: Trying to send command [04446F20] of size [39]
+[2017.04.15 22:31:34] [0034m.18s.980ms] [7] CST[2]: Sent command [04446F20]
+[2017.04.15 22:31:34] [0034m.18s.987ms] [4] IT: Empty client connection popped from the waiting queue
+[2017.04.15 22:31:34] [0034m.18s.987ms] [2] IT: STOP
+[2017.04.15 22:31:34] [0034m.18s.991ms] [3] ET: Suspend request
+[2017.04.15 22:31:34] [0034m.18s.992ms] [4] iCDB Server PI: Executing PIM command from sub-client [1]: CDBCommand { EPIMCommand {GetPIManager} PIInfo { FESnapshotName[DxD] FETopLevelUID[2-1-5 (Block)] BESnapshotName[Board1_layout_temp]} bool {FALSE}}
+[2017.04.15 22:31:34] [0034m.18s.992ms] [5] iCDB PIM Wrapper: Executing AddPISession: PIInfo[ FESnapshotName[DxD] FETopLevelUID[2-1-5 (Block)] BESnapshotName[Board1_layout_temp]]
+[2017.04.15 22:31:34] [0034m.18s.993ms] [4] iCDB Server PI: Returning result from PIM command from sub-client [1]: CDBCommand { Index {0-1-127 (ProjectIntegration)}}
+[2017.04.15 22:31:34] [0034m.18s.993ms] [5] ET: From client [2] command executed
+[2017.04.15 22:31:34] [0034m.18s.993ms] [5] ET: To client [2] command reply: Client # ServerCommandID[162957] # ClientCommandID[162881] # NotifyCount[0] @ PIMCommand # CDBCommand.Size[5]
+[2017.04.15 22:31:34] [0034m.18s.993ms] [7] SC[2]: Adding reply command to send: Client # ServerCommandID[162957] # ClientCommandID[162881] # NotifyCount[0] @ PIMCommand # CDBCommand.Size[5]
+[2017.04.15 22:31:34] [0034m.18s.993ms] [7] SC[2]: Added reply command [04446F20] to send
+[2017.04.15 22:31:34] [0034m.18s.993ms] [2] ET: SUSPENDED
+[2017.04.15 22:31:34] [0034m.18s.994ms] [7] CST[2]: Trying to send command [04446F20] of size [41]
+[2017.04.15 22:31:34] [0034m.18s.995ms] [7] CST[2]: Sent command [04446F20]
+[2017.04.15 22:31:34] [0034m.18s.995ms] [3] ET: Suspend request finished
+[2017.04.15 22:31:34] [0034m.18s.995ms] [2] SCL: Removing all clients
+[2017.04.15 22:31:34] [0034m.18s.995ms] [3] SC[2]: FREE
+[2017.04.15 22:31:34] [0034m.18s.995ms] [4] SMCL: Distributing notify to registered [ClientList] iCDB Server Manager clients [NotifyServerClientRemove @ Version[1] # Id[Sender GUID[7146-6ce6-709d-c808-b7fc-2f80-8fc2-f850-1103-3342-23c1-1f98] Command number[162958]] # Proxy[EMPTY] # RequestId[Sender GUID[0000-0000-0000-0000-0000-0000-0000-0000-0000-0000-0000-0000] Command number[0]] # ReplyPort[10000] # Client [Address[DESKTOP-44HKI68] User[Liam James Mulshine] PID[3584] Session[2] Status[Active] Dead elapsed time sec[0] Version[2.201] Sub-clients[ ( Sub-client[Name[DxD] Id[1]], Sub-client[Name[TransactionRollbackSubClient] Id[2]], Sub-client[Name[xprob] Id[3]], Sub-client[Name[SymbolEditor] Id[4]], Sub-client[Name[SelectionHolder] Id[5]], Sub-client[Name[SystemDesignDll] Id[7]], Sub-client[Name[DesignSearcher2] Id[8]], Sub-client[Name[HdlProject] Id[9]], Sub-client[Name[Navigator] Id[10]], Sub-client[Name[OutputWindow] Id[11]], Sub-client[Name[PlaceDevice] Id[12]], Sub-client[Name[LocalSymbolsDataProvider] Id[13]], Sub-client[Name[FFSearch_Controller_10] Id[14]], Sub-client[Name[FFSearch_Controller_11] Id[15]], Sub-client[Name[FFSearch_Controller_12] Id[16]], Sub-client[Name[FFSearch_Controller_13] Id[17]], Sub-client[Name[FFSearch_Controller_14] Id[18]], Sub-client[Name[FFSearch_Controller_15] Id[19]], Sub-client[Name[FFSearch_Controller_16] Id[20]], Sub-client[Name[FFSearch_Controller_17] Id[21]], Sub-client[Name[FFSearch_Controller_18] Id[22]], Sub-client[Name[FFSearch_Controller_19] Id[23]], Sub-client[Name[SAE] Id[24]], Sub-client[Name[DxConstraints] Id[25]], Sub-client[Name[CCZAddin] Id[26]], Sub-client[Name[DxThumbnails] Id[27]], Sub-client[Name[MyParts] Id[28]], Sub-client[Name[PinsList] Id[29]], Sub-client[Name[toolboxes] Id[30]], Sub-client[Name[ProjectIntegrationIcdbCacheDxD:359460744] Id[31]], Sub-client[Name[SheetConnectorsCacheDxD:1492307840] Id[32]], Sub-client[Name[NetsNamesCollectorDxD:1492307840] Id[33]], Sub-client[Name[PartReplaceUtils] Id[34]], Sub-client[Name[ObjectHolder_359106544] Id[35]], Sub-client[Name[BlockCacheDxD:472147520] Id[36]], Sub-client[Name[GlobalNetAliasUpdater_359106752] Id[37]], Sub-client[Name[IcdbNetProcessorSubClientDxD:475636080] Id[38]], Sub-client[Name[DxDbSearch] Id[39]])]]]
+[2017.04.15 22:31:34] [0034m.18s.995ms] [3] CRT[2]: FREE
+[2017.04.15 22:31:34] [0034m.18s.995ms] [4] CRT[2]: Waiting for finish
+[2017.04.15 22:31:34] [0034m.18s.996ms] [5] SC[2]: Received command: Server # ClientCommandID[162882] # SubClientID[1] @ PIMCommand # CDBCommand.Size[9]
+[2017.04.15 22:31:34] [0034m.18s.996ms] [2] CRT[2]: STOP
+[2017.04.15 22:31:34] [0034m.18s.997ms] [3] CST[2]: FREE
+[2017.04.15 22:31:34] [0034m.18s.997ms] [4] CST[2]: Waiting for finish
+[2017.04.15 22:31:34] [0034m.18s.997ms] [2] CST[2]: STOP
+[2017.04.15 22:31:34] [0034m.18s.997ms] [1] SC[2]: WARNING: Session is still active while destroying
+[2017.04.15 22:31:34] [0034m.18s.997ms] [2] SC[2]: Disconnecting from peer
+[2017.04.15 22:31:34] [0034m.19s.032ms] [6] iCDB Server PI: ReleaseOpenSnapshotRefCount [1]: 0
+[2017.04.15 22:31:34] [0034m.19s.032ms] [3] iCDB Server PI: No one is using snapshot [1] - removing from cache
+[2017.04.15 22:31:34] [0034m.19s.033ms] [6] iCDB Storage Server: Checking existence of file [C:\PADSViewer Projects\DxProjects\Thermistor_Board\database\s1\cdbblks\2000000010000050.blk\rbcatl.v]
+[2017.04.15 22:31:34] [0034m.19s.033ms] [6] iCDB Storage Server: File [C:\PADSViewer Projects\DxProjects\Thermistor_Board\database\s1\cdbblks\2000000010000050.blk\rbcatl.v] doesn't exist
+[2017.04.15 22:31:34] [0034m.19s.036ms] [6] iCDB Storage Server: Checking existence of file [C:\PADSViewer Projects\DxProjects\Thermistor_Board\database\s1\uids]
+[2017.04.15 22:31:34] [0034m.19s.036ms] [6] iCDB Storage Server: File [C:\PADSViewer Projects\DxProjects\Thermistor_Board\database\s1\uids] exists
+[2017.04.15 22:31:34] [0034m.19s.038ms] [6] ServerObserverSnapshot: OnDestruct SnapshotID[1]
+[2017.04.15 22:31:34] [0034m.19s.038ms] [6] iCDB Storage Server: Saving all modified files
+[2017.04.15 22:31:34] [0034m.19s.079ms] [6] ServerObserverSnapshot: OnDestruct Finish
+[2017.04.15 22:31:34] [0034m.19s.080ms] [6] iCDB Storage Server: Unloading directory [C:\PADSViewer Projects\DxProjects\Thermistor_Board\database\s1]
+[2017.04.15 22:31:34] [0034m.19s.080ms] [6] iCDB Storage Server: Unloading file [C:\PADSViewer Projects\DxProjects\Thermistor_Board\database\s1\cdbblks\2000000010000050.blk\blkatl.v]
+[2017.04.15 22:31:34] [0034m.19s.080ms] [6] iCDB Storage Server: Unloading file [C:\PADSViewer Projects\DxProjects\Thermistor_Board\database\s1\cdbblks\2000000010000050.blk\dxdatl.v]
+[2017.04.15 22:31:34] [0034m.19s.080ms] [6] iCDB Storage Server: Unloading file [C:\PADSViewer Projects\DxProjects\Thermistor_Board\database\s1\cdbcatlg\catlgatl.v]
+[2017.04.15 22:31:34] [0034m.19s.080ms] [6] iCDB Storage Server: Unloading file [C:\PADSViewer Projects\DxProjects\Thermistor_Board\database\s1\cdbcatlg\grpatl.v]
+[2017.04.15 22:31:34] [0034m.19s.080ms] [6] iCDB Storage Server: Unloading file [C:\PADSViewer Projects\DxProjects\Thermistor_Board\database\s1\cdbcatlg\grpobj]
+[2017.04.15 22:31:34] [0034m.19s.080ms] [6] iCDB Storage Server: Unloading file [C:\PADSViewer Projects\DxProjects\Thermistor_Board\database\s1\cdbcmpcache\cmpatl.v]
+[2017.04.15 22:31:34] [0034m.19s.080ms] [6] iCDB Storage Server: Unloading file [C:\PADSViewer Projects\DxProjects\Thermistor_Board\database\s1\cdbcmpcache\dxdatl.v]
+[2017.04.15 22:31:34] [0034m.19s.083ms] [6] iCDB Storage Server: Unloading file [C:\PADSViewer Projects\DxProjects\Thermistor_Board\database\s1\cdbcmps\cmpatl.v]
+[2017.04.15 22:31:34] [0034m.19s.083ms] [6] iCDB Storage Server: Unloading file [C:\PADSViewer Projects\DxProjects\Thermistor_Board\database\s1\cdbcnfgs\2000000010000050.blk\cesatl.v]
+[2017.04.15 22:31:34] [0034m.19s.083ms] [6] iCDB Storage Server: Unloading file [C:\PADSViewer Projects\DxProjects\Thermistor_Board\database\s1\cdbcnfgs\2000000010000050.blk\cnfgatl.v]
+[2017.04.15 22:31:34] [0034m.19s.083ms] [6] iCDB Storage Server: Unloading file [C:\PADSViewer Projects\DxProjects\Thermistor_Board\database\s1\cdbcnfgs\2000000010000050.blk\varatl.v]
+[2017.04.15 22:31:34] [0034m.19s.083ms] [6] iCDB Storage Server: Unloading file [C:\PADSViewer Projects\DxProjects\Thermistor_Board\database\s1\oryg]
+[2017.04.15 22:31:34] [0034m.19s.084ms] [6] iCDB Storage Server: Unloading file [C:\PADSViewer Projects\DxProjects\Thermistor_Board\database\s1\params]
+[2017.04.15 22:31:34] [0034m.19s.084ms] [6] iCDB Storage Server: Unloading file [C:\PADSViewer Projects\DxProjects\Thermistor_Board\database\s1\uids]
+[2017.04.15 22:31:34] [0034m.19s.084ms] [5] iCDB Server PI: Snapshot [1] removed from cache
+[2017.04.15 22:31:34] [0034m.19s.084ms] [6] iCDB Server PI: ReleaseOpenSnapshotRefCount [2]: 0
+[2017.04.15 22:31:34] [0034m.19s.084ms] [3] iCDB Server PI: No one is using snapshot [2] - removing from cache
+[2017.04.15 22:31:34] [0034m.19s.084ms] [6] ServerObserverSnapshot: OnDestruct SnapshotID[2]
+[2017.04.15 22:31:34] [0034m.19s.084ms] [6] iCDB Storage Server: Saving all modified files
+[2017.04.15 22:31:34] [0034m.19s.088ms] [6] iCDB Storage Server: Checking existence of file [C:\PADSViewer Projects\DxProjects\Thermistor_Board\database\s2\uids]
+[2017.04.15 22:31:34] [0034m.19s.088ms] [6] iCDB Storage Server: File [C:\PADSViewer Projects\DxProjects\Thermistor_Board\database\s2\uids] exists
+[2017.04.15 22:31:34] [0034m.19s.089ms] [6] iCDB Storage Server: Unloading directory [C:\PADSViewer Projects\DxProjects\Thermistor_Board\database\s2]
+[2017.04.15 22:31:34] [0034m.19s.089ms] [6] iCDB Storage Server: Unloading file [C:\PADSViewer Projects\DxProjects\Thermistor_Board\database\s2\cdbcatlg\catlgatl.v]
+[2017.04.15 22:31:34] [0034m.19s.089ms] [6] iCDB Storage Server: Unloading file [C:\PADSViewer Projects\DxProjects\Thermistor_Board\database\s2\cdbcatlg\grpatl.v]
+[2017.04.15 22:31:34] [0034m.19s.089ms] [6] iCDB Storage Server: Unloading file [C:\PADSViewer Projects\DxProjects\Thermistor_Board\database\s2\cdbcmpcache\cmpatl.v]
+[2017.04.15 22:31:34] [0034m.19s.089ms] [6] iCDB Storage Server: Unloading file [C:\PADSViewer Projects\DxProjects\Thermistor_Board\database\s2\cdbcmps\cmpatl.v]
+[2017.04.15 22:31:34] [0034m.19s.089ms] [6] iCDB Storage Server: Unloading file [C:\PADSViewer Projects\DxProjects\Thermistor_Board\database\s2\oryg]
+[2017.04.15 22:31:34] [0034m.19s.089ms] [6] iCDB Storage Server: Unloading file [C:\PADSViewer Projects\DxProjects\Thermistor_Board\database\s2\params]
+[2017.04.15 22:31:34] [0034m.19s.089ms] [6] iCDB Storage Server: Unloading file [C:\PADSViewer Projects\DxProjects\Thermistor_Board\database\s2\uids]
+[2017.04.15 22:31:34] [0034m.19s.089ms] [6] ServerObserverSnapshot: OnDestruct Finish
+[2017.04.15 22:31:34] [0034m.19s.089ms] [5] iCDB Server PI: Snapshot [2] removed from cache
+[2017.04.15 22:31:34] [0034m.19s.089ms] [3] ET: Discarding pending commands
+[2017.04.15 22:31:34] [0034m.19s.089ms] [3] ET: Resume request
+[2017.04.15 22:31:34] [0034m.19s.089ms] [3] ET: Resume request finished
+[2017.04.15 22:31:34] [0034m.19s.090ms] [2] ET: RESUMED
+[2017.04.15 22:31:34] [0034m.19s.090ms] [2] ET: WARNING: Discarding client [2] command: Server # ClientCommandID[162882] # SubClientID[1] @ PIMCommand # CDBCommand.Size[9]
+[2017.04.15 22:31:34] [0034m.19s.113ms] [2] PrjBackupEngine: STOP
+[2017.04.15 22:31:34] [0034m.19s.495ms] [3] PrjBackupEngine: FREE
+[2017.04.15 22:31:34] [0034m.19s.495ms] [4] PrjBackupEngine: Waiting for finish
+[2017.04.15 22:31:34] [0034m.19s.495ms] [3] ET: FREE
+[2017.04.15 22:31:34] [0034m.19s.495ms] [2] ET: STOP
+[2017.04.15 22:31:34] [0034m.19s.495ms] [4] ET: Waiting for finish
+[2017.04.15 22:31:34] [0034m.19s.495ms] [2] SCL: Stopping all send threads
+[2017.04.15 22:31:34] [0034m.19s.495ms] [3] CMT: FREE
+[2017.04.15 22:31:34] [0034m.19s.495ms] [4] CMT: Waiting for finish
+[2017.04.15 22:31:34] [0034m.19s.511ms] [2] CMT: STOP
+[2017.04.15 22:31:35] [0034m.19s.727ms] [3] DMT: FREE
+[2017.04.15 22:31:35] [0034m.19s.728ms] [2] DMT: STOP
+[2017.04.15 22:31:35] [0034m.19s.728ms] [4] DMT: Waiting for finish
+[2017.04.15 22:31:35] [0034m.19s.728ms] [3] DFAMT: FREE
+[2017.04.15 22:31:35] [0034m.19s.728ms] [4] DFAMT: Waiting for finish
+[2017.04.15 22:31:35] [0034m.19s.992ms] [2] DFAMT: Filer project path [C:\PADSViewer Projects\DxProjects\Thermistor_Board\database] access monitoring ended
+[2017.04.15 22:31:35] [0034m.19s.992ms] [2] DFAMT: STOP
+[2017.04.15 22:31:35] [0034m.20s.206ms] [4] DFAMT: FINISHED
+[2017.04.15 22:31:35] [0034m.20s.206ms] [3] DiagSystemMemoryMonitorThread: FREE
+[2017.04.15 22:31:35] [0034m.20s.206ms] [4] DiagSystemMemoryMonitorThread: Waiting for finish
+[2017.04.15 22:31:35] [0034m.20s.209ms] [2] DiagSystemMemoryMonitorThread: System memory usage monitoring ended
+[2017.04.15 22:31:35] [0034m.20s.209ms] [2] DiagSystemMemoryMonitorThread: STOP
+[2017.04.15 22:31:35] [0034m.20s.281ms] [4] DiagSystemMemoryMonitorThread: FINISHED
+[2017.04.15 22:31:35] [0034m.20s.281ms] [4] DMT: FINISHED
+[2017.04.15 22:31:35] [0034m.20s.282ms] [2] SCL: Removing all clients
+[2017.04.15 22:31:35] [0034m.20s.283ms] [2] iCDB Server PI: Unloading observers
+[2017.04.15 22:31:35] [0034m.20s.283ms] [2] iCDB Server PI: Observers unloaded
+[2017.04.15 22:31:35] [0034m.20s.283ms] [0] iCDB Server PI: Closing plugins
+[2017.04.15 22:31:35] [0034m.20s.283ms] [2] iCDB Server PI: Closing PIM plugin
+[2017.04.15 22:31:35] [0034m.20s.283ms] [5] iCDB PIM Wrapper: FREE
+[2017.04.15 22:31:35] [0034m.20s.285ms] [2] iCDB Server PI: Closing ENetGen plugin
+[2017.04.15 22:31:35] [0034m.20s.285ms] [5] iCDB ENetGen Wrapper: FREE
+[2017.04.15 22:31:35] [0034m.20s.285ms] [0] iCDB Server PI: Plugins closed
+[2017.04.15 22:31:35] [0034m.20s.285ms] [0] iCDB Server PI: Unloading database
+[2017.04.15 22:31:35] [0034m.20s.285ms] [7] DCM: CDBCesDefConstraintManager::LoadVersionInfo(force[0] cumulativesaveVersion[00000000] transporter[00000000]) -- isModified[0] upgradeFlag[0]
+[2017.04.15 22:31:35] [0034m.20s.285ms] [6] iCDB Storage Server: Saving all modified files
+[2017.04.15 22:31:35] [0034m.20s.285ms] [0] iCDB Server PI: Saving storage
+[2017.04.15 22:31:35] [0034m.20s.285ms] [6] iCDB Storage Server: Saving all modified files
+[2017.04.15 22:31:35] [0034m.20s.285ms] [0] iCDB Server PI: Closing database
+[2017.04.15 22:31:35] [0034m.20s.286ms] [7] Holes::writing holes [5] prev [0] from [88620] 
+[2017.04.15 22:31:35] [0034m.20s.286ms] [7] Holes::write <46636,49387>
+[2017.04.15 22:31:35] [0034m.20s.286ms] [7] Holes::write <52716,52971>
+[2017.04.15 22:31:35] [0034m.20s.286ms] [7] Holes::write <54828,58923>
+[2017.04.15 22:31:35] [0034m.20s.286ms] [7] Holes::write <61868,71083>
+[2017.04.15 22:31:35] [0034m.20s.286ms] [7] Holes::write <71212,78251>
+[2017.04.15 22:31:35] [0034m.20s.290ms] [7] Holes have been successfully saved 5 CRC [406319706]
+[2017.04.15 22:31:35] [0034m.20s.290ms] [1] iCDB Server PI: Stats: Database defragmentation: max[2] avg[1] holes[117%] data[67%]
+[2017.04.15 22:31:35] [0034m.20s.290ms] [1] iCDB Server PI: Stats: Database file size [88664 (86.6 kB)]
+[2017.04.15 22:31:35] [0034m.20s.290ms] [7] Holes::writing holes [5] prev [5] from [88660] 
+[2017.04.15 22:31:35] [0034m.20s.290ms] [7] Holes::write <46636,49387>
+[2017.04.15 22:31:35] [0034m.20s.290ms] [7] Holes::write <52716,52971>
+[2017.04.15 22:31:35] [0034m.20s.290ms] [7] Holes::write <54828,58923>
+[2017.04.15 22:31:35] [0034m.20s.290ms] [7] Holes::write <61868,71083>
+[2017.04.15 22:31:35] [0034m.20s.290ms] [7] Holes::write <71212,78251>
+[2017.04.15 22:31:35] [0034m.20s.291ms] [7] Holes have been successfully saved 5 CRC [406319706]
+[2017.04.15 22:31:35] [0034m.20s.291ms] [1] iCDB Server PI: WARNING: Database needs defragmentation!
+[2017.04.15 22:31:35] [0034m.20s.292ms] [7] DCM: CDBCesDefConstraintManager::UnLoad()
+[2017.04.15 22:31:35] [0034m.20s.292ms] [3] iCDB Storage Server: FREE
+[2017.04.15 22:31:35] [0034m.20s.292ms] [3] iCDB Storage Server Save Thread: FREE
+[2017.04.15 22:31:35] [0034m.20s.292ms] [4] iCDB Storage Server Save Thread: Waiting for finish
+[2017.04.15 22:31:35] [0034m.20s.292ms] [2] iCDB Storage Server Save Thread: STOP
+[2017.04.15 22:31:35] [0034m.20s.292ms] [3] iCDB Storage Server Backup Thread: FREE
+[2017.04.15 22:31:35] [0034m.20s.292ms] [4] iCDB Storage Server Backup Thread: Waiting for finish
+[2017.04.15 22:31:35] [0034m.20s.293ms] [2] iCDB Storage Server Backup Thread: STOP
+[2017.04.15 22:31:36] [0034m.21s.154ms] [3] SingleFile: [0000-0000-0000-0000] Modification time updated for file [C:\PADSViewer Projects\DxProjects\Thermistor_Board\database\icdb.dat]
+[2017.04.15 22:31:36] [0034m.21s.154ms] [3] SingleFile: [0000-0000-0000-0000] Closing file [C:\PADSViewer Projects\DxProjects\Thermistor_Board\database\icdb.dat] restrained
+[2017.04.15 22:31:36] [0034m.21s.156ms] [0] iCDB Server PI: Database closed
+[2017.04.15 22:31:36] [0034m.21s.157ms] [0] iCDB Server PI: Defragmenting database
+[2017.04.15 22:31:36] [0034m.21s.159ms] [0] iCDB Server PI: Creating database [C:\PADSViewer Projects\DxProjects\Thermistor_Board\database] backup to file [C:\PADSViewer Projects\DxProjects\Thermistor_Board\database\cdbback\2017-04-15 22.31.36-6440-d.zip]
+[2017.04.15 22:31:37] [0034m.22s.602ms] [0] iCDB Server PI: Database backup: DONE
+[2017.04.15 22:31:37] [0034m.22s.669ms] [3] SingleFile: [0000-0000-0000-0000] Successfylly opened file [C:\PADSViewer Projects\DxProjects\Thermistor_Board\database\icdb.dat]
+[2017.04.15 22:31:37] [0034m.22s.670ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2017.04.15 22:31:37] [0034m.22s.670ms] [3] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009] completed successfully
+[2017.04.15 22:31:37] [0034m.22s.670ms] [0] Database GUARD OK: [88664]
+[2017.04.15 22:31:37] [0034m.22s.670ms] [0] SingleFile: [9164-196a-5ef3-156e] SFI version check [1009] [1009]
+[2017.04.15 22:31:37] [0034m.22s.670ms] [3] SingleFile: [9164-196a-5ef3-156e] SFI version check [1009] [1009] completed successfully
+[2017.04.15 22:31:37] [0034m.22s.670ms] [3] Last database open information:
+[2017.04.15 22:31:37] [0034m.22s.670ms] [3] Time:             [2017-04-15 21.57.16]
+[2017.04.15 22:31:37] [0034m.22s.670ms] [3] Location:         [C:\PADSViewer Projects\DxProjects\Thermistor_Board\database\icdb.dat]
+[2017.04.15 22:31:37] [0034m.22s.670ms] [3] Machine:          [DESKTOP-44HKI68]
+[2017.04.15 22:31:37] [0034m.22s.670ms] [3] User:             [Liam James Mulshine]
+[2017.04.15 22:31:37] [0034m.22s.670ms] [3] PID:              [6440]
+[2017.04.15 22:31:37] [0034m.22s.670ms] [3] Application:      [iCDB Server]
+[2017.04.15 22:31:37] [0034m.22s.670ms] [3] Operating system: [Microsoft , 64-bit (build 9200)]
+[2017.04.15 22:31:37] [0034m.22s.670ms] [3] Current TID:      [10]
+[2017.04.15 22:31:37] [0034m.22s.670ms] [3] Last Good TID:    [10]
+[2017.04.15 22:31:37] [0034m.22s.670ms] [3] Saved TID:        [0]
+[2017.04.15 22:31:37] [0034m.22s.671ms] [7] SingleFile: [9164-196a-5ef3-156e] Reading header entry for file [\consdef] size [6314] Hpos [10348] data [35948] status [0]
+[2017.04.15 22:31:37] [0034m.22s.671ms] [7] SingleFile: [9164-196a-5ef3-156e] Reading header entry for file [\seslog] size [335] Hpos [10604] data [42284] status [0]
+[2017.04.15 22:31:37] [0034m.22s.671ms] [7] SingleFile: [9164-196a-5ef3-156e] Reading header entry for file [\sids] size [158] Hpos [10860] data [54508] status [0]
+[2017.04.15 22:31:37] [0034m.22s.671ms] [7] SingleFile: [9164-196a-5ef3-156e] Reading header entry for file [\s1\cdbcnfgs\2000000010000050.blk\cnfgatl.v] size [663] Hpos [11116] data [87340] status [0]
+[2017.04.15 22:31:37] [0034m.22s.671ms] [7] SingleFile: [9164-196a-5ef3-156e] Reading header entry for file [\pidb\pibrddb] size [8] Hpos [11372] data [46572] status [0]
+[2017.04.15 22:31:37] [0034m.22s.671ms] [7] SingleFile: [9164-196a-5ef3-156e] Reading header entry for file [\s1\uids] size [534] Hpos [11628] data [88044] status [0]
+[2017.04.15 22:31:37] [0034m.22s.671ms] [7] SingleFile: [9164-196a-5ef3-156e] Reading header entry for file [\params] size [89] Hpos [11884] data [78252] status [0]
+[2017.04.15 22:31:37] [0034m.22s.671ms] [7] SingleFile: [9164-196a-5ef3-156e] Reading header entry for file [\s1\cdbblks\2000000010000050.blk\dxdatl.v] size [1628] Hpos [12140] data [78764] status [0]
+[2017.04.15 22:31:37] [0034m.22s.672ms] [7] SingleFile: [9164-196a-5ef3-156e] Reading header entry for file [\s1\cdbcatlg\catlgatl.v] size [830] Hpos [12396] data [86060] status [0]
+[2017.04.15 22:31:37] [0034m.22s.672ms] [7] SingleFile: [9164-196a-5ef3-156e] Reading header entry for file [\s1\cdbcmpcache\dxdatl.v] size [3297] Hpos [12652] data [82732] status [0]
+[2017.04.15 22:31:37] [0034m.22s.672ms] [7] SingleFile: [9164-196a-5ef3-156e] Reading header entry for file [\s1\cdbcatlg\grpatl.v] size [323] Hpos [12908] data [49644] status [0]
+[2017.04.15 22:31:37] [0034m.22s.672ms] [7] SingleFile: [9164-196a-5ef3-156e] Reading header entry for file [\s1\cdbcmps\cmpatl.v] size [194] Hpos [13164] data [49388] status [0]
+[2017.04.15 22:31:37] [0034m.22s.672ms] [7] SingleFile: [9164-196a-5ef3-156e] Reading header entry for file [\s1\cdbblks\2000000010000050.blk\blkatl.v] size [843] Hpos [13420] data [80748] status [0]
+[2017.04.15 22:31:37] [0034m.22s.672ms] [7] SingleFile: [9164-196a-5ef3-156e] Reading header entry for file [\s1\cdbcatlg\grpobj] size [90] Hpos [13676] data [46444] status [0]
+[2017.04.15 22:31:37] [0034m.22s.672ms] [7] SingleFile: [9164-196a-5ef3-156e] Reading header entry for file [\s1\cdbcnfgs\2000000010000050.blk\varatl.v] size [462] Hpos [13932] data [52012] status [0]
+[2017.04.15 22:31:37] [0034m.22s.673ms] [7] SingleFile: [9164-196a-5ef3-156e] Reading header entry for file [\s1\oryg] size [17] Hpos [14188] data [52524] status [0]
+[2017.04.15 22:31:37] [0034m.22s.673ms] [7] SingleFile: [9164-196a-5ef3-156e] Reading header entry for file [\s1\params] size [107] Hpos [14444] data [52588] status [0]
+[2017.04.15 22:31:37] [0034m.22s.673ms] [7] SingleFile: [9164-196a-5ef3-156e] Reading header entry for file [\s1\cdbcmpcache\cmpatl.v] size [777] Hpos [14700] data [71084] status [0]
+[2017.04.15 22:31:37] [0034m.22s.673ms] [7] SingleFile: [9164-196a-5ef3-156e] Reading header entry for file [\s2\cdbcatlg\catlgatl.v] size [514] Hpos [14956] data [52972] status [0]
+[2017.04.15 22:31:37] [0034m.22s.673ms] [7] SingleFile: [9164-196a-5ef3-156e] Reading header entry for file [\s2\cdbcatlg\grpatl.v] size [165] Hpos [15212] data [53548] status [0]
+[2017.04.15 22:31:37] [0034m.22s.673ms] [7] SingleFile: [9164-196a-5ef3-156e] Reading header entry for file [\s2\cdbcmpcache\cmpatl.v] size [194] Hpos [15468] data [53740] status [0]
+[2017.04.15 22:31:37] [0034m.22s.673ms] [7] SingleFile: [9164-196a-5ef3-156e] Reading header entry for file [\s2\cdbcmps\cmpatl.v] size [194] Hpos [15724] data [53996] status [0]
+[2017.04.15 22:31:37] [0034m.22s.673ms] [7] SingleFile: [9164-196a-5ef3-156e] Reading header entry for file [\s2\oryg] size [17] Hpos [15980] data [54252] status [0]
+[2017.04.15 22:31:37] [0034m.22s.673ms] [7] SingleFile: [9164-196a-5ef3-156e] Reading header entry for file [\s2\params] size [100] Hpos [16236] data [54316] status [0]
+[2017.04.15 22:31:37] [0034m.22s.673ms] [7] SingleFile: [9164-196a-5ef3-156e] Reading header entry for file [\s2\uids] size [28] Hpos [16492] data [54444] status [0]
+[2017.04.15 22:31:37] [0034m.22s.673ms] [7] SingleFile: [9164-196a-5ef3-156e] Reading header entry for file [\pidb\pidb] size [85] Hpos [16748] data [54700] status [0]
+[2017.04.15 22:31:37] [0034m.22s.673ms] [7] SingleFile: [9164-196a-5ef3-156e] Reading header entry for file [\s1\cdbcnfgs\2000000010000050.blk\cesatl.v] size [1962] Hpos [17004] data [58924] status [0]
+[2017.04.15 22:31:37] [0034m.22s.673ms] [7] Holes::reading holes [5] from [88660]
+[2017.04.15 22:31:37] [0034m.22s.673ms] [7] Holes::read <46636,49387>
+[2017.04.15 22:31:37] [0034m.22s.673ms] [7] Holes::push <46636,49387>
+[2017.04.15 22:31:37] [0034m.22s.673ms] [7] Holes::read <52716,52971>
+[2017.04.15 22:31:37] [0034m.22s.673ms] [7] Holes::push <52716,52971>
+[2017.04.15 22:31:37] [0034m.22s.673ms] [7] Holes::read <54828,58923>
+[2017.04.15 22:31:37] [0034m.22s.673ms] [7] Holes::push <54828,58923>
+[2017.04.15 22:31:37] [0034m.22s.673ms] [7] Holes::read <61868,71083>
+[2017.04.15 22:31:37] [0034m.22s.673ms] [7] Holes::push <61868,71083>
+[2017.04.15 22:31:37] [0034m.22s.673ms] [7] Holes::read <71212,78251>
+[2017.04.15 22:31:37] [0034m.22s.673ms] [7] Holes::push <71212,78251>
+[2017.04.15 22:31:37] [0034m.22s.673ms] [7] Holes have been successfully read [5] CRC [406319706]
+[2017.04.15 22:31:37] [0034m.22s.673ms] [0] SingleFile: [9164-196a-5ef3-156e] Database SFI header has been read in [4ms 860us]
+[2017.04.15 22:31:37] [0034m.22s.673ms] [7] SingleFile: [9164-196a-5ef3-156e] reading [\consdef] [6314] data_slot 35948 data_size 6314 slot_size 6336 data_pos 0 read 6314 read_size 6314 file_pos 0 reuse_counter 0
+[2017.04.15 22:31:37] [0034m.22s.674ms] [3] SingleFile: [9164-196a-5ef3-156e] File read [\consdef] [6314] read 6314 from 6314 starting from 0 CRC [3804213984]
+[2017.04.15 22:31:37] [0034m.22s.674ms] [7] SingleFile: [9164-196a-5ef3-156e] reading [\params] [89] data_slot 78252 data_size 89 slot_size 512 data_pos 0 read 89 read_size 89 file_pos 0 reuse_counter 0
+[2017.04.15 22:31:37] [0034m.22s.674ms] [3] SingleFile: [9164-196a-5ef3-156e] File read [\params] [89] read 89 from 89 starting from 0 CRC [545425632]
+[2017.04.15 22:31:37] [0034m.22s.674ms] [7] SingleFile: [9164-196a-5ef3-156e] reading [\pidb\pibrddb] [8] data_slot 46572 data_size 8 slot_size 64 data_pos 0 read 8 read_size 8 file_pos 0 reuse_counter 0
+[2017.04.15 22:31:37] [0034m.22s.674ms] [3] SingleFile: [9164-196a-5ef3-156e] File read [\pidb\pibrddb] [8] read 8 from 8 starting from 0 CRC [3100911277]
+[2017.04.15 22:31:37] [0034m.22s.674ms] [7] SingleFile: [9164-196a-5ef3-156e] reading [\pidb\pidb] [85] data_slot 54700 data_size 85 slot_size 128 data_pos 0 read 85 read_size 85 file_pos 0 reuse_counter 0
+[2017.04.15 22:31:37] [0034m.22s.674ms] [3] SingleFile: [9164-196a-5ef3-156e] File read [\pidb\pidb] [85] read 85 from 85 starting from 0 CRC [1811786160]
+[2017.04.15 22:31:37] [0034m.22s.674ms] [7] SingleFile: [9164-196a-5ef3-156e] reading [\s1\cdbblks\2000000010000050.blk\blkatl.v] [843] data_slot 80748 data_size 843 slot_size 1280 data_pos 0 read 843 read_size 843 file_pos 0 reuse_counter 0
+[2017.04.15 22:31:37] [0034m.22s.674ms] [3] SingleFile: [9164-196a-5ef3-156e] File read [\s1\cdbblks\2000000010000050.blk\blkatl.v] [843] read 843 from 843 starting from 0 CRC [2500946023]
+[2017.04.15 22:31:37] [0034m.22s.674ms] [7] SingleFile: [9164-196a-5ef3-156e] reading [\s1\cdbblks\2000000010000050.blk\dxdatl.v] [1628] data_slot 78764 data_size 1628 slot_size 1984 data_pos 0 read 1628 read_size 1628 file_pos 0 reuse_counter 0
+[2017.04.15 22:31:37] [0034m.22s.674ms] [3] SingleFile: [9164-196a-5ef3-156e] File read [\s1\cdbblks\2000000010000050.blk\dxdatl.v] [1628] read 1628 from 1628 starting from 0 CRC [1809419326]
+[2017.04.15 22:31:37] [0034m.22s.674ms] [7] SingleFile: [9164-196a-5ef3-156e] reading [\s1\cdbcatlg\catlgatl.v] [830] data_slot 86060 data_size 830 slot_size 1280 data_pos 0 read 830 read_size 830 file_pos 0 reuse_counter 0
+[2017.04.15 22:31:37] [0034m.22s.674ms] [3] SingleFile: [9164-196a-5ef3-156e] File read [\s1\cdbcatlg\catlgatl.v] [830] read 830 from 830 starting from 0 CRC [3298299990]
+[2017.04.15 22:31:37] [0034m.22s.674ms] [7] SingleFile: [9164-196a-5ef3-156e] reading [\s1\cdbcatlg\grpatl.v] [323] data_slot 49644 data_size 323 slot_size 2368 data_pos 0 read 323 read_size 323 file_pos 0 reuse_counter 0
+[2017.04.15 22:31:37] [0034m.22s.674ms] [3] SingleFile: [9164-196a-5ef3-156e] File read [\s1\cdbcatlg\grpatl.v] [323] read 323 from 323 starting from 0 CRC [3253969478]
+[2017.04.15 22:31:37] [0034m.22s.674ms] [7] SingleFile: [9164-196a-5ef3-156e] reading [\s1\cdbcatlg\grpobj] [90] data_slot 46444 data_size 90 slot_size 128 data_pos 0 read 90 read_size 90 file_pos 0 reuse_counter 0
+[2017.04.15 22:31:37] [0034m.22s.674ms] [3] SingleFile: [9164-196a-5ef3-156e] File read [\s1\cdbcatlg\grpobj] [90] read 90 from 90 starting from 0 CRC [3655246904]
+[2017.04.15 22:31:37] [0034m.22s.674ms] [7] SingleFile: [9164-196a-5ef3-156e] reading [\s1\cdbcmpcache\cmpatl.v] [777] data_slot 71084 data_size 112 slot_size 128 data_pos 0 read 112 read_size 112 file_pos 0 reuse_counter 0
+[2017.04.15 22:31:37] [0034m.22s.674ms] [7] SingleFile: [9164-196a-5ef3-156e] reading [\s1\cdbcmpcache\cmpatl.v] [777] data_slot 82028 data_size 665 slot_size 704 data_pos 0 read 665 read_size 777 file_pos 0 reuse_counter 0
+[2017.04.15 22:31:37] [0034m.22s.674ms] [3] SingleFile: [9164-196a-5ef3-156e] File read [\s1\cdbcmpcache\cmpatl.v] [777] read 777 from 777 starting from 0 CRC [2159216213]
+[2017.04.15 22:31:37] [0034m.22s.674ms] [7] SingleFile: [9164-196a-5ef3-156e] reading [\s1\cdbcmpcache\dxdatl.v] [3297] data_slot 82732 data_size 3297 slot_size 3328 data_pos 0 read 3297 read_size 3297 file_pos 0 reuse_counter 0
+[2017.04.15 22:31:37] [0034m.22s.674ms] [3] SingleFile: [9164-196a-5ef3-156e] File read [\s1\cdbcmpcache\dxdatl.v] [3297] read 3297 from 3297 starting from 0 CRC [1310718100]
+[2017.04.15 22:31:37] [0034m.22s.674ms] [7] SingleFile: [9164-196a-5ef3-156e] reading [\s1\cdbcmps\cmpatl.v] [194] data_slot 49388 data_size 194 slot_size 256 data_pos 0 read 194 read_size 194 file_pos 0 reuse_counter 0
+[2017.04.15 22:31:37] [0034m.22s.674ms] [3] SingleFile: [9164-196a-5ef3-156e] File read [\s1\cdbcmps\cmpatl.v] [194] read 194 from 194 starting from 0 CRC [3473677263]
+[2017.04.15 22:31:37] [0034m.22s.674ms] [7] SingleFile: [9164-196a-5ef3-156e] reading [\s1\cdbcnfgs\2000000010000050.blk\cesatl.v] [1962] data_slot 58924 data_size 1962 slot_size 2944 data_pos 0 read 1962 read_size 1962 file_pos 0 reuse_counter 0
+[2017.04.15 22:31:37] [0034m.22s.674ms] [3] SingleFile: [9164-196a-5ef3-156e] File read [\s1\cdbcnfgs\2000000010000050.blk\cesatl.v] [1962] read 1962 from 1962 starting from 0 CRC [123638179]
+[2017.04.15 22:31:37] [0034m.22s.674ms] [7] SingleFile: [9164-196a-5ef3-156e] reading [\s1\cdbcnfgs\2000000010000050.blk\cnfgatl.v] [663] data_slot 87340 data_size 663 slot_size 704 data_pos 0 read 663 read_size 663 file_pos 0 reuse_counter 0
+[2017.04.15 22:31:37] [0034m.22s.674ms] [3] SingleFile: [9164-196a-5ef3-156e] File read [\s1\cdbcnfgs\2000000010000050.blk\cnfgatl.v] [663] read 663 from 663 starting from 0 CRC [3618145585]
+[2017.04.15 22:31:37] [0034m.22s.674ms] [7] SingleFile: [9164-196a-5ef3-156e] reading [\s1\cdbcnfgs\2000000010000050.blk\varatl.v] [462] data_slot 52012 data_size 462 slot_size 512 data_pos 0 read 462 read_size 462 file_pos 0 reuse_counter 0
+[2017.04.15 22:31:37] [0034m.22s.674ms] [3] SingleFile: [9164-196a-5ef3-156e] File read [\s1\cdbcnfgs\2000000010000050.blk\varatl.v] [462] read 462 from 462 starting from 0 CRC [3125449464]
+[2017.04.15 22:31:37] [0034m.22s.674ms] [7] SingleFile: [9164-196a-5ef3-156e] reading [\s1\oryg] [17] data_slot 52524 data_size 17 slot_size 64 data_pos 0 read 17 read_size 17 file_pos 0 reuse_counter 0
+[2017.04.15 22:31:37] [0034m.22s.674ms] [3] SingleFile: [9164-196a-5ef3-156e] File read [\s1\oryg] [17] read 17 from 17 starting from 0 CRC [3043323476]
+[2017.04.15 22:31:37] [0034m.22s.674ms] [7] SingleFile: [9164-196a-5ef3-156e] reading [\s1\params] [107] data_slot 52588 data_size 107 slot_size 128 data_pos 0 read 107 read_size 107 file_pos 0 reuse_counter 0
+[2017.04.15 22:31:37] [0034m.22s.674ms] [3] SingleFile: [9164-196a-5ef3-156e] File read [\s1\params] [107] read 107 from 107 starting from 0 CRC [3098580693]
+[2017.04.15 22:31:37] [0034m.22s.674ms] [7] SingleFile: [9164-196a-5ef3-156e] reading [\s1\uids] [534] data_slot 88044 data_size 534 slot_size 576 data_pos 0 read 534 read_size 534 file_pos 0 reuse_counter 0
+[2017.04.15 22:31:37] [0034m.22s.674ms] [3] SingleFile: [9164-196a-5ef3-156e] File read [\s1\uids] [534] read 534 from 534 starting from 0 CRC [1420600451]
+[2017.04.15 22:31:37] [0034m.22s.674ms] [7] SingleFile: [9164-196a-5ef3-156e] reading [\s2\cdbcatlg\catlgatl.v] [514] data_slot 52972 data_size 514 slot_size 576 data_pos 0 read 514 read_size 514 file_pos 0 reuse_counter 0
+[2017.04.15 22:31:37] [0034m.22s.674ms] [3] SingleFile: [9164-196a-5ef3-156e] File read [\s2\cdbcatlg\catlgatl.v] [514] read 514 from 514 starting from 0 CRC [3531529813]
+[2017.04.15 22:31:37] [0034m.22s.674ms] [7] SingleFile: [9164-196a-5ef3-156e] reading [\s2\cdbcatlg\grpatl.v] [165] data_slot 53548 data_size 165 slot_size 192 data_pos 0 read 165 read_size 165 file_pos 0 reuse_counter 0
+[2017.04.15 22:31:37] [0034m.22s.674ms] [3] SingleFile: [9164-196a-5ef3-156e] File read [\s2\cdbcatlg\grpatl.v] [165] read 165 from 165 starting from 0 CRC [2946026880]
+[2017.04.15 22:31:37] [0034m.22s.675ms] [7] SingleFile: [9164-196a-5ef3-156e] reading [\s2\cdbcmpcache\cmpatl.v] [194] data_slot 53740 data_size 194 slot_size 256 data_pos 0 read 194 read_size 194 file_pos 0 reuse_counter 0
+[2017.04.15 22:31:37] [0034m.22s.675ms] [3] SingleFile: [9164-196a-5ef3-156e] File read [\s2\cdbcmpcache\cmpatl.v] [194] read 194 from 194 starting from 0 CRC [3473677263]
+[2017.04.15 22:31:37] [0034m.22s.675ms] [7] SingleFile: [9164-196a-5ef3-156e] reading [\s2\cdbcmps\cmpatl.v] [194] data_slot 53996 data_size 194 slot_size 256 data_pos 0 read 194 read_size 194 file_pos 0 reuse_counter 0
+[2017.04.15 22:31:37] [0034m.22s.675ms] [3] SingleFile: [9164-196a-5ef3-156e] File read [\s2\cdbcmps\cmpatl.v] [194] read 194 from 194 starting from 0 CRC [3473677263]
+[2017.04.15 22:31:37] [0034m.22s.675ms] [7] SingleFile: [9164-196a-5ef3-156e] reading [\s2\oryg] [17] data_slot 54252 data_size 17 slot_size 64 data_pos 0 read 17 read_size 17 file_pos 0 reuse_counter 0
+[2017.04.15 22:31:37] [0034m.22s.675ms] [3] SingleFile: [9164-196a-5ef3-156e] File read [\s2\oryg] [17] read 17 from 17 starting from 0 CRC [3043323476]
+[2017.04.15 22:31:37] [0034m.22s.675ms] [7] SingleFile: [9164-196a-5ef3-156e] reading [\s2\params] [100] data_slot 54316 data_size 100 slot_size 128 data_pos 0 read 100 read_size 100 file_pos 0 reuse_counter 0
+[2017.04.15 22:31:37] [0034m.22s.675ms] [3] SingleFile: [9164-196a-5ef3-156e] File read [\s2\params] [100] read 100 from 100 starting from 0 CRC [3583657515]
+[2017.04.15 22:31:37] [0034m.22s.675ms] [7] SingleFile: [9164-196a-5ef3-156e] reading [\s2\uids] [28] data_slot 54444 data_size 28 slot_size 64 data_pos 0 read 28 read_size 28 file_pos 0 reuse_counter 0
+[2017.04.15 22:31:37] [0034m.22s.675ms] [3] SingleFile: [9164-196a-5ef3-156e] File read [\s2\uids] [28] read 28 from 28 starting from 0 CRC [2392555806]
+[2017.04.15 22:31:37] [0034m.22s.675ms] [7] SingleFile: [9164-196a-5ef3-156e] reading [\seslog] [335] data_slot 42284 data_size 48 slot_size 64 data_pos 0 read 48 read_size 48 file_pos 0 reuse_counter 0
+[2017.04.15 22:31:37] [0034m.22s.675ms] [7] SingleFile: [9164-196a-5ef3-156e] reading [\seslog] [335] data_slot 42348 data_size 287 slot_size 4096 data_pos 0 read 287 read_size 335 file_pos 0 reuse_counter 0
+[2017.04.15 22:31:37] [0034m.22s.675ms] [3] SingleFile: [9164-196a-5ef3-156e] File read [\seslog] [335] read 335 from 335 starting from 0 CRC [0]
+[2017.04.15 22:31:37] [0034m.22s.675ms] [7] SingleFile: [9164-196a-5ef3-156e] reading [\sids] [158] data_slot 54508 data_size 158 slot_size 192 data_pos 0 read 158 read_size 158 file_pos 0 reuse_counter 0
+[2017.04.15 22:31:37] [0034m.22s.675ms] [3] SingleFile: [9164-196a-5ef3-156e] File read [\sids] [158] read 158 from 158 starting from 0 CRC [2228068338]
+[2017.04.15 22:31:37] [0034m.22s.678ms] [3] SingleFile: [9164-196a-5ef3-156e] File added [\params] [03a8-9629-eef3-1de3-6efc-2f8b-efc2-f850-9c52-3342-23c1-1f98] [89] transaction [0]
+[2017.04.15 22:31:37] [0034m.22s.684ms] [3] SingleFile: [9164-196a-5ef3-156e] Appended first header slot at 10332
+[2017.04.15 22:31:37] [0034m.22s.684ms] [7] SingleFile: [9164-196a-5ef3-156e] added to header [\params] [0] Hpos [10348]
+[2017.04.15 22:31:37] [0034m.22s.684ms] [7] SingleFile: [9164-196a-5ef3-156e] Updating file CRC [\params] [0] CRC [545425632]
+[2017.04.15 22:31:37] [0034m.22s.684ms] [7] SingleFile: [9164-196a-5ef3-156e] writing A [\params] [0->89] data_slot 35948 slot_size 128 writen 89
+[2017.04.15 22:31:37] [0034m.22s.684ms] [3] SingleFile: [9164-196a-5ef3-156e] File added [\sids] [2059-fac7-dbef-da7d-38fc-2f88-8fc2-f850-9c52-3342-23c1-1f98] [158] transaction [0]
+[2017.04.15 22:31:37] [0034m.22s.685ms] [7] SingleFile: [9164-196a-5ef3-156e] added to header [\sids] [0] Hpos [10604]
+[2017.04.15 22:31:37] [0034m.22s.685ms] [7] SingleFile: [9164-196a-5ef3-156e] Updating file CRC [\sids] [0] CRC [2228068338]
+[2017.04.15 22:31:37] [0034m.22s.685ms] [7] SingleFile: [9164-196a-5ef3-156e] writing A [\sids] [0->158] data_slot 36076 slot_size 192 writen 158
+[2017.04.15 22:31:37] [0034m.22s.685ms] [3] SingleFile: [9164-196a-5ef3-156e] File added [\consdef] [a927-d30c-4347-4d2e-d7fc-2f82-8fc2-f850-9c52-3342-23c1-1f98] [6314] transaction [0]
+[2017.04.15 22:31:37] [0034m.22s.685ms] [7] SingleFile: [9164-196a-5ef3-156e] added to header [\consdef] [0] Hpos [10860]
+[2017.04.15 22:31:37] [0034m.22s.685ms] [7] SingleFile: [9164-196a-5ef3-156e] Updating file CRC [\consdef] [0] CRC [3804213984]
+[2017.04.15 22:31:37] [0034m.22s.685ms] [7] SingleFile: [9164-196a-5ef3-156e] writing A [\consdef] [0->6314] data_slot 36268 slot_size 6336 writen 6314
+[2017.04.15 22:31:37] [0034m.22s.685ms] [3] SingleFile: [9164-196a-5ef3-156e] File added [\pidb\pibrddb] [1ce6-b73c-352f-e8ac-38fc-2f88-8fc2-f850-9c52-3342-23c1-1f98] [8] transaction [0]
+[2017.04.15 22:31:37] [0034m.22s.685ms] [7] SingleFile: [9164-196a-5ef3-156e] added to header [\pidb\pibrddb] [0] Hpos [11116]
+[2017.04.15 22:31:37] [0034m.22s.685ms] [7] SingleFile: [9164-196a-5ef3-156e] Updating file CRC [\pidb\pibrddb] [0] CRC [3100911277]
+[2017.04.15 22:31:37] [0034m.22s.685ms] [7] SingleFile: [9164-196a-5ef3-156e] writing A [\pidb\pibrddb] [0->8] data_slot 42604 slot_size 64 writen 8
+[2017.04.15 22:31:37] [0034m.22s.685ms] [3] SingleFile: [9164-196a-5ef3-156e] File added [\pidb\pidb] [9374-2484-fd3a-8594-98fc-2f8e-8fc2-f850-9c52-3342-23c1-1f98] [85] transaction [0]
+[2017.04.15 22:31:37] [0034m.22s.685ms] [7] SingleFile: [9164-196a-5ef3-156e] added to header [\pidb\pidb] [0] Hpos [11372]
+[2017.04.15 22:31:37] [0034m.22s.685ms] [7] SingleFile: [9164-196a-5ef3-156e] Updating file CRC [\pidb\pidb] [0] CRC [1811786160]
+[2017.04.15 22:31:37] [0034m.22s.685ms] [7] SingleFile: [9164-196a-5ef3-156e] writing A [\pidb\pidb] [0->85] data_slot 42668 slot_size 128 writen 85
+[2017.04.15 22:31:37] [0034m.22s.685ms] [3] SingleFile: [9164-196a-5ef3-156e] File added [\s1\cdbblks\2000000010000050.blk\blkatl.v] [01fa-5120-6fa7-c05d-6efc-2f8b-efc2-f850-9c52-3342-23c1-1f98] [843] transaction [0]
+[2017.04.15 22:31:37] [0034m.22s.685ms] [7] SingleFile: [9164-196a-5ef3-156e] added to header [\s1\cdbblks\2000000010000050.blk\blkatl.v] [0] Hpos [11628]
+[2017.04.15 22:31:37] [0034m.22s.685ms] [7] SingleFile: [9164-196a-5ef3-156e] Updating file CRC [\s1\cdbblks\2000000010000050.blk\blkatl.v] [0] CRC [2500946023]
+[2017.04.15 22:31:37] [0034m.22s.685ms] [7] SingleFile: [9164-196a-5ef3-156e] writing A [\s1\cdbblks\2000000010000050.blk\blkatl.v] [0->843] data_slot 42796 slot_size 896 writen 843
+[2017.04.15 22:31:37] [0034m.22s.685ms] [3] SingleFile: [9164-196a-5ef3-156e] File added [\s1\cdbblks\2000000010000050.blk\dxdatl.v] [e482-e50a-913e-12a4-cefc-2f81-ffc2-f850-9c52-3342-23c1-1f98] [1628] transaction [0]
+[2017.04.15 22:31:37] [0034m.22s.686ms] [7] SingleFile: [9164-196a-5ef3-156e] added to header [\s1\cdbblks\2000000010000050.blk\dxdatl.v] [0] Hpos [11884]
+[2017.04.15 22:31:37] [0034m.22s.686ms] [7] SingleFile: [9164-196a-5ef3-156e] Updating file CRC [\s1\cdbblks\2000000010000050.blk\dxdatl.v] [0] CRC [1809419326]
+[2017.04.15 22:31:37] [0034m.22s.686ms] [7] SingleFile: [9164-196a-5ef3-156e] writing A [\s1\cdbblks\2000000010000050.blk\dxdatl.v] [0->1628] data_slot 43692 slot_size 1664 writen 1628
+[2017.04.15 22:31:37] [0034m.22s.686ms] [3] SingleFile: [9164-196a-5ef3-156e] File added [\s1\cdbcatlg\catlgatl.v] [f7d2-358b-6611-7d04-cefc-2f81-ffc2-f850-9c52-3342-23c1-1f98] [830] transaction [0]
+[2017.04.15 22:31:37] [0034m.22s.686ms] [7] SingleFile: [9164-196a-5ef3-156e] added to header [\s1\cdbcatlg\catlgatl.v] [0] Hpos [12140]
+[2017.04.15 22:31:37] [0034m.22s.686ms] [7] SingleFile: [9164-196a-5ef3-156e] Updating file CRC [\s1\cdbcatlg\catlgatl.v] [0] CRC [3298299990]
+[2017.04.15 22:31:37] [0034m.22s.686ms] [7] SingleFile: [9164-196a-5ef3-156e] writing A [\s1\cdbcatlg\catlgatl.v] [0->830] data_slot 45356 slot_size 896 writen 830
+[2017.04.15 22:31:37] [0034m.22s.686ms] [3] SingleFile: [9164-196a-5ef3-156e] File added [\s1\cdbcatlg\grpatl.v] [2e2c-421c-90c0-ecfb-cefc-2f81-ffc2-f850-9c52-3342-23c1-1f98] [323] transaction [0]
+[2017.04.15 22:31:37] [0034m.22s.686ms] [7] SingleFile: [9164-196a-5ef3-156e] added to header [\s1\cdbcatlg\grpatl.v] [0] Hpos [12396]
+[2017.04.15 22:31:37] [0034m.22s.686ms] [7] SingleFile: [9164-196a-5ef3-156e] Updating file CRC [\s1\cdbcatlg\grpatl.v] [0] CRC [3253969478]
+[2017.04.15 22:31:37] [0034m.22s.686ms] [7] SingleFile: [9164-196a-5ef3-156e] writing A [\s1\cdbcatlg\grpatl.v] [0->323] data_slot 46252 slot_size 384 writen 323
+[2017.04.15 22:31:37] [0034m.22s.686ms] [3] SingleFile: [9164-196a-5ef3-156e] File added [\s1\cdbcatlg\grpobj] [dcda-3d3b-b96a-7282-0efc-2f85-efc2-f850-9c52-3342-23c1-1f98] [90] transaction [0]
+[2017.04.15 22:31:37] [0034m.22s.686ms] [7] SingleFile: [9164-196a-5ef3-156e] added to header [\s1\cdbcatlg\grpobj] [0] Hpos [12652]
+[2017.04.15 22:31:37] [0034m.22s.686ms] [7] SingleFile: [9164-196a-5ef3-156e] Updating file CRC [\s1\cdbcatlg\grpobj] [0] CRC [3655246904]
+[2017.04.15 22:31:37] [0034m.22s.686ms] [7] SingleFile: [9164-196a-5ef3-156e] writing A [\s1\cdbcatlg\grpobj] [0->90] data_slot 46636 slot_size 128 writen 90
+[2017.04.15 22:31:37] [0034m.22s.686ms] [3] SingleFile: [9164-196a-5ef3-156e] File added [\s1\cdbcmpcache\cmpatl.v] [4ce7-0e41-4dd3-8bb4-0efc-2f85-efc2-f850-9c52-3342-23c1-1f98] [777] transaction [0]
+[2017.04.15 22:31:37] [0034m.22s.686ms] [7] SingleFile: [9164-196a-5ef3-156e] added to header [\s1\cdbcmpcache\cmpatl.v] [0] Hpos [12908]
+[2017.04.15 22:31:37] [0034m.22s.686ms] [7] SingleFile: [9164-196a-5ef3-156e] Updating file CRC [\s1\cdbcmpcache\cmpatl.v] [0] CRC [2159216213]
+[2017.04.15 22:31:37] [0034m.22s.686ms] [7] SingleFile: [9164-196a-5ef3-156e] writing A [\s1\cdbcmpcache\cmpatl.v] [0->777] data_slot 46764 slot_size 832 writen 777
+[2017.04.15 22:31:37] [0034m.22s.687ms] [3] SingleFile: [9164-196a-5ef3-156e] File added [\s1\cdbcmpcache\dxdatl.v] [c491-091b-4591-692c-0efc-2f85-efc2-f850-9c52-3342-23c1-1f98] [3297] transaction [0]
+[2017.04.15 22:31:37] [0034m.22s.687ms] [7] SingleFile: [9164-196a-5ef3-156e] added to header [\s1\cdbcmpcache\dxdatl.v] [0] Hpos [13164]
+[2017.04.15 22:31:37] [0034m.22s.687ms] [7] SingleFile: [9164-196a-5ef3-156e] Updating file CRC [\s1\cdbcmpcache\dxdatl.v] [0] CRC [1310718100]
+[2017.04.15 22:31:37] [0034m.22s.687ms] [7] SingleFile: [9164-196a-5ef3-156e] writing A [\s1\cdbcmpcache\dxdatl.v] [0->3297] data_slot 47596 slot_size 3328 writen 3297
+[2017.04.15 22:31:37] [0034m.22s.687ms] [3] SingleFile: [9164-196a-5ef3-156e] File added [\s1\cdbcmps\cmpatl.v] [04d2-c20b-8f46-2dc6-38fc-2f88-8fc2-f850-9c52-3342-23c1-1f98] [194] transaction [0]
+[2017.04.15 22:31:37] [0034m.22s.687ms] [7] SingleFile: [9164-196a-5ef3-156e] added to header [\s1\cdbcmps\cmpatl.v] [0] Hpos [13420]
+[2017.04.15 22:31:37] [0034m.22s.687ms] [7] SingleFile: [9164-196a-5ef3-156e] Updating file CRC [\s1\cdbcmps\cmpatl.v] [0] CRC [3473677263]
+[2017.04.15 22:31:37] [0034m.22s.687ms] [7] SingleFile: [9164-196a-5ef3-156e] writing A [\s1\cdbcmps\cmpatl.v] [0->194] data_slot 50924 slot_size 256 writen 194
+[2017.04.15 22:31:37] [0034m.22s.687ms] [3] SingleFile: [9164-196a-5ef3-156e] File added [\s1\cdbcnfgs\2000000010000050.blk\cesatl.v] [9adf-95fb-9c22-8e0a-6efc-2f8b-efc2-f850-9c52-3342-23c1-1f98] [1962] transaction [0]
+[2017.04.15 22:31:37] [0034m.22s.687ms] [7] SingleFile: [9164-196a-5ef3-156e] added to header [\s1\cdbcnfgs\2000000010000050.blk\cesatl.v] [0] Hpos [13676]
+[2017.04.15 22:31:37] [0034m.22s.687ms] [7] SingleFile: [9164-196a-5ef3-156e] Updating file CRC [\s1\cdbcnfgs\2000000010000050.blk\cesatl.v] [0] CRC [123638179]
+[2017.04.15 22:31:37] [0034m.22s.687ms] [7] SingleFile: [9164-196a-5ef3-156e] writing A [\s1\cdbcnfgs\2000000010000050.blk\cesatl.v] [0->1962] data_slot 51180 slot_size 1984 writen 1962
+[2017.04.15 22:31:37] [0034m.22s.687ms] [3] SingleFile: [9164-196a-5ef3-156e] File added [\s1\cdbcnfgs\2000000010000050.blk\cnfgatl.v] [d6fc-5356-c482-70fe-6efc-2f8b-efc2-f850-9c52-3342-23c1-1f98] [663] transaction [0]
+[2017.04.15 22:31:37] [0034m.22s.687ms] [7] SingleFile: [9164-196a-5ef3-156e] added to header [\s1\cdbcnfgs\2000000010000050.blk\cnfgatl.v] [0] Hpos [13932]
+[2017.04.15 22:31:37] [0034m.22s.687ms] [7] SingleFile: [9164-196a-5ef3-156e] Updating file CRC [\s1\cdbcnfgs\2000000010000050.blk\cnfgatl.v] [0] CRC [3618145585]
+[2017.04.15 22:31:37] [0034m.22s.687ms] [7] SingleFile: [9164-196a-5ef3-156e] writing A [\s1\cdbcnfgs\2000000010000050.blk\cnfgatl.v] [0->663] data_slot 53164 slot_size 704 writen 663
+[2017.04.15 22:31:37] [0034m.22s.687ms] [3] SingleFile: [9164-196a-5ef3-156e] File added [\s1\cdbcnfgs\2000000010000050.blk\varatl.v] [02a8-be2a-c284-52b7-38fc-2f88-8fc2-f850-9c52-3342-23c1-1f98] [462] transaction [0]
+[2017.04.15 22:31:37] [0034m.22s.687ms] [7] SingleFile: [9164-196a-5ef3-156e] added to header [\s1\cdbcnfgs\2000000010000050.blk\varatl.v] [0] Hpos [14188]
+[2017.04.15 22:31:37] [0034m.22s.687ms] [7] SingleFile: [9164-196a-5ef3-156e] Updating file CRC [\s1\cdbcnfgs\2000000010000050.blk\varatl.v] [0] CRC [3125449464]
+[2017.04.15 22:31:37] [0034m.22s.687ms] [7] SingleFile: [9164-196a-5ef3-156e] writing A [\s1\cdbcnfgs\2000000010000050.blk\varatl.v] [0->462] data_slot 53868 slot_size 512 writen 462
+[2017.04.15 22:31:37] [0034m.22s.688ms] [3] SingleFile: [9164-196a-5ef3-156e] File added [\s1\oryg] [4c4d-bb48-e63c-48ea-38fc-2f88-8fc2-f850-9c52-3342-23c1-1f98] [17] transaction [0]
+[2017.04.15 22:31:37] [0034m.22s.688ms] [7] SingleFile: [9164-196a-5ef3-156e] added to header [\s1\oryg] [0] Hpos [14444]
+[2017.04.15 22:31:37] [0034m.22s.688ms] [7] SingleFile: [9164-196a-5ef3-156e] Updating file CRC [\s1\oryg] [0] CRC [3043323476]
+[2017.04.15 22:31:37] [0034m.22s.688ms] [7] SingleFile: [9164-196a-5ef3-156e] writing A [\s1\oryg] [0->17] data_slot 54380 slot_size 64 writen 17
+[2017.04.15 22:31:37] [0034m.22s.688ms] [3] SingleFile: [9164-196a-5ef3-156e] File added [\s1\params] [773e-de26-e40b-d356-38fc-2f88-8fc2-f850-9c52-3342-23c1-1f98] [107] transaction [0]
+[2017.04.15 22:31:37] [0034m.22s.688ms] [7] SingleFile: [9164-196a-5ef3-156e] added to header [\s1\params] [0] Hpos [14700]
+[2017.04.15 22:31:37] [0034m.22s.688ms] [7] SingleFile: [9164-196a-5ef3-156e] Updating file CRC [\s1\params] [0] CRC [3098580693]
+[2017.04.15 22:31:37] [0034m.22s.688ms] [7] SingleFile: [9164-196a-5ef3-156e] writing A [\s1\params] [0->107] data_slot 54444 slot_size 128 writen 107
+[2017.04.15 22:31:37] [0034m.22s.688ms] [3] SingleFile: [9164-196a-5ef3-156e] File added [\s1\uids] [51ba-0c4c-89ac-228f-6efc-2f8b-efc2-f850-9c52-3342-23c1-1f98] [534] transaction [0]
+[2017.04.15 22:31:37] [0034m.22s.688ms] [7] SingleFile: [9164-196a-5ef3-156e] added to header [\s1\uids] [0] Hpos [14956]
+[2017.04.15 22:31:37] [0034m.22s.688ms] [7] SingleFile: [9164-196a-5ef3-156e] Updating file CRC [\s1\uids] [0] CRC [1420600451]
+[2017.04.15 22:31:37] [0034m.22s.688ms] [7] SingleFile: [9164-196a-5ef3-156e] writing A [\s1\uids] [0->534] data_slot 54572 slot_size 576 writen 534
+[2017.04.15 22:31:37] [0034m.22s.688ms] [3] SingleFile: [9164-196a-5ef3-156e] File added [\s2\cdbcatlg\catlgatl.v] [d094-f706-1c8d-1a4a-38fc-2f88-8fc2-f850-9c52-3342-23c1-1f98] [514] transaction [0]
+[2017.04.15 22:31:37] [0034m.22s.688ms] [7] SingleFile: [9164-196a-5ef3-156e] added to header [\s2\cdbcatlg\catlgatl.v] [0] Hpos [15212]
+[2017.04.15 22:31:37] [0034m.22s.688ms] [7] SingleFile: [9164-196a-5ef3-156e] Updating file CRC [\s2\cdbcatlg\catlgatl.v] [0] CRC [3531529813]
+[2017.04.15 22:31:37] [0034m.22s.688ms] [7] SingleFile: [9164-196a-5ef3-156e] writing A [\s2\cdbcatlg\catlgatl.v] [0->514] data_slot 55148 slot_size 576 writen 514
+[2017.04.15 22:31:37] [0034m.22s.688ms] [3] SingleFile: [9164-196a-5ef3-156e] File added [\s2\cdbcatlg\grpatl.v] [c8cb-74ad-4cb6-9607-38fc-2f88-8fc2-f850-9c52-3342-23c1-1f98] [165] transaction [0]
+[2017.04.15 22:31:37] [0034m.22s.688ms] [7] SingleFile: [9164-196a-5ef3-156e] added to header [\s2\cdbcatlg\grpatl.v] [0] Hpos [15468]
+[2017.04.15 22:31:37] [0034m.22s.690ms] [7] SingleFile: [9164-196a-5ef3-156e] Updating file CRC [\s2\cdbcatlg\grpatl.v] [0] CRC [2946026880]
+[2017.04.15 22:31:37] [0034m.22s.690ms] [7] SingleFile: [9164-196a-5ef3-156e] writing A [\s2\cdbcatlg\grpatl.v] [0->165] data_slot 55724 slot_size 192 writen 165
+[2017.04.15 22:31:37] [0034m.22s.690ms] [3] SingleFile: [9164-196a-5ef3-156e] File added [\s2\cdbcmpcache\cmpatl.v] [1922-7782-a68a-1d50-38fc-2f88-8fc2-f850-9c52-3342-23c1-1f98] [194] transaction [0]
+[2017.04.15 22:31:37] [0034m.22s.691ms] [7] SingleFile: [9164-196a-5ef3-156e] added to header [\s2\cdbcmpcache\cmpatl.v] [0] Hpos [15724]
+[2017.04.15 22:31:37] [0034m.22s.691ms] [7] SingleFile: [9164-196a-5ef3-156e] Updating file CRC [\s2\cdbcmpcache\cmpatl.v] [0] CRC [3473677263]
+[2017.04.15 22:31:37] [0034m.22s.691ms] [7] SingleFile: [9164-196a-5ef3-156e] duplicate found for file [\s2\cdbcmpcache\cmpatl.v] [194] duplicate [\s1\cdbcmps\cmpatl.v] [194 ]
+[2017.04.15 22:31:37] [0034m.22s.691ms] [7] SingleFile: [9164-196a-5ef3-156e] Reusing file data [\s2\cdbcmpcache\cmpatl.v] [0] reuse [\s1\cdbcmps\cmpatl.v] [194]
+[2017.04.15 22:31:37] [0034m.22s.691ms] [7] SingleFile: [9164-196a-5ef3-156e] detaching file data slots [\s2\cdbcmpcache\cmpatl.v] [0] reuse counter [4294967295] data_slot [0 ]
+[2017.04.15 22:31:37] [0034m.22s.691ms] [7] SingleFile: [9164-196a-5ef3-156e] reuse counter for file [\s1\cdbcmps\cmpatl.v] [194] counter [0] inc [1] for data slot [50924]
+[2017.04.15 22:31:37] [0034m.22s.691ms] [3] SingleFile: [9164-196a-5ef3-156e] File added [\s2\cdbcmps\cmpatl.v] [d5bd-4659-1149-e965-38fc-2f88-8fc2-f850-9c52-3342-23c1-1f98] [194] transaction [0]
+[2017.04.15 22:31:37] [0034m.22s.691ms] [7] SingleFile: [9164-196a-5ef3-156e] added to header [\s2\cdbcmps\cmpatl.v] [0] Hpos [15980]
+[2017.04.15 22:31:37] [0034m.22s.691ms] [7] SingleFile: [9164-196a-5ef3-156e] Updating file CRC [\s2\cdbcmps\cmpatl.v] [0] CRC [3473677263]
+[2017.04.15 22:31:37] [0034m.22s.691ms] [7] SingleFile: [9164-196a-5ef3-156e] duplicate found for file [\s2\cdbcmps\cmpatl.v] [194] duplicate [\s2\cdbcmpcache\cmpatl.v] [194 ]
+[2017.04.15 22:31:37] [0034m.22s.691ms] [7] SingleFile: [9164-196a-5ef3-156e] Reusing file data [\s2\cdbcmps\cmpatl.v] [0] reuse [\s2\cdbcmpcache\cmpatl.v] [194]
+[2017.04.15 22:31:37] [0034m.22s.691ms] [7] SingleFile: [9164-196a-5ef3-156e] detaching file data slots [\s2\cdbcmps\cmpatl.v] [0] reuse counter [4294967295] data_slot [0 ]
+[2017.04.15 22:31:37] [0034m.22s.691ms] [7] SingleFile: [9164-196a-5ef3-156e] reuse counter for file [\s2\cdbcmpcache\cmpatl.v] [194] counter [1] inc [1] for data slot [50924]
+[2017.04.15 22:31:37] [0034m.22s.691ms] [3] SingleFile: [9164-196a-5ef3-156e] File added [\s2\oryg] [2875-3352-eed6-7999-38fc-2f88-8fc2-f850-9c52-3342-23c1-1f98] [17] transaction [0]
+[2017.04.15 22:31:37] [0034m.22s.691ms] [7] SingleFile: [9164-196a-5ef3-156e] added to header [\s2\oryg] [0] Hpos [16236]
+[2017.04.15 22:31:37] [0034m.22s.691ms] [7] SingleFile: [9164-196a-5ef3-156e] Updating file CRC [\s2\oryg] [0] CRC [3043323476]
+[2017.04.15 22:31:37] [0034m.22s.691ms] [7] SingleFile: [9164-196a-5ef3-156e] duplicate found for file [\s2\oryg] [17] duplicate [\s1\oryg] [17 ]
+[2017.04.15 22:31:37] [0034m.22s.691ms] [7] SingleFile: [9164-196a-5ef3-156e] Reusing file data [\s2\oryg] [0] reuse [\s1\oryg] [17]
+[2017.04.15 22:31:37] [0034m.22s.691ms] [7] SingleFile: [9164-196a-5ef3-156e] detaching file data slots [\s2\oryg] [0] reuse counter [4294967295] data_slot [0 ]
+[2017.04.15 22:31:37] [0034m.22s.691ms] [7] SingleFile: [9164-196a-5ef3-156e] reuse counter for file [\s1\oryg] [17] counter [0] inc [1] for data slot [54380]
+[2017.04.15 22:31:37] [0034m.22s.691ms] [3] SingleFile: [9164-196a-5ef3-156e] File added [\s2\params] [7913-0802-5ef0-82a0-38fc-2f88-8fc2-f850-9c52-3342-23c1-1f98] [100] transaction [0]
+[2017.04.15 22:31:37] [0034m.22s.691ms] [7] SingleFile: [9164-196a-5ef3-156e] added to header [\s2\params] [0] Hpos [16492]
+[2017.04.15 22:31:37] [0034m.22s.691ms] [7] SingleFile: [9164-196a-5ef3-156e] Updating file CRC [\s2\params] [0] CRC [3583657515]
+[2017.04.15 22:31:37] [0034m.22s.691ms] [7] SingleFile: [9164-196a-5ef3-156e] writing A [\s2\params] [0->100] data_slot 55916 slot_size 128 writen 100
+[2017.04.15 22:31:37] [0034m.22s.691ms] [3] SingleFile: [9164-196a-5ef3-156e] File added [\s2\uids] [e5f9-2a4b-5af0-73b0-38fc-2f88-8fc2-f850-9c52-3342-23c1-1f98] [28] transaction [0]
+[2017.04.15 22:31:37] [0034m.22s.691ms] [7] SingleFile: [9164-196a-5ef3-156e] added to header [\s2\uids] [0] Hpos [16748]
+[2017.04.15 22:31:37] [0034m.22s.691ms] [7] SingleFile: [9164-196a-5ef3-156e] Updating file CRC [\s2\uids] [0] CRC [2392555806]
+[2017.04.15 22:31:37] [0034m.22s.691ms] [7] SingleFile: [9164-196a-5ef3-156e] writing A [\s2\uids] [0->28] data_slot 56044 slot_size 64 writen 28
+[2017.04.15 22:31:37] [0034m.22s.692ms] [3] SingleFile: [9164-196a-5ef3-156e] File added [\seslog] [6d94-fbb4-a6e4-92f3-d7fc-2f82-8fc2-f850-1103-3342-23c1-1f98] [335] transaction [0]
+[2017.04.15 22:31:37] [0034m.22s.692ms] [7] SingleFile: [9164-196a-5ef3-156e] added to header [\seslog] [0] Hpos [17004]
+[2017.04.15 22:31:37] [0034m.22s.692ms] [7] SingleFile: [9164-196a-5ef3-156e] Updating file CRC [\seslog] [0] CRC [3294944274]
+[2017.04.15 22:31:37] [0034m.22s.692ms] [7] SingleFile: [9164-196a-5ef3-156e] writing A [\seslog] [0->335] data_slot 56108 slot_size 384 writen 335
+[2017.04.15 22:31:37] [0034m.22s.693ms] [1] iCDB Server PI: Stats: Database file sizes: before[88664 (86.6 kB)], after[56496 (55.2 kB)], gain[32168 (31.4 kB)]
+[2017.04.15 22:31:37] [0034m.22s.693ms] [7] Holes::writing holes [0] prev [0] from [56492] 
+[2017.04.15 22:31:37] [0034m.22s.694ms] [7] Holes have been successfully saved 0 CRC [0]
+[2017.04.15 22:31:37] [0034m.22s.694ms] [3] SingleFile: [0000-0000-0000-0000] Modification time updated for file [C:\PADSViewer Projects\DxProjects\Thermistor_Board\database\icdb.dat]
+[2017.04.15 22:31:38] [0034m.22s.754ms] [0] Single file [C:\PADSViewer Projects\DxProjects\Thermistor_Board\database\icdb.dat] closed with size [56496 (55.2 kB)]
+[2017.04.15 22:31:38] [0034m.22s.754ms] [3] SingleFile: [0000-0000-0000-0000] Successfully closed file [C:\PADSViewer Projects\DxProjects\Thermistor_Board\database\icdb.dat]
+[2017.04.15 22:31:38] [0034m.22s.758ms] [3] SingleFile: [0000-0000-0000-0000] Modification time set for file [C:\PADSViewer Projects\DxProjects\Thermistor_Board\database\icdb.dat]
+[2017.04.15 22:31:38] [0034m.22s.762ms] [0] iCDB Server PI: Database defragmentation completed successfully
+[2017.04.15 22:31:38] [0034m.22s.762ms] [1] BackupTransaction: Removing database backup [C:\PADSViewer Projects\DxProjects\Thermistor_Board\database\cdbback\2017-04-15 22.31.36-6440-d.zip]
+[2017.04.15 22:31:38] [0034m.22s.792ms] [1] iCDB Server PI: Stats: Total iCDB execution time: [192163] ticks
+[2017.04.15 22:31:38] [0034m.22s.792ms] [1] iCDB Server PI: Stats: Total iCDB execution time: [98631] microseconds
+[2017.04.15 22:31:38] [0034m.22s.792ms] [1] iCDB Server PI: Stats: Total iCDB commands count: [69]
+[2017.04.15 22:31:38] [0034m.22s.792ms] [1] iCDB Server PI: Stats: Average iCDB speed:        [699] commands per second
+[2017.04.15 22:31:38] [0034m.22s.792ms] [2] SDL: Removing all connected iCDB Server Monitor
+[2017.04.15 22:31:38] [0034m.22s.792ms] [2] S: Unloading ENetGen plugin from file [C:\MentorGraphics\PADSVX.2.1\SDD_HOME\common\win32\bin\..\lib\ENetGen70.dll]
+[2017.04.15 22:31:38] [0034m.22s.798ms] [2] S: Unloading PIM plugin from file [C:\MentorGraphics\PADSVX.2.1\SDD_HOME\common\win32\bin\..\lib\PIM.dll]
+[2017.04.15 22:31:38] [0034m.22s.814ms] [3] ST: FREE
+[2017.04.15 22:31:38] [0034m.22s.814ms] [2] ST: STOP
+[2017.04.15 22:31:38] [0034m.22s.814ms] [4] ST: Waiting for finish
+[2017.04.15 22:31:38] [0034m.22s.814ms] [3] MET: FREE
+[2017.04.15 22:31:38] [0034m.22s.814ms] [2] MET: STOP
+[2017.04.15 22:31:38] [0034m.22s.814ms] [4] MET: Waiting for finish
+[2017.04.15 22:31:38] [0034m.22s.814ms] [3] MCE: FREE
+[2017.04.15 22:31:38] [0034m.22s.814ms] [3] ELMT: FREE
+[2017.04.15 22:31:38] [0034m.22s.815ms] [2] ELMT: STOP
+[2017.04.15 22:31:38] [0034m.22s.815ms] [4] ELMT: Waiting for finish
+[2017.04.15 22:31:38] [0034m.22s.818ms] [3] EventLogDataFile: EventLog data file [C:\PADSViewer Projects\DxProjects\Thermistor_Board\database\cdbsvr\events\events.dat] closed
+[2017.04.15 22:31:38] [0034m.22s.818ms] [3] EventLogIndexFile: EventLog index file [C:\PADSViewer Projects\DxProjects\Thermistor_Board\database\cdbsvr\events\events.idx] closed
+[2017.04.15 22:31:38] [0034m.22s.818ms] [4] ELMT: FINISHED
+[2017.04.15 22:31:38] [0034m.22s.818ms] [3] AT: FREE
+[2017.04.15 22:31:38] [0034m.22s.818ms] [4] AT: Waiting for finish
+[2017.04.15 22:31:38] [0034m.22s.868ms] [5] BT: Received iCDB Server Manager command [NotifyProjectGlobalStatus @ Version[1] # Id[Sender GUID[eb50-2766-fe39-0fdb-657d-2f8b-57d2-f850-9582-3342-23c1-1f98] Command number[113]] # Proxy[EMPTY] # RequestId[Sender GUID[0000-0000-0000-0000-0000-0000-0000-0000-0000-0000-0000-0000] Command number[0]] # ReplyPort[0] # ProjectId [GUID[2086-0224-0103-1450-557d-2f8a-57d2-f850-16b1-3342-23c1-1f98] Address[Host[DESKTOP-44HKI68] Port[10001]] IsLauncher[FALSE] Launcher[GUID[0000-0000-0000-0000-0000-0000-0000-0000-0000-0000-0000-0000] Address[Host[] Port[0]]] Path[C:\Users\Liam James Mulshine\ES96\Thermistor_Pressure_Board\database] ReadOnly[FALSE] Server GUID[eb50-2766-fe39-0fdb-657d-2f8b-57d2-f850-9582-3342-23c1-1f98]] # Status [Shutdown]] from host [DESKTOP-44HKI68:10000]
+[2017.04.15 22:31:38] [0034m.22s.876ms] [2] AT: Removing server address file [C:\PADSViewer Projects\DxProjects\Thermistor_Board\database\cdbsvr\sAddress.adr]
+[2017.04.15 22:31:38] [0034m.22s.876ms] [0] AT: ERROR: Could not remove server address file [C:\PADSViewer Projects\DxProjects\Thermistor_Board\database\cdbsvr\sAddress.adr]
+[2017.04.15 22:31:38] [0034m.22s.876ms] [2] AT: STOP
+[2017.04.15 22:31:38] [0034m.22s.885ms] [3] BT: FREE
+[2017.04.15 22:31:38] [0034m.22s.885ms] [4] BT: Waiting for finish
+[2017.04.15 22:31:38] [0034m.22s.968ms] [4] BT: Sending broadcast on port [10000]: NotifyProjectGlobalStatus @ Version[1] # Id[Sender GUID[7146-6ce6-709d-c808-b7fc-2f80-8fc2-f850-1103-3342-23c1-1f98] Command number[162961]] # Proxy[EMPTY] # RequestId[Sender GUID[0000-0000-0000-0000-0000-0000-0000-0000-0000-0000-0000-0000] Command number[0]] # ReplyPort[0] # ProjectId [GUID[e684-b698-bb6f-0d65-a7fc-2f8f-7fc2-f850-13e2-3342-23c1-1f98] Address[Host[DESKTOP-44HKI68] Port[10000]] IsLauncher[FALSE] Launcher[GUID[0000-0000-0000-0000-0000-0000-0000-0000-0000-0000-0000-0000] Address[Host[] Port[0]]] Path[C:\PADSViewer Projects\DxProjects\Thermistor_Board\database] ReadOnly[FALSE] Server GUID[7146-6ce6-709d-c808-b7fc-2f80-8fc2-f850-1103-3342-23c1-1f98]] # Status [Shutdown]
+[2017.04.15 22:31:38] [0034m.22s.968ms] [2] BT: STOP
+[2017.04.15 22:31:38] [0034m.22s.976ms] [3] MWT: FREE
+[2017.04.15 22:31:38] [0034m.22s.976ms] [0] MWT: Destroy the shutdown block reason.
+[2017.04.15 22:31:38] [0034m.22s.977ms] [4] MWT: Waiting for finish
+[2017.04.15 22:31:38] [0034m.22s.978ms] [0] MWT: STOP
