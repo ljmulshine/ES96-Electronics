@@ -4,3 +4,6 @@
 [2017-04-17 18.44.51] Successfully created [AutoSave] backup [2017-04-17 18.44.51 - auto.zip] requested by [DESKTOP-44HKI68:Liam James Mulshine].
 [2017-04-17 18.44.52] Removing excessive [AutoSave] backup file [C:\PADSViewer Projects\DxProjects\Thermistor_Board\ProjectBackup\backups\2017-04-15 21.57.17 - auto.zip].
 [2017-04-17 18.44.52] [AutoSave] backup file [Thermistor_Board\ProjectBackup\backups\2017-04-15 21.57.17 - auto.zip] removed.
+[2017-04-17 22.44.51] Successfully created [AutoSave] backup [2017-04-17 22.44.51 - auto.zip] requested by [SCOTT-PC:Scott Sun].
+[2017-04-17 22.44.51] Removing excessive [AutoSave] backup file [C:\Users\Scott Sun\Documents\ES96-Electronics\Thermistor_Board\ProjectBackup\backups\2017-04-16 10.22.50 - auto.zip].
+[2017-04-17 22.44.51] [AutoSave] backup file [Thermistor_Board\ProjectBackup\backups\2017-04-16 10.22.50 - auto.zip] removed.

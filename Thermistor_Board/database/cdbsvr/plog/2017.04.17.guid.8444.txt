@@ -1,0 +1,29 @@
+[2017.04.17 22:22:45] [0000m.10s.212ms] [0] WELCOME
+[2017.04.17 22:22:45] [0000m.10s.213ms] [1] iCDB Database ver.2.201, lYZcYElozbUGw/8yVGHxgA, build:5682207 created 2016-11-13 13:59:10, sources stamp:lYZcYElozbUGw/8yVGHxgA
+[2017.04.17 22:22:45] [0000m.10s.213ms] [1] Copyright 2016 Mentor Graphics Corporation.  All Rights Reserved.
+[2017.04.17 22:22:45] [0000m.10s.213ms] [1] Base flow version [VX.2.1]
+[2017.04.17 22:22:45] [0000m.10s.213ms] [1] Install Id [1468892], Flow Id [PADS VX.2.1], Full Flow Name [PADS VX.2.1], Exact Access Date [2016/11/01]
+[2017.04.17 22:22:45] [0000m.10s.213ms] [1] Machine [SCOTT-PC]  IP [10.251.58.11,127.0.0.1]  User [Scott Sun]  PID [8444]
+[2017.04.17 22:22:45] [0000m.10s.213ms] [1] Operating system [Microsoft Business Edition, 64-bit (build 9200)]
+[2017.04.17 22:22:45] [0000m.10s.213ms] [1] Current working dir [C:\Users\Scott Sun\Documents\ES96-Electronics\Thermistor_Board]
+[2017.04.17 22:22:45] [0000m.10s.213ms] [1] PATH [C:\MentorGraphics\PADSVX.2.1\SDD_HOME\common\win32\bin;C:\MentorGraphics\PADSVX.2.1\SDD_HOME\common\win32\lib;C:\MentorGraphics\PADSVX.2.1\MGC_HOME.ixn\bin;C:\MentorGraphics\PADSVX.2.1\MGC_HOME.ixn\lib;C:\MentorGraphics\PADSVX.2.1\SDD_HOME\wv\win32\bin;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\ProgramData\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Skype\Phone\]
+[2017.04.17 22:22:45] [0000m.10s.213ms] [1] SDD_HOME [C:\MentorGraphics\PADSVX.2.1\SDD_HOME] on file system [NTFS]
+[2017.04.17 22:22:45] [0000m.10s.213ms] [1] SDD_PLATFORM [win32]
+[2017.04.17 22:22:45] [0000m.10s.213ms] [1] WDIR [C:\Users\Scott Sun\PADS Projects;C:\MentorGraphics\PADSVX.2.1\SDD_HOME\standard;]
+[2017.04.17 22:22:45] [0000m.10s.213ms] [1] Local iCDB working dir [C:\Users\Scott Sun\PADS Projects\iCDB] on file system [NTFS]
+[2017.04.17 22:22:45] [0000m.10s.213ms] [3] WARNING: Database [C:\Users\Scott Sun\Documents\ES96-Electronics\Thermistor_Board\database\icdb.dat] was manually copied
+[2017.04.17 22:22:45] [0000m.10s.213ms] [3] File change time:        [2017-04-17 22.22.28]
+[2017.04.17 22:22:45] [0000m.10s.213ms] [3] File modification time:  [2017-04-17 22.22.29]
+[2017.04.17 22:22:45] [0000m.10s.213ms] [3] Last change time:        [2017-04-17 22.10.28]
+[2017.04.17 22:22:45] [0000m.10s.213ms] [3] Last database open information:
+[2017.04.17 22:22:45] [0000m.10s.213ms] [3] Time:             [2017-04-17 21.11.48]
+[2017.04.17 22:22:45] [0000m.10s.213ms] [3] Location:         [C:\Users\Scott Sun\Documents\ES96-Electronics\Thermistor_Board\database\icdb.dat]
+[2017.04.17 22:22:45] [0000m.10s.213ms] [3] Machine:          [SCOTT-PC]
+[2017.04.17 22:22:45] [0000m.10s.213ms] [3] User:             [Scott Sun]
+[2017.04.17 22:22:45] [0000m.10s.213ms] [3] PID:              [4980]
+[2017.04.17 22:22:45] [0000m.10s.213ms] [3] Application:      [iCDB Server]
+[2017.04.17 22:22:45] [0000m.10s.213ms] [3] Operating system: [Microsoft Business Edition, 64-bit (build 9200)]
+[2017.04.17 22:22:45] [0000m.10s.213ms] [3] WARNING: Regenerating database GUID
+[2017.04.17 22:22:45] [0000m.10s.213ms] [3] Previous database GUID [bab0-0555-0f63-fdc6-4d76-5f89-d765-f850-a9d1-6060-adc8-ea6a]
+[2017.04.17 22:22:45] [0000m.10s.213ms] [3] Current database GUID  [8429-7983-9810-ee93-5787-5f8a-7875-f850-a2a1-6060-adc8-ea6a]
+[2017.04.17 22:22:45] [0000m.10s.213ms] [0] .

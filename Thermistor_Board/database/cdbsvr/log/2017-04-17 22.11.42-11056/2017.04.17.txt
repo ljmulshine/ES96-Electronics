@@ -1,0 +1,185 @@
+[2017.04.17 22:11:42] [0000m.00s.065ms] [0] WELCOME
+[2017.04.17 22:11:42] [0000m.00s.066ms] [1] iCDB Server ver.2.201, lYZcYElozbUGw/8yVGHxgA, build:5682207 created 2016-11-13 13:59:10, sources stamp:lYZcYElozbUGw/8yVGHxgA
+[2017.04.17 22:11:42] [0000m.00s.066ms] [1] Copyright 2016 Mentor Graphics Corporation.  All Rights Reserved.
+[2017.04.17 22:11:42] [0000m.00s.066ms] [1] Base flow version [VX.2.1]
+[2017.04.17 22:11:42] [0000m.00s.066ms] [1] Install Id [1468892], Flow Id [PADS VX.2.1], Full Flow Name [PADS VX.2.1], Exact Access Date [2016/11/01]
+[2017.04.17 22:11:42] [0000m.00s.075ms] [1] Machine [SCOTT-PC]  IP [10.251.58.11,127.0.0.1]  User [Scott Sun]  PID [11056]
+[2017.04.17 22:11:42] [0000m.00s.075ms] [1] Operating system [Microsoft Business Edition, 64-bit (build 9200)]
+[2017.04.17 22:11:42] [0000m.00s.075ms] [1] Current working dir [C:\Users\Scott Sun\Documents\ES96-Electronics\Thermistor_Board]
+[2017.04.17 22:11:42] [0000m.00s.076ms] [1] PATH [C:\MentorGraphics\PADSVX.2.1\SDD_HOME\common\win32\bin;C:\MentorGraphics\PADSVX.2.1\SDD_HOME\common\win32\lib;C:\MentorGraphics\PADSVX.2.1\MGC_HOME.ixn\bin;C:\MentorGraphics\PADSVX.2.1\MGC_HOME.ixn\lib;C:\MentorGraphics\PADSVX.2.1\SDD_HOME\wv\win32\bin;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\ProgramData\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Skype\Phone\]
+[2017.04.17 22:11:42] [0000m.00s.076ms] [1] SDD_HOME [C:\MentorGraphics\PADSVX.2.1\SDD_HOME] on file system [NTFS]
+[2017.04.17 22:11:42] [0000m.00s.076ms] [1] SDD_PLATFORM [win32]
+[2017.04.17 22:11:42] [0000m.00s.076ms] [1] WDIR [C:\Users\Scott Sun\PADS Projects;C:\MentorGraphics\PADSVX.2.1\SDD_HOME\standard;]
+[2017.04.17 22:11:42] [0000m.00s.076ms] [1] Local iCDB working dir [C:\Users\Scott Sun\PADS Projects\iCDB] on file system [NTFS]
+[2017.04.17 22:11:42] [0000m.00s.076ms] [2] S: Loading config files
+[2017.04.17 22:11:42] [0000m.00s.078ms] [1] Config file [C:\Users\Scott Sun\Documents\ES96-Electronics\Thermistor_Board\database\cdbsvr\Server.cfg] not found
+[2017.04.17 22:11:42] [0000m.00s.079ms] [3] S: Config loaded
+[2017.04.17 22:11:42] [0000m.00s.086ms] [0] S: Project path [C:\Users\Scott Sun\Documents\ES96-Electronics\Thermistor_Board\database] on file system [NTFS]
+[2017.04.17 22:11:42] [0000m.00s.086ms] [0] S: Project file (.prj) path [C:\Users\Scott Sun\Documents\ES96-Electronics\Thermistor_Board\Thermistor_Board.prj] on file system [NTFS]
+[2017.04.17 22:11:42] [0000m.00s.087ms] [1] S: WARNING: Database auto-repair support DISABLED
+[2017.04.17 22:11:42] [0000m.00s.087ms] [0] S: Single-user mode (auto)
+[2017.04.17 22:11:42] [0000m.00s.087ms] [0] S: Event polling mode autodetection
+[2017.04.17 22:11:42] [0000m.00s.087ms] [0] S: Started up automatically by iCDB Client: SCOTT-PC:Scott Sun:6456
+[2017.04.17 22:11:42] [0000m.00s.087ms] [0] S: Auto close mode
+[2017.04.17 22:11:42] [0000m.00s.087ms] [0] S: Database ID [bab0-0555-0f63-fdc6-4d76-5f89-d765-f850-a9d1-6060-adc8-ea6a]
+[2017.04.17 22:11:42] [0000m.00s.087ms] [0] PathTranslator: BEGIN dumping
+[2017.04.17 22:11:42] [0000m.00s.087ms] [0] PathTranslator: Local -> global path prefix list
+[2017.04.17 22:11:42] [0000m.00s.087ms] [0] PathTranslator: [C:\Windows\system32\spool\drivers] -> [\\SCOTT-PC\print$]
+[2017.04.17 22:11:42] [0000m.00s.087ms] [0] PathTranslator: Global -> local path prefix list
+[2017.04.17 22:11:42] [0000m.00s.087ms] [0] PathTranslator: [\\SCOTT-PC\print$] -> [C:\Windows\system32\spool\drivers]
+[2017.04.17 22:11:42] [0000m.00s.087ms] [0] PathTranslator: END dumping
+[2017.04.17 22:11:42] [0000m.00s.087ms] [0] S: START
+[2017.04.17 22:11:42] [0000m.00s.088ms] [0] S: Server startup lock file created
+[2017.04.17 22:11:42] [0000m.00s.088ms] [0] S: Listening for client connections on port [10001]
+[2017.04.17 22:11:42] [0000m.00s.089ms] [0] S: Server network ID [Scott-PC:10.251.58.11,Scott-PC:10001]
+[2017.04.17 22:11:42] [0000m.00s.089ms] [0] S: Server GUID [0e4d-5362-336d-8950-ed57-5f83-e575-f850-25e1-6060-adc8-ea6a]
+[2017.04.17 22:11:42] [0000m.00s.089ms] [0] S: Project GUID [bab0-0555-0f63-fdc6-4d76-5f89-d765-f850-a9d1-6060-adc8-ea6a]
+[2017.04.17 22:11:42] [0000m.00s.091ms] [0] S: Wrote data to server address file
+[2017.04.17 22:11:42] [0000m.00s.091ms] [0] S: Server startup lock file removed
+[2017.04.17 22:11:42] [0000m.00s.091ms] [1] ProjectBackupManager: Setting project file (.prj) path: [C:\Users\Scott Sun\Documents\ES96-Electronics\Thermistor_Board\Thermistor_Board.prj]
+[2017.04.17 22:11:42] [0000m.00s.155ms] [0] S: Plugins loaded: [PIM] [ENetGen70] 
+[2017.04.17 22:11:42] [0000m.00s.155ms] [0] S: Local disc access time: 56 us
+[2017.04.17 22:11:42] [0000m.00s.155ms] [0] S: File server access time: 56 us
+[2017.04.17 22:11:42] [0000m.00s.156ms] [0] Single file [C:\Users\Scott Sun\Documents\ES96-Electronics\Thermistor_Board\database\icdb.dat] size [68720 (67.1 kB)]
+[2017.04.17 22:11:42] [0000m.00s.156ms] [1] Single file [C:\Users\Scott Sun\Documents\ES96-Electronics\Thermistor_Board\database\icdb.dat] opened in read-write mode
+[2017.04.17 22:11:42] [0000m.00s.156ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2017.04.17 22:11:42] [0000m.00s.156ms] [0] Database GUARD OK: [68720]
+[2017.04.17 22:11:42] [0000m.00s.157ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2017.04.17 22:11:42] [0000m.00s.157ms] [0] Database GUARD OK: [68720]
+[2017.04.17 22:11:42] [0000m.00s.157ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2017.04.17 22:11:42] [0000m.00s.157ms] [0] Database GUARD OK: [68720]
+[2017.04.17 22:11:42] [0000m.00s.157ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2017.04.17 22:11:42] [0000m.00s.157ms] [0] Database GUARD OK: [68720]
+[2017.04.17 22:11:42] [0000m.00s.158ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2017.04.17 22:11:42] [0000m.00s.158ms] [0] Database GUARD OK: [68720]
+[2017.04.17 22:11:42] [0000m.00s.158ms] [0] SingleFile: [9119-b44f-74a1-d191] SFI version check [1009] [1009]
+[2017.04.17 22:11:42] [0000m.00s.158ms] [0] SingleFile: [9119-b44f-74a1-d191] Database SFI header has been read in [865us]
+[2017.04.17 22:11:42] [0000m.00s.163ms] [0] iCDB Server PI: Server & plugin session [18]
+[2017.04.17 22:11:42] [0000m.00s.163ms] [0] iCDB Server PI: Opening database [C:\Users\Scott Sun\Documents\ES96-Electronics\Thermistor_Board\database]
+[2017.04.17 22:11:42] [0000m.00s.163ms] [0] iCDB Server PI: Database [C:\Users\Scott Sun\Documents\ES96-Electronics\Thermistor_Board\database] opened
+[2017.04.17 22:11:42] [0000m.00s.177ms] [0] iCDB Database: Checking existence of constraint definitions
+[2017.04.17 22:11:42] [0000m.00s.177ms] [0] iCDB Database: Checking constraint definitions version
+[2017.04.17 22:11:42] [0000m.00s.213ms] [1] iCDB Database: Constraint definitions version [ce_ee.cns=7.10.56] up to date
+[2017.04.17 22:11:42] [0000m.00s.217ms] [0] iCDB Server PI: Initializing plugins
+[2017.04.17 22:11:42] [0000m.00s.217ms] [0] iCDB Server PI: Plugins initialized
+[2017.04.17 22:11:42] [0000m.00s.217ms] [0] S: iCDB database loaded
+[2017.04.17 22:11:42] [0000m.00s.218ms] [0] S: Starting threads
+[2017.04.17 22:11:42] [0000m.00s.219ms] [0] BT: Listening for broadcast messages on port [10000]
+[2017.04.17 22:11:42] [0000m.00s.219ms] [1] CMT: There are no clients - waiting [10 seconds]
+[2017.04.17 22:11:42] [0000m.00s.220ms] [0] IT: Session [19] for host [Scott-PC] user [Scott Sun] with process ID [6456] created
+[2017.04.17 22:11:42] [0000m.00s.222ms] [1] SC[19]: Registered sub-client [DxD] with ID [1] for session ID [19] host [Scott-PC] user [Scott Sun] process ID [6456]
+[2017.04.17 22:11:42] [0000m.00s.222ms] [0] IT: iCDB Server Monitor session [1] for host [Scott-PC] user [Scott Sun] with process ID [5752] created
+[2017.04.17 22:11:42] [0000m.00s.222ms] [1] DMT: There are [1] iCDB Server Monitor connected now
+[2017.04.17 22:11:42] [0000m.00s.224ms] [0] MWT: WindowProc: WM_NCCREATE
+[2017.04.17 22:11:42] [0000m.00s.272ms] [1] SC[19]: Registered sub-client [TransactionRollbackSubClient] with ID [2] for session ID [19] host [Scott-PC] user [Scott Sun] process ID [6456]
+[2017.04.17 22:11:42] [0000m.00s.276ms] [1] SC[19]: Registered sub-client [xprob] with ID [3] for session ID [19] host [Scott-PC] user [Scott Sun] process ID [6456]
+[2017.04.17 22:11:42] [0000m.00s.319ms] [1] CMT: There are [1] clients now: 19
+[2017.04.17 22:11:44] [0000m.02s.166ms] [1] SC[19]: Registered sub-client [SymbolEditor] with ID [4] for session ID [19] host [Scott-PC] user [Scott Sun] process ID [6456]
+[2017.04.17 22:11:44] [0000m.02s.171ms] [1] SC[19]: Registered sub-client [SelectionHolder] with ID [5] for session ID [19] host [Scott-PC] user [Scott Sun] process ID [6456]
+[2017.04.17 22:11:44] [0000m.02s.225ms] [1] SC[19]: Registered sub-client [SystemDesignDll] with ID [6] for session ID [19] host [Scott-PC] user [Scott Sun] process ID [6456]
+[2017.04.17 22:11:44] [0000m.02s.226ms] [1] SC[19]: UnRegistered sub-client [SystemDesignDll] with ID [6] for session ID [19] host [Scott-PC] user [Scott Sun] process ID [6456]
+[2017.04.17 22:11:44] [0000m.02s.229ms] [1] SC[19]: Registered sub-client [SystemDesignDll] with ID [7] for session ID [19] host [Scott-PC] user [Scott Sun] process ID [6456]
+[2017.04.17 22:11:46] [0000m.04s.622ms] [1] SC[19]: Registered sub-client [DesignSearcher2] with ID [8] for session ID [19] host [Scott-PC] user [Scott Sun] process ID [6456]
+[2017.04.17 22:11:46] [0000m.04s.631ms] [1] SC[19]: Registered sub-client [HdlProject] with ID [9] for session ID [19] host [Scott-PC] user [Scott Sun] process ID [6456]
+[2017.04.17 22:11:46] [0000m.04s.639ms] [1] SC[19]: Registered sub-client [Navigator] with ID [10] for session ID [19] host [Scott-PC] user [Scott Sun] process ID [6456]
+[2017.04.17 22:11:46] [0000m.04s.651ms] [1] SC[19]: Registered sub-client [OutputWindow] with ID [11] for session ID [19] host [Scott-PC] user [Scott Sun] process ID [6456]
+[2017.04.17 22:11:46] [0000m.04s.655ms] [1] SC[19]: Registered sub-client [PlaceDevice] with ID [12] for session ID [19] host [Scott-PC] user [Scott Sun] process ID [6456]
+[2017.04.17 22:11:47] [0000m.04s.770ms] [1] SC[19]: Registered sub-client [LocalSymbolsDataProvider] with ID [13] for session ID [19] host [Scott-PC] user [Scott Sun] process ID [6456]
+[2017.04.17 22:11:47] [0000m.04s.778ms] [1] SC[19]: Registered sub-client [FFSearch_Controller_0] with ID [14] for session ID [19] host [Scott-PC] user [Scott Sun] process ID [6456]
+[2017.04.17 22:11:47] [0000m.04s.784ms] [1] SC[19]: Registered sub-client [FFSearch_Controller_1] with ID [15] for session ID [19] host [Scott-PC] user [Scott Sun] process ID [6456]
+[2017.04.17 22:11:47] [0000m.05s.071ms] [1] SC[19]: Registered sub-client [FFSearch_Controller_2] with ID [16] for session ID [19] host [Scott-PC] user [Scott Sun] process ID [6456]
+[2017.04.17 22:11:47] [0000m.05s.075ms] [1] SC[19]: Registered sub-client [FFSearch_Controller_3] with ID [17] for session ID [19] host [Scott-PC] user [Scott Sun] process ID [6456]
+[2017.04.17 22:11:47] [0000m.05s.359ms] [1] SC[19]: Registered sub-client [FFSearch_Controller_4] with ID [18] for session ID [19] host [Scott-PC] user [Scott Sun] process ID [6456]
+[2017.04.17 22:11:47] [0000m.05s.364ms] [1] SC[19]: Registered sub-client [FFSearch_Controller_5] with ID [19] for session ID [19] host [Scott-PC] user [Scott Sun] process ID [6456]
+[2017.04.17 22:11:47] [0000m.05s.686ms] [1] SC[19]: Registered sub-client [FFSearch_Controller_6] with ID [20] for session ID [19] host [Scott-PC] user [Scott Sun] process ID [6456]
+[2017.04.17 22:11:47] [0000m.05s.691ms] [1] SC[19]: Registered sub-client [FFSearch_Controller_7] with ID [21] for session ID [19] host [Scott-PC] user [Scott Sun] process ID [6456]
+[2017.04.17 22:11:48] [0000m.05s.985ms] [1] SC[19]: Registered sub-client [FFSearch_Controller_8] with ID [22] for session ID [19] host [Scott-PC] user [Scott Sun] process ID [6456]
+[2017.04.17 22:11:48] [0000m.05s.989ms] [1] SC[19]: Registered sub-client [FFSearch_Controller_9] with ID [23] for session ID [19] host [Scott-PC] user [Scott Sun] process ID [6456]
+[2017.04.17 22:11:48] [0000m.06s.292ms] [1] SC[19]: Registered sub-client [SAE] with ID [24] for session ID [19] host [Scott-PC] user [Scott Sun] process ID [6456]
+[2017.04.17 22:11:48] [0000m.06s.312ms] [1] SC[19]: Registered sub-client [DxConstraints] with ID [25] for session ID [19] host [Scott-PC] user [Scott Sun] process ID [6456]
+[2017.04.17 22:11:48] [0000m.06s.316ms] [1] SC[19]: Registered sub-client [CCZAddin] with ID [26] for session ID [19] host [Scott-PC] user [Scott Sun] process ID [6456]
+[2017.04.17 22:11:48] [0000m.06s.321ms] [1] SC[19]: Registered sub-client [DxThumbnails] with ID [27] for session ID [19] host [Scott-PC] user [Scott Sun] process ID [6456]
+[2017.04.17 22:11:48] [0000m.06s.325ms] [1] SC[19]: Registered sub-client [MyParts] with ID [28] for session ID [19] host [Scott-PC] user [Scott Sun] process ID [6456]
+[2017.04.17 22:11:48] [0000m.06s.355ms] [1] SC[19]: Registered sub-client [PinsList] with ID [29] for session ID [19] host [Scott-PC] user [Scott Sun] process ID [6456]
+[2017.04.17 22:11:48] [0000m.06s.479ms] [1] SC[19]: Registered sub-client [toolboxes] with ID [30] for session ID [19] host [Scott-PC] user [Scott Sun] process ID [6456]
+[2017.04.17 22:11:48] [0000m.06s.510ms] [1] SC[19]: Registered sub-client [ProjectIntegrationIcdbCacheDxD:485779616] with ID [31] for session ID [19] host [Scott-PC] user [Scott Sun] process ID [6456]
+[2017.04.17 22:11:48] [0000m.06s.555ms] [1] SC[19]: Registered sub-client [SheetConnectorsCacheDxD:1492481508] with ID [32] for session ID [19] host [Scott-PC] user [Scott Sun] process ID [6456]
+[2017.04.17 22:11:48] [0000m.06s.564ms] [1] SC[19]: Registered sub-client [NetsNamesCollectorDxD:1492481508] with ID [33] for session ID [19] host [Scott-PC] user [Scott Sun] process ID [6456]
+[2017.04.17 22:11:48] [0000m.06s.580ms] [1] SC[19]: Registered sub-client [PartReplaceUtils] with ID [34] for session ID [19] host [Scott-PC] user [Scott Sun] process ID [6456]
+[2017.04.17 22:11:48] [0000m.06s.648ms] [1] SC[19]: Registered sub-client [ObjectHolder_489889368] with ID [35] for session ID [19] host [Scott-PC] user [Scott Sun] process ID [6456]
+[2017.04.17 22:11:48] [0000m.06s.651ms] [1] SC[19]: Registered sub-client [BlockCacheDxD:489356656] with ID [36] for session ID [19] host [Scott-PC] user [Scott Sun] process ID [6456]
+[2017.04.17 22:11:48] [0000m.06s.655ms] [1] SC[19]: Registered sub-client [GlobalNetAliasUpdater_489889576] with ID [37] for session ID [19] host [Scott-PC] user [Scott Sun] process ID [6456]
+[2017.04.17 22:11:48] [0000m.06s.659ms] [1] SC[19]: Registered sub-client [IcdbNetProcessorSubClientDxD:484943248] with ID [38] for session ID [19] host [Scott-PC] user [Scott Sun] process ID [6456]
+[2017.04.17 22:11:49] [0000m.06s.972ms] [1] SC[19]: Registered sub-client [DxDbSearch] with ID [39] for session ID [19] host [Scott-PC] user [Scott Sun] process ID [6456]
+[2017.04.17 22:12:01] [0000m.19s.753ms] [0] DFAMT: File server access time: 65 us
+[2017.04.17 22:22:21] [0010m.38s.985ms] [1] SC[19]: UnRegistered sub-client [SystemDesignDll] with ID [7] for session ID [19] host [Scott-PC] user [Scott Sun] process ID [6456]
+[2017.04.17 22:22:21] [0010m.39s.291ms] [1] SC[19]: UnRegistered sub-client [DesignSearcher2] with ID [8] for session ID [19] host [Scott-PC] user [Scott Sun] process ID [6456]
+[2017.04.17 22:22:21] [0010m.39s.355ms] [1] SC[19]: UnRegistered sub-client [GlobalNetAliasUpdater_489889576] with ID [37] for session ID [19] host [Scott-PC] user [Scott Sun] process ID [6456]
+[2017.04.17 22:22:21] [0010m.39s.355ms] [1] SC[19]: UnRegistered sub-client [BlockCacheDxD:489356656] with ID [36] for session ID [19] host [Scott-PC] user [Scott Sun] process ID [6456]
+[2017.04.17 22:22:21] [0010m.39s.355ms] [1] SC[19]: UnRegistered sub-client [ObjectHolder_489889368] with ID [35] for session ID [19] host [Scott-PC] user [Scott Sun] process ID [6456]
+[2017.04.17 22:22:21] [0010m.39s.356ms] [1] SC[19]: UnRegistered sub-client [IcdbNetProcessorSubClientDxD:484943248] with ID [38] for session ID [19] host [Scott-PC] user [Scott Sun] process ID [6456]
+[2017.04.17 22:22:21] [0010m.39s.391ms] [1] SC[19]: UnRegistered sub-client [Navigator] with ID [10] for session ID [19] host [Scott-PC] user [Scott Sun] process ID [6456]
+[2017.04.17 22:22:21] [0010m.39s.440ms] [1] SC[19]: UnRegistered sub-client [LocalSymbolsDataProvider] with ID [13] for session ID [19] host [Scott-PC] user [Scott Sun] process ID [6456]
+[2017.04.17 22:22:21] [0010m.39s.443ms] [1] SC[19]: UnRegistered sub-client [FFSearch_Controller_0] with ID [14] for session ID [19] host [Scott-PC] user [Scott Sun] process ID [6456]
+[2017.04.17 22:22:21] [0010m.39s.445ms] [1] SC[19]: UnRegistered sub-client [FFSearch_Controller_1] with ID [15] for session ID [19] host [Scott-PC] user [Scott Sun] process ID [6456]
+[2017.04.17 22:22:21] [0010m.39s.449ms] [1] SC[19]: UnRegistered sub-client [FFSearch_Controller_2] with ID [16] for session ID [19] host [Scott-PC] user [Scott Sun] process ID [6456]
+[2017.04.17 22:22:21] [0010m.39s.451ms] [1] SC[19]: UnRegistered sub-client [FFSearch_Controller_3] with ID [17] for session ID [19] host [Scott-PC] user [Scott Sun] process ID [6456]
+[2017.04.17 22:22:21] [0010m.39s.452ms] [1] SC[19]: UnRegistered sub-client [FFSearch_Controller_4] with ID [18] for session ID [19] host [Scott-PC] user [Scott Sun] process ID [6456]
+[2017.04.17 22:22:21] [0010m.39s.453ms] [1] SC[19]: UnRegistered sub-client [FFSearch_Controller_5] with ID [19] for session ID [19] host [Scott-PC] user [Scott Sun] process ID [6456]
+[2017.04.17 22:22:21] [0010m.39s.454ms] [1] SC[19]: UnRegistered sub-client [FFSearch_Controller_6] with ID [20] for session ID [19] host [Scott-PC] user [Scott Sun] process ID [6456]
+[2017.04.17 22:22:21] [0010m.39s.456ms] [1] SC[19]: UnRegistered sub-client [FFSearch_Controller_7] with ID [21] for session ID [19] host [Scott-PC] user [Scott Sun] process ID [6456]
+[2017.04.17 22:22:21] [0010m.39s.457ms] [1] SC[19]: UnRegistered sub-client [FFSearch_Controller_8] with ID [22] for session ID [19] host [Scott-PC] user [Scott Sun] process ID [6456]
+[2017.04.17 22:22:21] [0010m.39s.459ms] [1] SC[19]: UnRegistered sub-client [FFSearch_Controller_9] with ID [23] for session ID [19] host [Scott-PC] user [Scott Sun] process ID [6456]
+[2017.04.17 22:22:21] [0010m.39s.662ms] [1] SC[19]: UnRegistered sub-client [MyParts] with ID [28] for session ID [19] host [Scott-PC] user [Scott Sun] process ID [6456]
+[2017.04.17 22:22:21] [0010m.39s.662ms] [1] SC[19]: UnRegistered sub-client [toolboxes] with ID [30] for session ID [19] host [Scott-PC] user [Scott Sun] process ID [6456]
+[2017.04.17 22:22:22] [0010m.40s.201ms] [1] SC[19]: UnRegistered sub-client [SelectionHolder] with ID [5] for session ID [19] host [Scott-PC] user [Scott Sun] process ID [6456]
+[2017.04.17 22:22:22] [0010m.40s.202ms] [1] SC[19]: UnRegistered sub-client [PartReplaceUtils] with ID [34] for session ID [19] host [Scott-PC] user [Scott Sun] process ID [6456]
+[2017.04.17 22:22:22] [0010m.40s.755ms] [1] SC[19]: UnRegistered sub-client [ProjectIntegrationIcdbCacheDxD:485779616] with ID [31] for session ID [19] host [Scott-PC] user [Scott Sun] process ID [6456]
+[2017.04.17 22:22:22] [0010m.40s.755ms] [1] SC[19]: UnRegistered sub-client [SheetConnectorsCacheDxD:1492481508] with ID [32] for session ID [19] host [Scott-PC] user [Scott Sun] process ID [6456]
+[2017.04.17 22:22:22] [0010m.40s.756ms] [1] SC[19]: UnRegistered sub-client [NetsNamesCollectorDxD:1492481508] with ID [33] for session ID [19] host [Scott-PC] user [Scott Sun] process ID [6456]
+[2017.04.17 22:22:22] [0010m.40s.756ms] [1] SC[19]: UnRegistered sub-client [TransactionRollbackSubClient] with ID [2] for session ID [19] host [Scott-PC] user [Scott Sun] process ID [6456]
+[2017.04.17 22:22:22] [0010m.40s.757ms] [1] SC[19]: UnRegistered sub-client [DxD] with ID [1] for session ID [19] host [Scott-PC] user [Scott Sun] process ID [6456]
+[2017.04.17 22:22:23] [0010m.40s.775ms] [1] SC[19]: UnRegistered sub-client [xprob] with ID [3] for session ID [19] host [Scott-PC] user [Scott Sun] process ID [6456]
+[2017.04.17 22:22:23] [0010m.40s.775ms] [1] SC[19]: UnRegistered sub-client [SymbolEditor] with ID [4] for session ID [19] host [Scott-PC] user [Scott Sun] process ID [6456]
+[2017.04.17 22:22:23] [0010m.40s.791ms] [1] SC[19]: UnRegistered sub-client [OutputWindow] with ID [11] for session ID [19] host [Scott-PC] user [Scott Sun] process ID [6456]
+[2017.04.17 22:22:23] [0010m.40s.889ms] [1] SC[19]: UnRegistered sub-client [DxDbSearch] with ID [39] for session ID [19] host [Scott-PC] user [Scott Sun] process ID [6456]
+[2017.04.17 22:22:23] [0010m.40s.940ms] [1] SC[19]: UnRegistered sub-client [SAE] with ID [24] for session ID [19] host [Scott-PC] user [Scott Sun] process ID [6456]
+[2017.04.17 22:22:23] [0010m.40s.959ms] [1] SC[19]: UnRegistered sub-client [CCZAddin] with ID [26] for session ID [19] host [Scott-PC] user [Scott Sun] process ID [6456]
+[2017.04.17 22:22:23] [0010m.40s.965ms] [1] SC[19]: UnRegistered sub-client [DxThumbnails] with ID [27] for session ID [19] host [Scott-PC] user [Scott Sun] process ID [6456]
+[2017.04.17 22:22:26] [0010m.43s.916ms] [1] SC[19]: UnRegistered sub-client [DxConstraints] with ID [25] for session ID [19] host [Scott-PC] user [Scott Sun] process ID [6456]
+[2017.04.17 22:22:26] [0010m.43s.927ms] [1] SC[19]: UnRegistered sub-client [PinsList] with ID [29] for session ID [19] host [Scott-PC] user [Scott Sun] process ID [6456]
+[2017.04.17 22:22:26] [0010m.43s.954ms] [1] SC[19]: UnRegistered sub-client [PlaceDevice] with ID [12] for session ID [19] host [Scott-PC] user [Scott Sun] process ID [6456]
+[2017.04.17 22:22:26] [0010m.43s.973ms] [1] SC[19]: UnRegistered sub-client [HdlProject] with ID [9] for session ID [19] host [Scott-PC] user [Scott Sun] process ID [6456]
+[2017.04.17 22:22:26] [0010m.44s.023ms] [1] CMT: Removed client [19]
+[2017.04.17 22:22:26] [0010m.44s.023ms] [1] CMT: There are no clients left - waiting [1 seconds]
+[2017.04.17 22:22:26] [0010m.44s.179ms] [1] SDL: The last connected iCDB Server Monitor [1] is waiting for server close
+[2017.04.17 22:22:28] [0010m.45s.827ms] [0] CMT: Starting server auto-close
+[2017.04.17 22:22:28] [0010m.45s.911ms] [0] S: Closing server
+[2017.04.17 22:22:28] [0010m.45s.937ms] [0] iCDB Server PI: Closing plugins
+[2017.04.17 22:22:28] [0010m.45s.937ms] [0] iCDB Server PI: Plugins closed
+[2017.04.17 22:22:28] [0010m.45s.937ms] [0] iCDB Server PI: Unloading database
+[2017.04.17 22:22:28] [0010m.45s.937ms] [0] iCDB Server PI: Saving storage
+[2017.04.17 22:22:28] [0010m.45s.937ms] [0] iCDB Server PI: Closing database
+[2017.04.17 22:22:28] [0010m.45s.939ms] [1] iCDB Server PI: Stats: Database defragmentation: max[3] avg[1] holes[71%] data[95%]
+[2017.04.17 22:22:28] [0010m.45s.939ms] [1] iCDB Server PI: Stats: Database file size [90320 (88.2 kB)]
+[2017.04.17 22:22:28] [0010m.45s.940ms] [1] iCDB Server PI: WARNING: Database needs defragmentation!
+[2017.04.17 22:22:28] [0010m.45s.942ms] [0] iCDB Server PI: Database closed
+[2017.04.17 22:22:28] [0010m.45s.942ms] [0] iCDB Server PI: Defragmenting database
+[2017.04.17 22:22:28] [0010m.45s.942ms] [0] iCDB Server PI: Creating database [C:\Users\Scott Sun\Documents\ES96-Electronics\Thermistor_Board\database] backup to file [C:\Users\Scott Sun\Documents\ES96-Electronics\Thermistor_Board\database\cdbback\2017-04-17 22.22.28-11056-d.zip]
+[2017.04.17 22:22:28] [0010m.45s.956ms] [0] iCDB Server PI: Database backup: DONE
+[2017.04.17 22:22:28] [0010m.45s.959ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2017.04.17 22:22:28] [0010m.45s.959ms] [0] Database GUARD OK: [90320]
+[2017.04.17 22:22:28] [0010m.45s.959ms] [0] SingleFile: [9119-b44f-74a1-d191] SFI version check [1009] [1009]
+[2017.04.17 22:22:28] [0010m.45s.960ms] [0] SingleFile: [9119-b44f-74a1-d191] Database SFI header has been read in [1ms 526us]
+[2017.04.17 22:22:28] [0010m.46s.324ms] [1] iCDB Server PI: Stats: Database file sizes: before[90320 (88.2 kB)], after[67952 (66.4 kB)], gain[22368 (21.8 kB)]
+[2017.04.17 22:22:28] [0010m.46s.328ms] [0] Single file [C:\Users\Scott Sun\Documents\ES96-Electronics\Thermistor_Board\database\icdb.dat] closed with size [67952 (66.4 kB)]
+[2017.04.17 22:22:28] [0010m.46s.328ms] [0] iCDB Server PI: Database defragmentation completed successfully
+[2017.04.17 22:22:28] [0010m.46s.328ms] [1] BackupTransaction: Removing database backup [C:\Users\Scott Sun\Documents\ES96-Electronics\Thermistor_Board\database\cdbback\2017-04-17 22.22.28-11056-d.zip]
+[2017.04.17 22:22:28] [0010m.46s.329ms] [1] iCDB Server PI: Stats: Total iCDB execution time: [41194] ticks
+[2017.04.17 22:22:28] [0010m.46s.329ms] [1] iCDB Server PI: Stats: Total iCDB execution time: [17576] microseconds
+[2017.04.17 22:22:28] [0010m.46s.329ms] [1] iCDB Server PI: Stats: Total iCDB commands count: [242]
+[2017.04.17 22:22:28] [0010m.46s.329ms] [1] iCDB Server PI: Stats: Average iCDB speed:        [13768] commands per second
+[2017.04.17 22:22:28] [0010m.46s.375ms] [1] SD[1]: Removing the last connected iCDB Server Monitor [1]
+[2017.04.17 22:22:28] [0010m.46s.545ms] [0] MWT: Destroy the shutdown block reason.
+[2017.04.17 22:22:28] [0010m.46s.546ms] [0] MWT: STOP
+[2017.04.17 22:22:28] [0010m.46s.546ms] [0] S: STOP
