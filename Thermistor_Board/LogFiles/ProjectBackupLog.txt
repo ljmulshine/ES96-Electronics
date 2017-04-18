@@ -10,3 +10,22 @@
 [2017-04-18 02.44.51] Successfully created [AutoSave] backup [2017-04-18 02.44.51 - auto.zip] requested by [SCOTT-PC:Scott Sun].
 [2017-04-18 02.44.51] Removing excessive [AutoSave] backup file [C:\Users\Scott Sun\Documents\ES96-Electronics\Thermistor_Board\ProjectBackup\backups\2017-04-17 10.46.45 - auto.zip].
 [2017-04-18 02.44.51] [AutoSave] backup file [Thermistor_Board\ProjectBackup\backups\2017-04-17 10.46.45 - auto.zip] removed.
+[2017-04-18 17.47.20] Successfully created [Symbol Update] backup [2017-04-18 17.47.15 - symUpd.zip] requested by [DESKTOP-44HKI68:Liam James Mulshine].
+[2017-04-18 17.47.20] Removing excessive [AutoSave] backup file [C:\Users\Liam James Mulshine\Documents\ES96\ES96-Electronics\Thermistor_Board\ProjectBackup\backups\2017-04-17 18.44.51 - auto.zip].
+[2017-04-18 17.47.20] [AutoSave] backup file [Thermistor_Board\ProjectBackup\backups\2017-04-17 18.44.51 - auto.zip] removed.
+[2017-04-18 17.47.21] Removing excessive [AutoSave] backup file [C:\Users\Liam James Mulshine\Documents\ES96\ES96-Electronics\Thermistor_Board\ProjectBackup\backups\2017-04-17 22.44.51 - auto.zip].
+[2017-04-18 17.47.21] [AutoSave] backup file [Thermistor_Board\ProjectBackup\backups\2017-04-17 22.44.51 - auto.zip] removed.
+[2017-04-18 17.47.21] Removing excessive [Symbol Update] backup file [C:\Users\Liam James Mulshine\Documents\ES96\ES96-Electronics\Thermistor_Board\ProjectBackup\backups\2017-04-18 14.44.01 - symUpd.zip].
+[2017-04-18 17.47.21] [Symbol Update] backup file [Thermistor_Board\ProjectBackup\backups\2017-04-18 14.44.01 - symUpd.zip] removed.
+[2017-04-18 17.55.56] Successfully created [Symbol Update] backup [2017-04-18 17.55.54 - symUpd.zip] requested by [DESKTOP-44HKI68:Liam James Mulshine].
+[2017-04-18 17.55.56] Removing excessive [Symbol Update] backup file [C:\Users\Liam James Mulshine\Documents\ES96\ES96-Electronics\Thermistor_Board\ProjectBackup\backups\2017-04-18 17.47.15 - symUpd.zip].
+[2017-04-18 17.55.56] [Symbol Update] backup file [Thermistor_Board\ProjectBackup\backups\2017-04-18 17.47.15 - symUpd.zip] removed.
+[2017-04-18 18.02.54] Successfully created [AutoSave] backup [2017-04-18 18.02.54 - auto.zip] requested by [DESKTOP-44HKI68:Liam James Mulshine].
+[2017-04-18 18.02.54] Removing excessive [AutoSave] backup file [C:\Users\Liam James Mulshine\Documents\ES96\ES96-Electronics\Thermistor_Board\ProjectBackup\backups\2017-04-17 23.05.10 - auto.zip].
+[2017-04-18 18.02.54] [AutoSave] backup file [Thermistor_Board\ProjectBackup\backups\2017-04-17 23.05.10 - auto.zip] removed.
+[2017-04-18 18.11.13] Successfully created [Symbol Update] backup [2017-04-18 18.11.13 - symUpd.zip] requested by [DESKTOP-44HKI68:Liam James Mulshine].
+[2017-04-18 18.11.13] Removing excessive [Symbol Update] backup file [C:\Users\Liam James Mulshine\Documents\ES96\ES96-Electronics\Thermistor_Board\ProjectBackup\backups\2017-04-18 17.55.54 - symUpd.zip].
+[2017-04-18 18.11.13] [Symbol Update] backup file [Thermistor_Board\ProjectBackup\backups\2017-04-18 17.55.54 - symUpd.zip] removed.
+[2017-04-18 18.19.18] Successfully created [Symbol Update] backup [2017-04-18 18.19.17 - symUpd.zip] requested by [DESKTOP-44HKI68:Liam James Mulshine].
+[2017-04-18 18.19.18] Removing excessive [Symbol Update] backup file [C:\Users\Liam James Mulshine\Documents\ES96\ES96-Electronics\Thermistor_Board\ProjectBackup\backups\2017-04-18 18.11.13 - symUpd.zip].
+[2017-04-18 18.19.18] [Symbol Update] backup file [Thermistor_Board\ProjectBackup\backups\2017-04-18 18.11.13 - symUpd.zip] removed.
