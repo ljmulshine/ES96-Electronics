@@ -187,3 +187,10 @@ This symbol represents a Global Signal and cannot be named. To change the signal
 <p>Data Source: "Parametric Data:Display" needs yours attention <a href="handler:FFSDSRepairer(Parametric Data:Display)" onClick="window.external.OnLinkClick(this);"><b>Click here to check Data Source.</b></a></p><!#!><raw_html>RAW_HTML</raw_html><scroll>SCROLL_END</scroll>
 <p>Data Source: "Parametric Data:IC" needs yours attention <a href="handler:FFSDSRepairer(Parametric Data:IC)" onClick="window.external.OnLinkClick(this);"><b>Click here to check Data Source.</b></a></p><!#!><raw_html>RAW_HTML</raw_html><scroll>SCROLL_END</scroll>
 <p>Data Source: "Parametric Data:Resistor" needs yours attention <a href="handler:FFSDSRepairer(Parametric Data:Resistor)" onClick="window.external.OnLinkClick(this);"><b>Click here to check Data Source.</b></a></p><!#!><raw_html>RAW_HTML</raw_html><scroll>SCROLL_END</scroll>
+<p>Data Source: "Parametric Data:Oscillator" needs yours attention <a href="handler:FFSDSRepairer(Parametric Data:Oscillator)" onClick="window.external.OnLinkClick(this);"><b>Click here to check Data Source.</b></a></p><!#!><raw_html>RAW_HTML</raw_html><scroll>SCROLL_END</scroll>
+This symbol represents a Global Signal and cannot be named. To change the signal assignment modify the Global Signal Name property.
+Properties> Illegal property value, the regular expression for this property value is: (\u|\d|-|_|,|\?)*
+Properties> Illegal property value, the regular expression for this property value is: (\u|\d|-|_|,|\?)*
+Properties> Illegal property value, the regular expression for this property value is: (\u|\d|-|_|,|\?)*
+ICDB server [info]: Starting [Autosave] backup process
+ICDB server [info]: [AutoSave] backup of size [113.2 kB] created successfully in location [C:\Users\Scott Sun\Documents\ES96-Electronics\Thermistor_Board\ProjectBackup\backups\2017-04-18 02.44.51 - auto.zip]
