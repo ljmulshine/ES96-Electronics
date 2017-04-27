@@ -1,6 +1,13 @@
 SECTION DesignInfo
 LIST IndependentLibraries
 VALUE "DIR [W] . (Thermistor_Board)"
+VALUE "DIR [W] C:\Users\Scott Sun\Downloads\huarplib-20170427T171838Z-001\huarplib\SymbolLibs\Connector (HUARP_Connector)"
+VALUE "DIR [W] C:\Users\Scott Sun\Downloads\huarplib-20170427T171838Z-001\huarplib\SymbolLibs\Diode (HUARP_Diode)"
+VALUE "DIR [W] C:\Users\Scott Sun\Downloads\huarplib-20170427T171838Z-001\huarplib\SymbolLibs\IC (HUARP_IC)"
+VALUE "DIR [W] C:\Users\Scott Sun\Downloads\huarplib-20170427T171838Z-001\huarplib\SymbolLibs\Globals (HUARP_Globals)"
+VALUE "DIR [W] C:\Users\Scott Sun\Downloads\huarplib-20170427T171838Z-001\huarplib\SymbolLibs\Misc (HUARP_Misc)"
+VALUE "DIR [W] C:\Users\Scott Sun\Downloads\huarplib-20170427T171838Z-001\huarplib\SymbolLibs\Passive (HUARP_Passive)"
+VALUE "DIR [W] C:\Users\Scott Sun\Downloads\huarplib-20170427T171838Z-001\huarplib\SymbolLibs\Transistor (HUARP_Transistor)"
 VALUE "DIR [W] ${SDD_HOME}\Libraries\xDX_Designer\SymbolLibrary\Audio (Audio)"
 VALUE "DIR [W] ${SDD_HOME}\Libraries\xDX_Designer\SymbolLibrary\Battery (Battery)"
 VALUE "DIR [W] ${SDD_HOME}\Libraries\xDX_Designer\SymbolLibrary\Borders (Borders)"
@@ -34,7 +41,7 @@ KEY DxD_Version "PADSVX.2.1"
 KEY NumberingType "INDEPTH"
 KEY OrderFileName ".\"
 KEY PropertyDefinitions "${SDD_HOME}\Standard\netlist.prp"
-KEY DBCFile "${SDD_HOME}\Libraries\xDX_Designer\SymbolLibrary\StarterLibrary.dbc"
+KEY DBCFile "C:\Users\Scott Sun\Downloads\huarplib-20170427T171838Z-001\huarplib\huarplib.dbc"
 ENDSECTION
 SECTION FlowSettings
 KEY FlowType "NETLIST"

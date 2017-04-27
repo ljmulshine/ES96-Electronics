@@ -32,3 +32,5 @@
 [2017-04-19 21.14.25] Successfully created [AutoSave] backup [2017-04-19 21.14.22 - auto.zip] requested by [DESKTOP-44HKI68:Liam James Mulshine].
 [2017-04-19 21.14.25] Removing excessive [AutoSave] backup file [C:\Users\Liam James Mulshine\Documents\ES96\ES96-Electronics\Thermistor_Board\ProjectBackup\backups\2017-04-18 02.44.51 - auto.zip].
 [2017-04-19 21.14.25] [AutoSave] backup file [Thermistor_Board\ProjectBackup\backups\2017-04-18 02.44.51 - auto.zip] removed.
+[2017-04-20 13.57.35] Successfully created [AutoSave] backup [2017-04-20 13.57.35 - auto.zip] requested by [SCOTT-PC:Scott Sun].
+[2017-04-27 13.29.09] Successfully created [AutoSave] backup [2017-04-27 13.29.09 - auto.zip] requested by [SCOTT-PC:Scott Sun].
