@@ -34,3 +34,4 @@
 [2017-04-19 21.14.25] [AutoSave] backup file [Thermistor_Board\ProjectBackup\backups\2017-04-18 02.44.51 - auto.zip] removed.
 [2017-04-20 13.57.35] Successfully created [AutoSave] backup [2017-04-20 13.57.35 - auto.zip] requested by [SCOTT-PC:Scott Sun].
 [2017-04-27 13.29.09] Successfully created [AutoSave] backup [2017-04-27 13.29.09 - auto.zip] requested by [SCOTT-PC:Scott Sun].
+[2017-04-27 15.58.33] Successfully created [Symbol Update] backup [2017-04-27 15.58.33 - symUpd.zip] requested by [SCOTT-PC:Scott Sun].
