@@ -360,3 +360,6 @@ ICDB server [info]: Starting [SymbolUpdate] backup process
 ICDB server [info]: [Symbol Update] backup of size [138.9 kB] created successfully in location [C:\Users\Liam James Mulshine\Documents\ES96\ES96-Electronics\Thermistor_Board\ProjectBackup\backups\2017-04-27 16.08.17 - symUpd.zip]
 ICDB server [info]: Starting [SymbolUpdate] backup process
 ICDB server [info]: [Symbol Update] backup of size [120.2 kB] created successfully in location [C:\Users\Scott Sun\Documents\ES96-Electronics\Thermistor_Board\ProjectBackup\backups\2017-04-27 16.17.26 - symUpd.zip]
+ICDB server [info]: Starting [Autosave] backup process
+ICDB server [info]: [AutoSave] backup of size [126.4 kB] created successfully in location [C:\Users\Liam James Mulshine\Documents\ES96\ES96-Electronics\Thermistor_Board\ProjectBackup\backups\2017-05-04 19.43.19 - auto.zip]
+Properties> Illegal property value, the regular expression for this property value is: (\u|\d|-|_|,|\?)*

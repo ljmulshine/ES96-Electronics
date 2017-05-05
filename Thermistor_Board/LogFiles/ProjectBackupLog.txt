@@ -48,3 +48,4 @@
 [2017-04-27 16.08.17] Removing excessive [Symbol Update] backup file [C:\Users\Liam James Mulshine\Documents\ES96\ES96-Electronics\Thermistor_Board\ProjectBackup\backups\2017-04-27 16.07.30 - symUpd.zip].
 [2017-04-27 16.08.17] [Symbol Update] backup file [Thermistor_Board\ProjectBackup\backups\2017-04-27 16.07.30 - symUpd.zip] removed.
 [2017-04-27 16.17.26] Successfully created [Symbol Update] backup [2017-04-27 16.17.26 - symUpd.zip] requested by [SCOTT-PC:Scott Sun].
+[2017-05-04 19.43.19] Successfully created [AutoSave] backup [2017-05-04 19.43.19 - auto.zip] requested by [DESKTOP-44HKI68:Liam James Mulshine].
